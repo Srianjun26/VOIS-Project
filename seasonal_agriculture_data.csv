@@ -1,0 +1,1201 @@
+Farm_ID,Season,Region,Crop_Type,Farming_Practice,Rainfall_mm,Temperature_C,Humidity_pct,Soil_pH,Fertilizer_Usage_kg,Pesticide_Usage_kg,Irrigation_Water_m3,Yield_tons_per_ha,Production_Cost_USD,Revenue_USD
+FARM_1001,Rabi (Winter),Central Zone,Mustard,Organic,106.9,14.4,47.2,5.68,153.4,5.5,5238.8,6.69,1126.22,2329.12
+FARM_1002,Autumn,West Zone,Groundnut,Organic,222.9,23.8,55.3,5.95,190.0,10.4,3597.1,6.56,1079.73,2260.16
+FARM_1003,Zaid (Summer),Central Zone,Vegetables,Precision Farming,46.2,38.1,48.2,8.18,159.0,8.0,3578.6,4.46,1041.99,1519.42
+FARM_1004,Rabi (Winter),East Zone,Barley,Conventional,108.0,21.8,39.3,7.02,146.1,11.2,2751.4,6.76,975.69,2362.19
+FARM_1005,Kharif (Monsoon),North Zone,Pulses,Hydroponic,1214.4,31.9,77.2,6.46,184.1,9.6,2882.6,9.03,1038.57,3776.19
+FARM_1006,Kharif (Monsoon),East Zone,Rice,Precision Farming,907.4,23.8,80.3,6.28,169.8,6.5,3708.6,8.56,1011.98,2754.35
+FARM_1007,Kharif (Monsoon),East Zone,Maize,Organic,822.5,25.5,77.7,6.19,177.9,9.2,3310.1,8.65,1060.46,3167.09
+FARM_1008,Autumn,South Zone,Soybean,Conventional,254.6,21.6,59.0,7.29,122.9,10.5,1406.5,5.57,775.85,1746.37
+FARM_1009,Rabi (Winter),South Zone,Mustard,Conventional,92.3,21.4,47.5,6.63,134.0,7.2,5509.8,6.34,1101.77,2189.36
+FARM_1010,Zaid (Summer),South Zone,Sunflower,Conventional,35.6,37.5,43.7,8.11,79.3,8.8,5430.4,3.77,1058.4,1161.19
+FARM_1011,Kharif (Monsoon),South Zone,Cotton,Precision Farming,970.7,30.7,89.7,7.35,120.4,5.2,4870.1,7.58,1032.39,2714.75
+FARM_1012,Autumn,Central Zone,Soybean,Precision Farming,287.5,20.6,66.9,7.64,167.7,9.9,3138.0,5.84,1027.14,1851.87
+FARM_1013,Zaid (Summer),West Zone,Vegetables,Precision Farming,46.6,32.1,41.0,6.29,159.7,8.4,6476.2,4.82,1274.82,1374.43
+FARM_1014,Kharif (Monsoon),North Zone,Maize,Conventional,979.9,25.5,86.4,5.71,105.7,10.8,4286.2,7.27,1032.87,2865.38
+FARM_1015,Kharif (Monsoon),East Zone,Maize,Organic,701.6,27.3,81.9,6.82,184.9,9.8,3500.1,7.58,1095.58,2258.5
+FARM_1016,Kharif (Monsoon),Central Zone,Pulses,Precision Farming,791.8,22.7,84.6,6.35,244.1,7.5,4779.1,9.0,1257.07,2983.73
+FARM_1017,Kharif (Monsoon),North Zone,Rice,Organic,756.5,30.2,73.7,6.05,108.4,6.4,4710.3,7.37,981.0,2555.95
+FARM_1018,Rabi (Winter),Central Zone,Chickpea,Conventional,106.3,21.4,57.7,8.07,132.8,5.8,1496.7,7.13,765.21,2428.1
+FARM_1019,Rabi (Winter),Central Zone,Mustard,Organic,132.5,19.4,47.4,6.7,118.2,7.2,4462.9,6.67,1034.86,2545.23
+FARM_1020,Kharif (Monsoon),East Zone,Maize,Conventional,866.5,28.4,78.1,5.97,136.7,10.7,4644.6,7.88,1070.7,2864.76
+FARM_1021,Rabi (Winter),West Zone,Wheat,Organic,116.6,18.3,54.6,6.04,149.6,4.1,4045.5,6.89,1002.03,2214.12
+FARM_1022,Kharif (Monsoon),South Zone,Cotton,Conventional,780.1,24.9,80.1,6.26,115.6,5.9,2914.3,7.07,871.98,2030.78
+FARM_1023,Kharif (Monsoon),West Zone,Cotton,Hydroponic,780.5,24.9,80.2,8.2,130.3,10.6,2949.6,7.43,977.65,2878.85
+FARM_1024,Rabi (Winter),East Zone,Mustard,Organic,214.3,16.5,67.0,6.22,143.1,11.8,5116.9,6.92,1168.51,2279.13
+FARM_1025,Rabi (Winter),East Zone,Barley,Organic,234.6,14.2,55.1,6.39,156.5,6.0,5413.9,6.69,1128.87,2706.52
+FARM_1026,Zaid (Summer),East Zone,Cucumber,Conventional,102.1,34.6,40.4,7.28,191.3,5.9,3962.4,4.75,1073.83,1592.71
+FARM_1027,Kharif (Monsoon),North Zone,Rice,Precision Farming,599.5,26.4,82.8,6.29,139.5,12.0,4958.8,7.37,1141.89,2804.08
+FARM_1028,Rabi (Winter),West Zone,Wheat,Organic,247.2,17.2,41.7,6.08,120.3,8.2,3950.5,6.46,1003.59,2658.54
+FARM_1029,Rabi (Winter),West Zone,Mustard,Conventional,93.8,17.9,64.4,5.93,164.4,6.3,3476.1,6.86,1015.25,2546.17
+FARM_1030,Kharif (Monsoon),Central Zone,Rice,Organic,945.6,29.4,86.5,6.34,154.0,11.1,4757.4,8.32,1119.43,2811.23
+FARM_1031,Rabi (Winter),Central Zone,Chickpea,Precision Farming,121.2,18.1,50.8,5.79,133.3,9.8,3121.1,6.62,962.22,2379.47
+FARM_1032,Kharif (Monsoon),Central Zone,Pulses,Conventional,809.3,25.0,78.3,5.55,157.0,10.3,6772.5,8.29,1314.96,2951.92
+FARM_1033,Kharif (Monsoon),East Zone,Rice,Precision Farming,845.8,26.9,79.2,7.67,126.6,6.4,2775.0,7.15,871.84,2587.4
+FARM_1034,Autumn,West Zone,Soybean,Hydroponic,332.4,28.7,74.2,5.87,121.4,9.4,4840.6,6.26,1025.88,1881.47
+FARM_1035,Autumn,East Zone,Soybean,Organic,360.9,21.2,62.5,7.6,73.5,11.6,4680.3,5.36,992.23,2024.96
+FARM_1036,Zaid (Summer),North Zone,Watermelon,Precision Farming,54.5,33.0,43.4,7.65,128.5,10.1,4573.8,4.46,1038.76,1339.37
+FARM_1037,Kharif (Monsoon),Central Zone,Cotton,Organic,610.9,33.1,86.0,6.95,78.3,10.8,6280.1,6.61,1090.09,1864.33
+FARM_1038,Kharif (Monsoon),East Zone,Pulses,Precision Farming,921.7,27.8,86.1,6.34,117.6,12.0,1276.5,7.74,829.24,2844.21
+FARM_1039,Rabi (Winter),East Zone,Barley,Conventional,177.6,22.4,54.5,5.89,160.3,9.6,4994.1,6.52,1203.28,1932.32
+FARM_1040,Rabi (Winter),North Zone,Mustard,Precision Farming,221.6,22.7,59.1,7.49,87.3,7.1,4171.9,6.31,953.26,2447.38
+FARM_1041,Kharif (Monsoon),South Zone,Maize,Organic,1038.4,26.7,74.2,7.12,133.4,10.7,5200.8,7.37,1082.2,2957.1
+FARM_1042,Rabi (Winter),West Zone,Barley,Organic,162.9,17.8,53.4,7.27,142.3,5.7,4565.6,7.39,1036.74,3046.62
+FARM_1043,Kharif (Monsoon),South Zone,Rice,Conventional,1032.4,28.5,81.3,5.52,131.6,7.9,4410.0,7.97,1023.3,2973.02
+FARM_1044,Autumn,Central Zone,Jute,Conventional,273.8,27.6,69.9,8.0,123.2,10.0,3051.2,5.93,906.0,2060.57
+FARM_1045,Kharif (Monsoon),East Zone,Cotton,Organic,981.0,26.5,86.5,5.68,151.4,1.0,3692.2,8.22,939.18,2707.01
+FARM_1046,Rabi (Winter),North Zone,Chickpea,Conventional,223.6,21.4,48.5,6.49,156.2,9.1,8257.8,6.9,1397.74,2406.23
+FARM_1047,Kharif (Monsoon),North Zone,Pulses,Organic,729.7,26.9,77.2,6.59,140.1,9.2,5211.7,7.09,1106.74,2174.14
+FARM_1048,Rabi (Winter),West Zone,Barley,Conventional,147.2,20.5,57.3,5.5,125.1,5.7,5763.1,5.91,1063.02,1943.08
+FARM_1049,Rabi (Winter),South Zone,Barley,Precision Farming,158.1,17.0,54.4,6.84,170.3,9.3,4077.7,7.21,1082.29,2743.48
+FARM_1050,Kharif (Monsoon),West Zone,Maize,Conventional,969.5,22.0,79.9,7.53,94.1,9.0,3473.3,7.6,905.14,2359.34
+FARM_1051,Autumn,East Zone,Groundnut,Organic,323.0,27.4,57.9,7.72,164.1,8.6,5431.7,6.25,1180.49,1981.06
+FARM_1052,Zaid (Summer),West Zone,Sunflower,Conventional,38.7,36.8,21.0,7.87,154.7,11.5,2215.5,4.26,964.62,1639.7
+FARM_1053,Autumn,North Zone,Soybean,Organic,406.6,25.7,75.9,6.82,147.0,10.7,3719.1,6.24,1047.19,1902.56
+FARM_1054,Autumn,North Zone,Sugarcane,Hydroponic,213.0,23.7,48.1,7.2,139.7,10.1,4074.5,5.41,1041.64,1701.04
+FARM_1055,Rabi (Winter),Central Zone,Chickpea,Organic,118.2,17.3,39.3,5.71,73.9,5.9,5634.0,5.25,988.58,1482.9
+FARM_1056,Autumn,Central Zone,Groundnut,Precision Farming,268.4,19.0,63.2,6.82,188.6,8.5,4996.5,6.11,1155.18,2326.73
+FARM_1057,Kharif (Monsoon),East Zone,Rice,Hydroponic,1022.1,27.9,88.3,5.92,169.4,11.5,3932.5,8.19,1085.15,3001.69
+FARM_1058,Kharif (Monsoon),South Zone,Pulses,Precision Farming,967.9,32.0,76.2,6.5,106.4,8.0,4942.8,8.05,1059.58,3036.57
+FARM_1059,Kharif (Monsoon),West Zone,Pulses,Conventional,731.6,29.0,72.1,6.39,166.6,12.4,4136.2,7.07,1146.62,2191.74
+FARM_1060,Kharif (Monsoon),East Zone,Rice,Precision Farming,920.7,27.0,86.6,6.64,146.6,10.2,5784.0,7.81,1204.47,2938.38
+FARM_1061,Rabi (Winter),Central Zone,Wheat,Hydroponic,177.2,22.4,49.0,7.04,119.6,12.8,4783.4,6.56,1091.35,2384.51
+FARM_1062,Kharif (Monsoon),West Zone,Cotton,Conventional,1007.2,32.3,79.8,7.94,181.7,5.8,6583.7,9.15,1298.58,3031.0
+FARM_1063,Zaid (Summer),Central Zone,Cucumber,Conventional,45.2,32.8,52.4,6.57,124.9,8.1,4166.6,3.87,985.33,1320.81
+FARM_1064,Rabi (Winter),West Zone,Mustard,Conventional,257.4,14.1,46.5,8.15,187.5,8.3,5970.5,6.8,1245.28,2444.66
+FARM_1065,Kharif (Monsoon),South Zone,Rice,Conventional,988.2,25.7,85.1,7.55,158.7,10.0,4608.5,8.38,1122.66,2925.13
+FARM_1066,Rabi (Winter),East Zone,Wheat,Conventional,168.6,17.9,58.5,6.88,173.5,6.7,3663.3,7.03,991.51,2600.09
+FARM_1067,Kharif (Monsoon),West Zone,Pulses,Conventional,907.0,27.5,71.2,7.24,160.3,4.5,7621.9,7.85,1281.22,2396.9
+FARM_1068,Zaid (Summer),North Zone,Vegetables,Organic,63.6,39.7,23.9,5.78,158.6,9.4,6071.7,4.56,1229.92,1621.99
+FARM_1069,Kharif (Monsoon),North Zone,Cotton,Organic,705.1,29.3,80.2,7.78,147.5,7.6,4781.2,7.63,1079.84,2617.39
+FARM_1070,Autumn,West Zone,Sugarcane,Organic,332.9,22.9,73.1,7.07,114.6,7.3,5419.2,5.87,1057.86,2022.47
+FARM_1071,Zaid (Summer),West Zone,Sunflower,Conventional,60.9,37.1,43.2,8.16,142.2,6.8,3201.6,4.33,983.99,1496.94
+FARM_1072,Kharif (Monsoon),West Zone,Pulses,Organic,876.3,29.9,80.9,7.22,172.1,8.8,3243.8,8.54,1052.22,3445.09
+FARM_1073,Kharif (Monsoon),North Zone,Maize,Conventional,671.5,31.3,84.1,7.75,165.2,5.8,5836.9,7.5,1218.25,2959.56
+FARM_1074,Zaid (Summer),North Zone,Cucumber,Conventional,17.9,33.0,50.4,7.66,157.5,8.0,4505.8,4.33,1088.23,1594.05
+FARM_1075,Zaid (Summer),West Zone,Sunflower,Precision Farming,23.5,37.8,38.6,6.43,66.6,6.4,4313.0,3.86,882.38,1467.99
+FARM_1076,Zaid (Summer),Central Zone,Cucumber,Organic,86.8,35.0,32.8,6.2,132.5,7.0,4154.5,3.73,1036.68,1066.75
+FARM_1077,Zaid (Summer),Central Zone,Watermelon,Organic,66.2,34.9,31.9,6.66,128.9,9.4,4682.5,4.43,1070.86,1701.82
+FARM_1078,Kharif (Monsoon),South Zone,Pulses,Precision Farming,1182.8,25.1,68.8,6.76,101.4,10.1,4194.9,7.79,968.42,2711.41
+FARM_1079,Rabi (Winter),East Zone,Mustard,Conventional,213.3,15.7,52.6,6.15,171.6,7.7,2061.4,6.5,896.85,2109.15
+FARM_1080,Kharif (Monsoon),Central Zone,Cotton,Organic,796.3,26.3,76.2,7.92,69.1,10.9,6199.1,6.75,1094.88,2022.09
+FARM_1081,Autumn,North Zone,Groundnut,Precision Farming,220.3,25.2,62.2,6.96,169.3,6.1,4367.3,5.73,1076.47,1664.73
+FARM_1082,Rabi (Winter),Central Zone,Chickpea,Precision Farming,179.2,19.9,47.6,8.14,186.5,4.7,6697.8,6.4,1279.6,1832.22
+FARM_1083,Kharif (Monsoon),South Zone,Cotton,Conventional,866.3,26.7,75.0,7.69,132.7,5.2,2385.4,7.15,837.85,2163.96
+FARM_1084,Kharif (Monsoon),South Zone,Rice,Conventional,953.4,27.6,78.0,7.0,137.4,5.8,2380.7,8.47,904.3,2407.34
+FARM_1085,Kharif (Monsoon),East Zone,Cotton,Hydroponic,721.7,24.9,89.9,8.06,173.9,5.2,4169.5,7.37,1032.07,2819.54
+FARM_1086,Kharif (Monsoon),Central Zone,Pulses,Conventional,900.1,24.7,81.4,6.86,113.3,13.6,5673.0,7.53,1183.82,2370.49
+FARM_1087,Zaid (Summer),North Zone,Watermelon,Conventional,81.2,35.5,53.7,7.9,163.1,4.6,3036.4,4.02,932.49,1333.13
+FARM_1088,Rabi (Winter),North Zone,Mustard,Precision Farming,88.3,10.0,57.1,6.47,107.9,10.8,2989.8,6.78,912.71,2679.32
+FARM_1089,Autumn,West Zone,Soybean,Conventional,322.1,15.0,60.6,6.52,97.4,8.4,4946.3,5.4,1041.06,1598.68
+FARM_1090,Rabi (Winter),North Zone,Mustard,Conventional,109.7,12.4,46.9,6.63,150.4,9.1,4124.6,6.25,1023.69,2481.14
+FARM_1091,Kharif (Monsoon),East Zone,Pulses,Conventional,939.4,24.9,75.1,6.98,139.1,6.2,5152.9,8.14,1068.46,3008.02
+FARM_1092,Zaid (Summer),East Zone,Vegetables,Precision Farming,27.6,38.8,44.3,6.99,79.8,9.3,4146.1,4.52,934.35,1482.04
+FARM_1093,Zaid (Summer),North Zone,Watermelon,Conventional,10.2,32.1,45.3,6.84,189.5,6.2,4962.2,4.44,1192.25,1316.43
+FARM_1094,Rabi (Winter),North Zone,Mustard,Conventional,201.3,21.4,52.2,6.33,125.5,10.8,6139.4,6.15,1226.12,1800.78
+FARM_1095,Zaid (Summer),West Zone,Watermelon,Conventional,21.4,37.6,37.0,8.0,157.9,11.0,3038.9,5.21,1035.0,1703.52
+FARM_1096,Rabi (Winter),North Zone,Chickpea,Organic,152.8,17.3,44.2,7.09,196.2,8.2,5921.7,7.15,1230.95,2142.48
+FARM_1097,Rabi (Winter),West Zone,Mustard,Conventional,164.6,18.9,51.6,6.6,148.7,8.3,2455.0,6.55,892.92,2079.49
+FARM_1098,Rabi (Winter),West Zone,Chickpea,Precision Farming,168.8,12.5,52.8,7.26,184.6,9.6,5231.2,6.23,1195.52,1790.59
+FARM_1099,Kharif (Monsoon),North Zone,Cotton,Conventional,853.9,22.8,79.7,7.57,109.8,9.5,6203.1,7.2,1156.22,2615.77
+FARM_1100,Kharif (Monsoon),South Zone,Pulses,Organic,960.0,27.1,79.8,8.09,189.7,11.1,3871.1,7.78,1096.88,2336.63
+FARM_1101,Kharif (Monsoon),South Zone,Pulses,Precision Farming,934.4,26.8,78.5,6.85,111.1,11.0,5273.5,7.23,1125.68,2790.36
+FARM_1102,Rabi (Winter),West Zone,Barley,Organic,102.9,17.9,52.3,5.8,120.0,8.4,3915.5,5.26,940.5,1633.46
+FARM_1103,Kharif (Monsoon),North Zone,Rice,Hydroponic,924.9,29.7,84.0,6.69,89.1,7.3,5202.5,7.67,1034.89,3004.47
+FARM_1104,Rabi (Winter),South Zone,Barley,Organic,129.7,9.3,60.9,6.79,149.4,10.5,1789.8,5.98,905.86,1833.37
+FARM_1105,Autumn,North Zone,Jute,Conventional,334.5,23.1,68.9,7.92,162.1,8.1,4694.6,5.24,1092.74,1996.39
+FARM_1106,Kharif (Monsoon),North Zone,Pulses,Organic,632.7,31.1,78.3,6.57,166.8,8.8,4974.5,7.03,1178.92,2296.21
+FARM_1107,Rabi (Winter),North Zone,Wheat,Hydroponic,116.8,15.5,53.1,8.07,89.9,9.8,6113.6,6.19,1112.14,2238.53
+FARM_1108,Zaid (Summer),Central Zone,Cucumber,Conventional,59.8,35.1,35.7,6.81,153.1,10.9,5610.3,4.2,1193.86,1198.73
+FARM_1109,Kharif (Monsoon),North Zone,Cotton,Organic,880.0,28.0,76.8,8.13,154.4,9.2,4306.5,7.6,1073.87,2654.94
+FARM_1110,Kharif (Monsoon),Central Zone,Rice,Conventional,730.3,29.8,82.6,5.52,161.5,7.0,4821.7,7.66,1104.14,2304.25
+FARM_1111,Kharif (Monsoon),West Zone,Cotton,Organic,858.6,30.8,70.2,7.93,113.0,13.0,2764.7,7.17,925.53,2495.77
+FARM_1112,Kharif (Monsoon),South Zone,Cotton,Organic,765.3,24.5,91.3,8.01,52.3,12.3,6472.9,6.8,1105.49,2038.57
+FARM_1113,Autumn,South Zone,Jute,Hydroponic,357.1,24.8,70.5,8.09,164.7,6.0,5329.4,5.97,1126.51,2036.92
+FARM_1114,Zaid (Summer),South Zone,Vegetables,Conventional,82.3,38.3,49.2,5.54,134.9,6.2,2266.9,4.1,835.65,1211.5
+FARM_1115,Rabi (Winter),South Zone,Chickpea,Precision Farming,139.5,16.0,47.3,5.96,149.8,6.5,4795.2,7.46,1070.26,2318.52
+FARM_1116,Autumn,South Zone,Sugarcane,Conventional,340.2,24.5,62.1,7.27,136.7,10.6,4886.8,5.84,1147.9,2121.74
+FARM_1117,Zaid (Summer),South Zone,Watermelon,Conventional,50.6,39.4,49.5,5.57,148.2,13.1,3571.3,4.35,1048.11,1812.79
+FARM_1118,Kharif (Monsoon),South Zone,Rice,Organic,1124.6,29.6,80.3,5.67,165.8,7.2,4616.2,8.36,1091.84,2866.53
+FARM_1119,Autumn,West Zone,Jute,Organic,298.0,21.9,56.2,6.1,75.0,8.9,3450.6,4.09,898.46,1538.68
+FARM_1120,Rabi (Winter),North Zone,Chickpea,Precision Farming,170.3,14.3,56.7,6.88,179.9,6.6,2814.5,7.4,972.02,2630.84
+FARM_1121,Zaid (Summer),East Zone,Vegetables,Hydroponic,82.3,33.0,60.1,6.97,133.6,12.8,3764.0,4.91,1026.84,1717.37
+FARM_1122,Autumn,Central Zone,Jute,Conventional,220.7,28.0,68.0,5.59,196.9,10.6,4705.9,6.63,1185.58,1916.46
+FARM_1123,Kharif (Monsoon),East Zone,Rice,Conventional,1029.1,24.7,91.5,5.96,123.9,6.4,5614.0,7.55,1071.03,2266.52
+FARM_1124,Kharif (Monsoon),East Zone,Cotton,Conventional,823.2,30.0,87.2,6.85,116.1,3.2,4583.8,7.18,975.52,2898.05
+FARM_1125,Kharif (Monsoon),North Zone,Maize,Hydroponic,759.3,30.5,76.1,7.1,134.8,11.1,5625.7,7.46,1139.75,2517.18
+FARM_1126,Rabi (Winter),North Zone,Barley,Conventional,205.9,15.0,55.3,5.9,157.5,7.1,5278.4,6.93,1167.53,2536.43
+FARM_1127,Zaid (Summer),North Zone,Cucumber,Conventional,66.1,37.4,59.7,6.58,130.4,10.6,3257.5,4.47,970.77,1582.17
+FARM_1128,Autumn,South Zone,Jute,Precision Farming,263.8,28.4,78.8,7.94,160.0,9.2,5269.3,5.92,1161.68,1971.62
+FARM_1129,Kharif (Monsoon),West Zone,Pulses,Organic,874.9,26.3,71.3,8.2,126.5,3.9,5302.5,7.23,1044.21,2416.95
+FARM_1130,Rabi (Winter),South Zone,Chickpea,Organic,225.3,17.0,47.0,8.17,141.2,6.5,6590.2,6.64,1218.47,2375.56
+FARM_1131,Rabi (Winter),West Zone,Wheat,Conventional,95.7,14.0,62.4,7.88,218.3,7.6,4992.8,7.67,1224.3,2299.16
+FARM_1132,Kharif (Monsoon),West Zone,Cotton,Hydroponic,1008.7,30.0,80.7,6.57,152.5,6.8,3018.4,9.26,943.87,3094.84
+FARM_1133,Kharif (Monsoon),East Zone,Maize,Organic,663.2,25.8,74.5,7.35,155.3,8.8,3835.1,7.12,1062.92,2439.15
+FARM_1134,Kharif (Monsoon),East Zone,Maize,Conventional,935.9,24.8,76.4,6.62,88.5,9.5,2276.9,7.28,812.36,3042.44
+FARM_1135,Autumn,West Zone,Jute,Conventional,285.3,20.0,65.3,7.25,187.4,13.0,5112.6,6.09,1227.01,2004.85
+FARM_1136,Kharif (Monsoon),West Zone,Maize,Conventional,833.9,31.6,75.9,6.34,177.3,9.7,6484.8,8.09,1289.98,2995.25
+FARM_1137,Rabi (Winter),South Zone,Chickpea,Conventional,98.0,16.5,46.2,7.14,115.0,12.2,1630.6,6.44,798.54,1927.09
+FARM_1138,Zaid (Summer),South Zone,Cucumber,Conventional,60.8,29.4,33.9,6.91,176.6,7.3,6535.5,4.5,1290.78,1301.25
+FARM_1139,Rabi (Winter),East Zone,Wheat,Conventional,112.9,20.3,48.5,5.57,151.5,11.4,5096.7,5.64,1181.91,2267.37
+FARM_1140,Autumn,North Zone,Groundnut,Conventional,161.1,24.4,67.2,7.63,141.6,7.5,3208.1,5.88,933.45,2247.94
+FARM_1141,Autumn,West Zone,Groundnut,Conventional,278.3,23.2,60.3,5.53,185.2,6.2,4808.0,6.17,1188.56,2001.86
+FARM_1142,Kharif (Monsoon),South Zone,Pulses,Conventional,866.9,25.3,78.4,6.29,122.1,6.1,3246.8,7.27,951.45,2549.16
+FARM_1143,Rabi (Winter),East Zone,Barley,Precision Farming,180.0,12.8,54.7,5.52,114.7,1.9,5028.5,5.93,981.97,1773.09
+FARM_1144,Kharif (Monsoon),South Zone,Cotton,Organic,581.7,28.7,75.1,6.52,147.3,10.6,4576.0,7.18,1092.83,2721.24
+FARM_1145,Kharif (Monsoon),West Zone,Pulses,Precision Farming,1002.9,23.6,82.2,5.67,158.5,5.3,4895.2,7.8,1095.67,2260.8
+FARM_1146,Kharif (Monsoon),West Zone,Cotton,Precision Farming,1033.2,24.9,75.7,7.97,173.8,12.0,3397.3,8.09,1062.48,3122.62
+FARM_1147,Rabi (Winter),Central Zone,Mustard,Conventional,112.2,16.1,59.1,6.62,134.7,8.1,3572.0,5.84,994.03,2082.29
+FARM_1148,Rabi (Winter),North Zone,Barley,Conventional,127.3,13.5,38.8,6.74,110.3,4.6,5102.2,5.8,1015.32,1850.43
+FARM_1149,Kharif (Monsoon),Central Zone,Cotton,Conventional,1090.3,33.0,82.8,6.44,228.5,5.7,3896.7,9.41,1146.27,3771.16
+FARM_1150,Kharif (Monsoon),East Zone,Pulses,Organic,728.4,30.2,84.7,7.19,102.0,9.0,4678.8,6.31,1050.75,2637.9
+FARM_1151,Autumn,South Zone,Sugarcane,Conventional,279.7,25.1,73.6,7.62,141.9,3.8,5043.6,6.18,1042.18,1950.46
+FARM_1152,Kharif (Monsoon),East Zone,Rice,Organic,603.9,31.0,78.5,7.25,167.3,10.0,4233.2,6.85,1097.89,2691.19
+FARM_1153,Kharif (Monsoon),West Zone,Rice,Conventional,683.1,24.9,75.7,7.52,180.3,4.7,5886.1,7.7,1219.09,2964.68
+FARM_1154,Rabi (Winter),Central Zone,Mustard,Precision Farming,101.6,25.1,58.9,7.95,120.1,6.7,4277.3,6.24,979.85,2399.95
+FARM_1155,Autumn,Central Zone,Jute,Conventional,385.2,26.7,65.4,7.83,74.4,9.0,4241.3,5.54,963.22,2293.63
+FARM_1156,Kharif (Monsoon),Central Zone,Rice,Precision Farming,861.2,26.8,78.4,7.32,119.3,9.7,3742.0,7.69,1000.21,2677.09
+FARM_1157,Rabi (Winter),East Zone,Chickpea,Conventional,93.7,22.3,40.5,6.08,170.1,10.5,5748.0,6.67,1234.61,2497.14
+FARM_1158,Zaid (Summer),West Zone,Watermelon,Precision Farming,38.8,41.0,41.4,7.22,162.3,5.2,3651.4,4.34,960.84,1715.79
+FARM_1159,Kharif (Monsoon),South Zone,Rice,Conventional,876.7,29.9,72.3,6.87,163.5,7.7,6005.4,8.16,1188.35,2832.62
+FARM_1160,Zaid (Summer),South Zone,Vegetables,Organic,32.1,33.7,31.0,7.44,164.9,11.2,4695.7,4.53,1147.65,1573.72
+FARM_1161,Rabi (Winter),East Zone,Barley,Conventional,147.0,19.9,66.1,7.75,186.9,7.7,7718.5,6.88,1404.75,2233.33
+FARM_1162,Rabi (Winter),Central Zone,Barley,Organic,182.4,14.0,52.0,7.51,112.8,9.2,3707.4,6.36,982.59,2476.05
+FARM_1163,Rabi (Winter),North Zone,Mustard,Conventional,124.1,13.9,45.0,7.79,98.1,8.9,6030.2,5.78,1111.48,2173.67
+FARM_1164,Rabi (Winter),East Zone,Mustard,Hydroponic,216.6,18.0,53.2,5.67,153.0,11.8,5112.3,6.51,1157.58,2233.97
+FARM_1165,Kharif (Monsoon),East Zone,Rice,Organic,922.6,29.6,85.6,5.59,103.3,7.3,3883.5,7.1,931.83,2404.82
+FARM_1166,Zaid (Summer),West Zone,Vegetables,Conventional,45.1,36.2,30.9,6.2,95.9,5.0,5128.4,4.05,993.54,1175.16
+FARM_1167,Kharif (Monsoon),South Zone,Rice,Precision Farming,821.5,28.2,80.8,7.93,182.8,6.1,5069.9,7.57,1183.77,2126.49
+FARM_1168,Kharif (Monsoon),East Zone,Pulses,Precision Farming,866.5,30.4,77.0,7.72,148.8,9.0,4101.7,8.12,1078.56,2874.85
+FARM_1169,Kharif (Monsoon),East Zone,Pulses,Conventional,877.3,25.7,94.6,7.34,141.0,4.6,5013.9,7.42,1039.79,2511.29
+FARM_1170,Rabi (Winter),Central Zone,Barley,Conventional,113.5,15.2,62.1,7.39,141.7,7.1,5896.1,5.5,1171.54,2152.95
+FARM_1171,Rabi (Winter),Central Zone,Barley,Conventional,132.8,21.5,56.2,7.46,136.3,8.7,5113.6,6.6,1091.59,2349.41
+FARM_1172,Kharif (Monsoon),North Zone,Pulses,Conventional,789.5,25.7,76.1,8.05,182.6,6.6,3997.0,6.77,1060.93,2783.41
+FARM_1173,Rabi (Winter),West Zone,Barley,Precision Farming,134.3,17.3,48.3,7.75,87.0,9.3,3929.4,5.34,953.51,1641.83
+FARM_1174,Kharif (Monsoon),North Zone,Maize,Hydroponic,833.6,24.7,83.8,7.18,85.5,10.3,4395.1,7.89,975.33,3302.92
+FARM_1175,Rabi (Winter),Central Zone,Mustard,Precision Farming,187.9,15.2,48.9,7.3,107.2,9.6,5835.0,6.59,1138.25,2120.06
+FARM_1176,Kharif (Monsoon),South Zone,Cotton,Precision Farming,876.7,31.8,87.4,6.08,150.1,4.6,3595.5,8.13,974.12,3007.61
+FARM_1177,Rabi (Winter),Central Zone,Chickpea,Organic,93.9,22.0,54.5,7.27,203.2,8.7,4970.6,6.69,1216.17,2343.24
+FARM_1178,Rabi (Winter),West Zone,Wheat,Precision Farming,148.3,20.0,51.2,6.65,170.4,8.9,2625.0,6.8,980.14,2246.32
+FARM_1179,Autumn,Central Zone,Jute,Precision Farming,387.7,29.3,75.2,5.91,160.7,7.5,5213.5,6.63,1151.06,1985.71
+FARM_1180,Kharif (Monsoon),West Zone,Cotton,Organic,573.4,27.3,70.3,7.68,137.2,9.3,5402.1,7.13,1117.53,2130.99
+FARM_1181,Kharif (Monsoon),West Zone,Rice,Precision Farming,735.2,20.8,82.3,6.88,93.4,9.2,6933.1,7.24,1192.77,2748.38
+FARM_1182,Kharif (Monsoon),West Zone,Cotton,Conventional,882.9,26.7,76.0,8.14,158.0,8.3,5610.4,8.48,1168.43,2822.74
+FARM_1183,Autumn,West Zone,Sugarcane,Conventional,325.1,22.0,57.4,6.26,210.9,6.0,4018.6,6.82,1101.61,2827.45
+FARM_1184,Autumn,West Zone,Groundnut,Precision Farming,203.8,24.4,60.9,6.8,131.6,8.4,2658.5,4.99,917.85,1624.7
+FARM_1185,Kharif (Monsoon),South Zone,Maize,Conventional,792.4,29.6,84.8,6.71,120.4,13.2,5117.0,7.47,1122.22,3120.17
+FARM_1186,Rabi (Winter),North Zone,Chickpea,Organic,208.0,18.2,57.8,5.83,131.8,7.5,4107.3,6.39,1028.21,1972.97
+FARM_1187,Zaid (Summer),East Zone,Cucumber,Conventional,63.8,30.0,36.3,6.65,161.0,11.1,4900.9,3.93,1187.24,1156.97
+FARM_1188,Rabi (Winter),North Zone,Wheat,Conventional,135.4,16.0,54.7,6.28,143.9,8.6,3635.8,6.85,993.53,2217.75
+FARM_1189,Rabi (Winter),West Zone,Mustard,Hydroponic,141.2,14.1,53.8,5.93,171.9,6.5,4292.2,7.31,1102.05,2953.11
+FARM_1190,Kharif (Monsoon),South Zone,Pulses,Conventional,754.1,20.1,73.0,6.26,138.8,7.8,2460.0,7.3,882.01,2577.33
+FARM_1191,Kharif (Monsoon),Central Zone,Maize,Conventional,863.3,31.3,67.9,6.13,131.6,8.5,3244.6,7.63,946.51,2281.3
+FARM_1192,Autumn,South Zone,Sugarcane,Precision Farming,230.4,26.3,71.1,7.48,148.0,10.1,3075.3,4.86,993.98,1498.58
+FARM_1193,Autumn,West Zone,Soybean,Conventional,266.4,23.0,73.5,5.58,121.1,14.5,5547.3,5.88,1225.98,1902.63
+FARM_1194,Rabi (Winter),South Zone,Barley,Conventional,181.8,21.4,51.3,7.17,200.9,8.6,3507.3,7.65,1114.71,2774.07
+FARM_1195,Kharif (Monsoon),South Zone,Pulses,Conventional,1017.1,22.2,85.7,7.55,168.8,5.4,6153.5,8.37,1210.06,2733.08
+FARM_1196,Kharif (Monsoon),West Zone,Cotton,Precision Farming,840.0,28.4,75.3,6.8,101.5,4.4,3519.1,6.62,868.67,2545.97
+FARM_1197,Zaid (Summer),South Zone,Watermelon,Conventional,23.7,35.3,45.5,8.02,113.9,7.4,7015.1,3.26,1173.91,1194.08
+FARM_1198,Autumn,East Zone,Soybean,Conventional,356.2,26.8,67.6,7.41,159.8,5.7,2161.4,6.89,898.78,2772.09
+FARM_1199,Autumn,East Zone,Jute,Organic,226.1,27.3,57.8,7.52,146.4,9.9,5009.2,5.26,1150.97,1841.71
+FARM_1200,Zaid (Summer),South Zone,Vegetables,Organic,82.1,34.7,39.5,6.03,150.6,9.9,4546.3,4.42,1109.39,1442.53
+FARM_1201,Rabi (Winter),Central Zone,Mustard,Organic,184.6,22.0,61.2,7.6,133.3,8.1,3046.3,6.08,945.57,2550.43
+FARM_1202,Kharif (Monsoon),West Zone,Maize,Organic,726.9,30.3,75.9,7.75,155.9,10.1,3838.9,6.52,1019.0,2150.22
+FARM_1203,Kharif (Monsoon),East Zone,Pulses,Conventional,968.2,23.7,79.5,6.48,134.1,8.7,4186.5,7.97,1008.6,2709.83
+FARM_1204,Autumn,Central Zone,Jute,Precision Farming,234.3,27.6,72.8,6.08,159.7,13.2,4799.8,6.06,1215.53,2383.26
+FARM_1205,Rabi (Winter),South Zone,Barley,Conventional,158.0,18.7,60.6,6.54,167.1,10.1,3376.3,6.19,1036.43,1810.01
+FARM_1206,Kharif (Monsoon),Central Zone,Rice,Precision Farming,1018.2,28.1,77.5,7.5,196.2,10.7,5010.4,9.04,1248.07,3020.34
+FARM_1207,Kharif (Monsoon),North Zone,Pulses,Hydroponic,947.1,22.4,84.5,6.63,122.0,4.9,4643.7,7.39,984.69,2157.88
+FARM_1208,Rabi (Winter),East Zone,Wheat,Precision Farming,121.6,17.0,62.3,7.49,139.6,5.6,5435.0,5.96,1094.12,1785.04
+FARM_1209,Kharif (Monsoon),South Zone,Cotton,Conventional,787.7,29.9,85.7,5.81,97.3,9.7,3465.2,6.44,955.88,1807.38
+FARM_1210,Kharif (Monsoon),West Zone,Rice,Conventional,866.5,28.9,79.4,7.68,203.9,4.6,4008.8,8.67,1090.13,2439.18
+FARM_1211,Rabi (Winter),South Zone,Barley,Conventional,154.6,13.5,52.7,6.18,70.9,6.9,6230.5,4.85,1069.72,1616.22
+FARM_1212,Rabi (Winter),West Zone,Barley,Organic,98.5,14.4,39.0,6.17,198.9,11.4,3412.8,6.59,1121.03,2591.73
+FARM_1213,Rabi (Winter),South Zone,Wheat,Conventional,160.6,24.8,51.4,7.09,143.3,6.9,2829.0,6.73,921.76,2437.48
+FARM_1214,Kharif (Monsoon),Central Zone,Rice,Hydroponic,994.8,31.4,74.0,5.69,154.6,5.5,3742.9,8.14,997.74,3002.75
+FARM_1215,Zaid (Summer),Central Zone,Cucumber,Precision Farming,40.3,38.0,39.1,5.57,134.2,10.2,2368.9,3.71,863.55,1308.5
+FARM_1216,Kharif (Monsoon),Central Zone,Maize,Organic,656.4,26.1,82.1,6.2,141.1,13.7,6507.5,7.65,1298.3,3020.0
+FARM_1217,Kharif (Monsoon),North Zone,Maize,Conventional,730.9,19.7,78.4,6.95,160.6,6.5,4160.7,7.11,1038.89,2867.13
+FARM_1218,Zaid (Summer),West Zone,Vegetables,Precision Farming,55.2,35.0,52.6,7.95,82.7,11.6,4172.3,3.63,1006.99,1448.24
+FARM_1219,Rabi (Winter),Central Zone,Wheat,Organic,152.1,19.0,63.4,7.79,117.2,6.2,5391.0,6.02,1050.75,2370.06
+FARM_1220,Zaid (Summer),North Zone,Sunflower,Conventional,60.2,41.4,27.4,6.82,110.4,8.2,3629.3,3.88,928.3,1185.65
+FARM_1221,Rabi (Winter),West Zone,Barley,Precision Farming,112.6,20.5,65.0,5.6,155.7,8.3,4240.9,6.43,1118.31,2335.01
+FARM_1222,Rabi (Winter),South Zone,Chickpea,Conventional,142.0,14.0,69.1,6.95,140.2,6.5,3597.7,6.39,983.1,2310.0
+FARM_1223,Kharif (Monsoon),North Zone,Rice,Organic,731.1,29.0,86.6,7.4,161.6,10.7,2394.0,7.45,941.05,2636.65
+FARM_1224,Rabi (Winter),East Zone,Barley,Conventional,132.3,15.5,50.6,6.42,145.8,4.7,4560.9,6.45,1036.59,2240.17
+FARM_1225,Kharif (Monsoon),North Zone,Pulses,Precision Farming,985.2,31.2,80.2,5.8,177.1,9.0,5730.9,8.7,1210.6,2544.61
+FARM_1226,Kharif (Monsoon),North Zone,Pulses,Conventional,1132.5,28.1,86.5,6.25,114.1,11.2,4595.2,7.83,1062.35,2304.39
+FARM_1227,Autumn,West Zone,Soybean,Organic,265.4,32.0,76.0,7.58,142.0,10.5,5603.7,5.97,1163.64,2425.73
+FARM_1228,Rabi (Winter),South Zone,Mustard,Conventional,144.9,23.7,66.1,6.45,178.8,9.7,3185.0,7.02,1080.73,2584.95
+FARM_1229,Autumn,East Zone,Soybean,Conventional,424.2,17.6,70.0,7.69,171.8,12.5,3595.2,6.47,1104.88,2049.21
+FARM_1230,Rabi (Winter),Central Zone,Barley,Conventional,171.7,19.9,56.7,6.36,88.2,8.0,2946.8,6.21,850.49,1981.62
+FARM_1231,Zaid (Summer),Central Zone,Watermelon,Precision Farming,65.0,38.8,45.4,5.94,104.3,4.7,4939.9,3.48,1008.11,1271.69
+FARM_1232,Rabi (Winter),North Zone,Wheat,Organic,158.7,22.6,58.3,6.68,137.1,8.8,4118.9,6.74,1053.65,2271.18
+FARM_1233,Rabi (Winter),West Zone,Mustard,Precision Farming,170.5,25.5,51.5,6.72,131.8,8.2,4073.9,6.36,997.57,2173.76
+FARM_1234,Rabi (Winter),West Zone,Mustard,Organic,89.4,18.3,56.7,5.54,137.7,3.2,5302.8,5.84,1062.53,1684.79
+FARM_1235,Kharif (Monsoon),Central Zone,Maize,Conventional,958.2,28.3,83.8,5.82,167.9,5.7,3932.4,8.41,1026.09,2518.15
+FARM_1236,Zaid (Summer),East Zone,Sunflower,Organic,110.1,37.4,49.8,6.0,150.1,5.4,5795.6,4.24,1190.18,1420.69
+FARM_1237,Kharif (Monsoon),South Zone,Maize,Conventional,830.6,23.8,68.5,5.81,152.2,6.5,4782.8,7.78,1038.39,2940.5
+FARM_1238,Kharif (Monsoon),East Zone,Pulses,Conventional,772.2,20.3,82.6,6.42,163.5,7.6,4060.6,6.59,1049.06,1889.51
+FARM_1239,Rabi (Winter),South Zone,Wheat,Conventional,134.7,12.7,56.0,8.1,177.6,7.7,2638.1,7.12,971.73,2327.09
+FARM_1240,Kharif (Monsoon),Central Zone,Cotton,Organic,739.2,29.4,83.5,6.87,33.0,6.6,5295.9,7.14,914.52,2693.99
+FARM_1241,Autumn,South Zone,Jute,Conventional,243.9,24.3,66.5,7.19,126.5,5.4,4839.5,5.5,1031.52,2149.88
+FARM_1242,Autumn,West Zone,Jute,Organic,187.4,25.6,55.0,6.46,109.1,9.4,4897.3,5.1,1050.56,1563.82
+FARM_1243,Autumn,North Zone,Jute,Precision Farming,345.3,23.7,54.9,6.37,156.6,8.8,4935.6,5.85,1129.04,2237.09
+FARM_1244,Rabi (Winter),North Zone,Chickpea,Hydroponic,126.8,15.8,63.5,5.56,123.8,8.9,3865.1,6.37,993.32,2635.64
+FARM_1245,Kharif (Monsoon),Central Zone,Pulses,Conventional,876.0,25.1,88.2,6.85,142.7,12.9,4318.4,7.56,1116.85,3076.57
+FARM_1246,Autumn,West Zone,Soybean,Conventional,350.1,24.0,54.1,6.81,169.8,8.9,3949.7,6.45,1114.36,2518.81
+FARM_1247,Rabi (Winter),East Zone,Chickpea,Conventional,133.0,17.1,58.0,5.93,118.9,7.6,6000.1,6.83,1170.66,2593.53
+FARM_1248,Autumn,West Zone,Soybean,Organic,348.6,27.4,53.7,7.56,152.7,8.2,4169.9,6.32,1063.29,1977.65
+FARM_1249,Autumn,North Zone,Soybean,Conventional,316.7,24.5,83.7,6.83,194.4,8.7,3756.9,6.31,1095.5,2326.79
+FARM_1250,Autumn,North Zone,Jute,Precision Farming,305.2,23.1,65.8,6.42,169.1,10.0,6082.5,5.64,1252.96,2087.13
+FARM_1251,Kharif (Monsoon),West Zone,Pulses,Conventional,848.7,22.0,82.0,5.9,84.5,8.4,5952.0,6.74,1052.63,2271.08
+FARM_1252,Rabi (Winter),West Zone,Chickpea,Organic,137.6,17.9,48.0,6.99,129.8,3.6,4783.6,6.27,1029.09,2188.37
+FARM_1253,Autumn,North Zone,Soybean,Precision Farming,212.5,27.6,72.8,7.53,152.5,7.4,4344.2,5.17,1059.95,1949.94
+FARM_1254,Kharif (Monsoon),East Zone,Maize,Conventional,912.7,22.6,82.4,6.26,159.3,8.5,4044.5,8.37,1071.18,3459.27
+FARM_1255,Kharif (Monsoon),Central Zone,Rice,Precision Farming,580.6,26.0,84.3,6.09,131.2,11.8,4447.2,7.07,1089.68,2271.89
+FARM_1256,Rabi (Winter),Central Zone,Wheat,Conventional,176.3,19.8,65.5,6.91,117.6,6.5,3450.3,5.87,902.19,1846.06
+FARM_1257,Autumn,West Zone,Soybean,Conventional,344.8,18.9,62.4,5.92,142.4,4.4,5080.0,5.14,1049.19,1872.26
+FARM_1258,Rabi (Winter),Central Zone,Wheat,Organic,148.3,17.4,50.1,7.3,102.0,8.7,6483.0,6.29,1147.04,1876.38
+FARM_1259,Rabi (Winter),North Zone,Wheat,Organic,108.8,27.6,51.9,7.13,178.5,10.7,5175.1,6.21,1223.0,2245.25
+FARM_1260,Kharif (Monsoon),North Zone,Maize,Hydroponic,1202.7,24.6,83.3,5.74,205.4,7.5,3176.1,9.12,1062.4,2667.05
+FARM_1261,Rabi (Winter),West Zone,Mustard,Organic,159.2,14.3,51.3,5.6,153.8,14.5,5046.1,6.44,1168.74,2245.51
+FARM_1262,Autumn,West Zone,Groundnut,Hydroponic,298.8,22.5,63.2,7.17,131.9,13.9,4733.4,6.0,1111.97,2201.15
+FARM_1263,Kharif (Monsoon),West Zone,Maize,Conventional,495.3,30.1,86.1,6.29,172.9,8.3,5035.6,7.46,1158.6,2162.02
+FARM_1264,Rabi (Winter),East Zone,Mustard,Organic,168.2,27.1,60.5,5.73,167.0,9.0,3516.5,6.48,1038.95,2002.15
+FARM_1265,Autumn,Central Zone,Jute,Organic,391.4,28.7,45.7,7.55,130.4,11.9,4504.0,6.19,1098.33,2023.84
+FARM_1266,Zaid (Summer),West Zone,Sunflower,Organic,68.5,30.9,28.2,6.35,138.3,8.3,5559.7,4.14,1143.85,1372.84
+FARM_1267,Rabi (Winter),South Zone,Chickpea,Hydroponic,109.7,16.7,60.2,6.74,118.7,6.5,3216.0,6.14,891.5,2300.38
+FARM_1268,Zaid (Summer),South Zone,Sunflower,Conventional,68.7,35.0,47.2,6.14,145.8,10.7,3961.1,4.33,1049.99,1533.09
+FARM_1269,Rabi (Winter),North Zone,Barley,Conventional,181.3,19.8,41.2,7.19,150.5,9.7,4154.6,7.6,1073.16,2534.56
+FARM_1270,Kharif (Monsoon),Central Zone,Maize,Conventional,739.1,28.1,83.7,6.31,112.7,6.5,5698.0,6.96,1094.84,2387.94
+FARM_1271,Zaid (Summer),West Zone,Sunflower,Organic,33.4,35.0,24.3,8.11,102.4,9.2,5877.0,3.16,1108.23,890.54
+FARM_1272,Zaid (Summer),South Zone,Sunflower,Conventional,80.5,35.7,26.5,7.4,93.6,8.1,2201.8,3.61,770.25,1400.22
+FARM_1273,Autumn,Central Zone,Sugarcane,Organic,191.8,26.2,74.6,5.87,154.6,7.5,5697.0,5.95,1172.48,1700.16
+FARM_1274,Autumn,North Zone,Groundnut,Precision Farming,212.3,27.4,61.2,6.63,139.6,6.5,5914.7,5.47,1139.88,2166.69
+FARM_1275,Rabi (Winter),East Zone,Mustard,Conventional,182.9,20.7,56.2,6.54,137.1,8.8,5837.6,6.55,1175.14,2330.09
+FARM_1276,Rabi (Winter),Central Zone,Mustard,Conventional,76.6,20.7,59.0,6.94,156.3,7.8,3864.4,6.35,1064.06,2247.23
+FARM_1277,Zaid (Summer),Central Zone,Watermelon,Conventional,68.2,35.6,31.2,7.77,108.5,9.2,4224.2,2.85,966.69,1079.13
+FARM_1278,Rabi (Winter),East Zone,Chickpea,Conventional,193.3,21.6,46.4,7.08,102.5,10.5,2619.1,5.82,893.71,2329.97
+FARM_1279,Zaid (Summer),Central Zone,Sunflower,Hydroponic,86.3,35.4,41.3,5.67,148.4,9.1,1986.1,4.3,894.4,1771.47
+FARM_1280,Zaid (Summer),North Zone,Sunflower,Conventional,56.5,34.8,53.7,7.27,79.5,9.1,4066.2,3.03,949.91,1078.9
+FARM_1281,Autumn,North Zone,Jute,Organic,382.6,28.0,66.3,5.52,130.9,7.1,4591.8,5.3,1030.07,1595.79
+FARM_1282,Kharif (Monsoon),East Zone,Pulses,Conventional,983.4,25.5,82.9,7.61,226.3,11.4,4712.1,8.72,1242.67,3514.23
+FARM_1283,Rabi (Winter),West Zone,Mustard,Organic,143.9,9.8,42.3,7.3,92.8,6.4,5485.4,5.75,1036.01,1642.74
+FARM_1284,Kharif (Monsoon),South Zone,Maize,Organic,750.6,29.2,76.7,6.33,125.0,4.5,8173.4,7.33,1310.43,2880.89
+FARM_1285,Rabi (Winter),West Zone,Barley,Hydroponic,126.4,21.1,50.6,6.29,65.7,5.8,4024.8,5.39,838.9,2022.65
+FARM_1286,Kharif (Monsoon),Central Zone,Cotton,Precision Farming,1049.6,31.5,80.1,7.66,131.8,11.1,3233.3,8.06,960.76,3277.69
+FARM_1287,Rabi (Winter),South Zone,Chickpea,Hydroponic,180.1,20.5,53.0,7.62,208.8,9.6,5155.4,7.11,1265.83,2884.13
+FARM_1288,Rabi (Winter),East Zone,Wheat,Conventional,184.5,22.0,47.4,6.45,156.3,11.8,4766.7,6.87,1143.87,1974.72
+FARM_1289,Kharif (Monsoon),East Zone,Cotton,Conventional,873.0,28.4,84.2,6.31,118.5,5.2,3810.6,7.97,963.81,2911.62
+FARM_1290,Rabi (Winter),South Zone,Barley,Organic,132.2,15.6,56.4,7.01,216.3,14.3,5593.0,7.52,1371.52,2236.85
+FARM_1291,Kharif (Monsoon),North Zone,Pulses,Organic,1027.2,24.4,74.9,5.52,79.0,7.8,3525.7,7.11,853.39,2068.91
+FARM_1292,Kharif (Monsoon),South Zone,Pulses,Precision Farming,771.9,27.0,71.2,5.72,155.9,4.1,4345.7,7.15,1016.15,2450.73
+FARM_1293,Zaid (Summer),Central Zone,Vegetables,Conventional,90.0,34.6,37.2,5.84,142.3,14.0,4414.9,4.33,1116.65,1271.56
+FARM_1294,Rabi (Winter),North Zone,Wheat,Precision Farming,214.9,20.9,50.7,6.0,131.4,5.2,3362.7,6.43,917.3,2455.66
+FARM_1295,Kharif (Monsoon),East Zone,Cotton,Precision Farming,874.7,27.9,87.2,6.88,168.2,7.5,2448.4,8.2,944.87,3408.34
+FARM_1296,Rabi (Winter),South Zone,Chickpea,Organic,143.3,12.2,40.0,8.18,98.6,8.0,4762.7,5.12,1009.01,1841.88
+FARM_1297,Zaid (Summer),West Zone,Sunflower,Conventional,89.5,32.6,46.7,7.26,150.9,9.6,6142.5,4.33,1205.92,1354.96
+FARM_1298,Kharif (Monsoon),West Zone,Cotton,Conventional,860.8,26.8,78.7,5.67,146.5,6.5,5653.1,7.78,1162.24,3096.82
+FARM_1299,Rabi (Winter),Central Zone,Wheat,Organic,213.3,12.2,51.9,6.92,109.5,11.1,5733.4,6.33,1133.17,2528.42
+FARM_1300,Kharif (Monsoon),West Zone,Cotton,Precision Farming,986.0,24.2,86.6,6.84,208.2,10.4,3541.3,8.55,1114.21,3271.14
+FARM_1301,Kharif (Monsoon),South Zone,Cotton,Conventional,983.8,28.8,77.5,5.89,133.6,8.5,4756.9,7.64,1064.41,2797.15
+FARM_1302,Rabi (Winter),South Zone,Chickpea,Organic,93.5,20.8,77.0,7.98,135.1,11.8,2791.0,5.77,978.56,2316.6
+FARM_1303,Rabi (Winter),West Zone,Wheat,Conventional,155.8,10.7,58.7,6.69,104.0,8.3,4702.7,6.22,1017.24,1883.79
+FARM_1304,Rabi (Winter),South Zone,Mustard,Hydroponic,184.4,14.3,49.8,8.19,134.3,7.8,6166.5,6.56,1184.31,2692.38
+FARM_1305,Zaid (Summer),Central Zone,Watermelon,Organic,45.1,33.4,38.3,6.63,221.7,13.5,6203.8,4.37,1383.94,1803.1
+FARM_1306,Autumn,North Zone,Jute,Precision Farming,231.1,21.3,66.2,7.14,131.2,9.2,6936.5,5.84,1254.52,2348.14
+FARM_1307,Rabi (Winter),Central Zone,Barley,Organic,142.7,16.3,55.7,5.78,158.2,6.0,5687.0,6.38,1182.02,2010.29
+FARM_1308,Kharif (Monsoon),Central Zone,Cotton,Precision Farming,622.0,28.8,77.9,6.73,173.3,6.4,5070.9,7.3,1107.99,2921.06
+FARM_1309,Zaid (Summer),South Zone,Watermelon,Precision Farming,64.8,36.2,51.3,6.14,133.7,8.5,5549.7,4.94,1129.33,1727.37
+FARM_1310,Kharif (Monsoon),North Zone,Pulses,Conventional,865.4,31.2,78.4,7.76,125.7,2.5,5316.7,8.05,1044.05,2924.49
+FARM_1311,Rabi (Winter),South Zone,Barley,Conventional,139.0,17.6,61.2,7.62,156.5,6.9,3531.3,6.06,1000.43,2409.97
+FARM_1312,Kharif (Monsoon),East Zone,Cotton,Precision Farming,944.6,28.4,73.9,7.73,131.6,8.2,2681.6,7.15,879.94,2031.61
+FARM_1313,Kharif (Monsoon),South Zone,Rice,Conventional,942.0,25.4,75.4,7.45,128.4,8.1,5559.3,7.22,1130.79,2388.46
+FARM_1314,Autumn,South Zone,Soybean,Precision Farming,208.9,24.8,73.5,7.75,172.9,5.4,7012.0,6.52,1263.1,2570.16
+FARM_1315,Zaid (Summer),South Zone,Cucumber,Organic,40.7,40.0,49.1,6.04,137.6,7.4,5608.8,3.95,1117.52,1556.12
+FARM_1316,Rabi (Winter),North Zone,Chickpea,Precision Farming,91.4,16.5,46.7,6.72,182.5,11.4,2233.5,6.29,979.26,2508.55
+FARM_1317,Rabi (Winter),South Zone,Chickpea,Precision Farming,176.6,14.0,42.0,7.37,136.8,10.9,3876.8,7.0,1068.42,2125.83
+FARM_1318,Kharif (Monsoon),North Zone,Cotton,Hydroponic,801.1,31.5,79.0,7.22,93.9,8.7,4264.0,7.17,931.61,2716.17
+FARM_1319,Kharif (Monsoon),West Zone,Rice,Organic,909.8,29.3,72.4,7.43,30.0,8.3,2272.7,7.34,653.83,2205.75
+FARM_1320,Kharif (Monsoon),East Zone,Cotton,Conventional,715.1,28.0,77.2,6.11,75.7,8.1,2847.7,6.75,816.83,2631.92
+FARM_1321,Rabi (Winter),North Zone,Chickpea,Conventional,218.2,13.1,47.7,5.77,81.7,9.1,4455.5,5.86,964.67,1841.9
+FARM_1322,Zaid (Summer),West Zone,Watermelon,Conventional,65.8,33.1,11.1,7.98,149.3,8.8,4814.0,4.4,1099.59,1686.5
+FARM_1323,Rabi (Winter),North Zone,Wheat,Conventional,227.4,13.7,59.5,7.01,106.0,9.3,3316.8,6.08,918.15,2089.7
+FARM_1324,Kharif (Monsoon),North Zone,Pulses,Organic,662.0,25.4,71.9,5.92,70.9,9.8,2792.5,6.84,796.79,2859.65
+FARM_1325,Autumn,East Zone,Soybean,Precision Farming,240.7,23.1,64.1,7.64,135.4,5.5,5932.0,6.11,1135.82,2206.84
+FARM_1326,Zaid (Summer),Central Zone,Cucumber,Conventional,52.5,30.7,34.8,7.97,102.1,7.7,4041.0,3.24,954.01,1194.14
+FARM_1327,Rabi (Winter),Central Zone,Wheat,Organic,207.9,23.3,58.6,5.96,156.2,9.0,4212.7,7.18,1100.42,2380.48
+FARM_1328,Rabi (Winter),North Zone,Barley,Conventional,176.5,26.2,59.6,7.71,155.3,6.1,3844.0,6.28,1048.3,2404.19
+FARM_1329,Rabi (Winter),South Zone,Mustard,Conventional,175.8,11.7,46.1,8.02,159.0,6.8,3574.6,7.67,998.68,2679.01
+FARM_1330,Kharif (Monsoon),West Zone,Cotton,Organic,845.1,25.6,75.0,8.03,50.5,8.0,6063.3,7.07,995.89,1997.48
+FARM_1331,Rabi (Winter),South Zone,Mustard,Hydroponic,114.7,12.3,48.7,7.97,141.6,8.1,3444.2,5.89,985.03,2151.04
+FARM_1332,Zaid (Summer),South Zone,Cucumber,Hydroponic,66.8,40.4,48.0,6.98,135.8,9.0,4715.6,4.34,1077.42,1719.79
+FARM_1333,Kharif (Monsoon),North Zone,Cotton,Conventional,945.4,23.1,80.6,6.46,97.2,6.4,4510.4,7.71,958.87,2414.4
+FARM_1334,Kharif (Monsoon),North Zone,Pulses,Organic,840.0,28.9,78.2,5.52,65.2,10.9,2162.2,6.36,739.14,1977.64
+FARM_1335,Kharif (Monsoon),North Zone,Maize,Precision Farming,1099.3,28.2,80.8,5.66,136.2,8.1,4789.1,7.5,1076.94,2739.33
+FARM_1336,Kharif (Monsoon),North Zone,Maize,Conventional,555.6,27.7,85.7,6.66,177.2,8.9,2647.2,7.38,995.63,2911.54
+FARM_1337,Autumn,Central Zone,Jute,Conventional,344.4,18.5,61.9,6.58,49.6,7.6,5262.6,4.85,971.13,1527.49
+FARM_1338,Zaid (Summer),North Zone,Sunflower,Conventional,94.6,34.5,43.2,6.0,110.9,9.1,3076.3,3.69,894.61,1514.81
+FARM_1339,Rabi (Winter),Central Zone,Mustard,Conventional,214.8,17.4,61.3,6.57,144.6,12.7,5126.4,7.21,1156.03,2954.9
+FARM_1340,Kharif (Monsoon),Central Zone,Maize,Conventional,911.7,29.9,81.9,5.97,179.4,7.6,3984.6,7.63,1071.99,2350.61
+FARM_1341,Rabi (Winter),North Zone,Chickpea,Conventional,128.1,16.2,48.2,7.79,129.1,7.1,3690.8,6.2,981.92,1964.96
+FARM_1342,Rabi (Winter),East Zone,Mustard,Conventional,84.4,23.0,55.1,6.31,207.6,6.4,4752.7,7.24,1208.69,2737.33
+FARM_1343,Kharif (Monsoon),West Zone,Pulses,Hydroponic,1029.1,32.7,80.3,7.12,77.2,8.4,2733.8,7.4,830.23,3058.0
+FARM_1344,Rabi (Winter),South Zone,Chickpea,Conventional,97.5,17.2,49.6,6.86,69.4,8.3,4416.9,5.94,941.11,2253.54
+FARM_1345,Rabi (Winter),Central Zone,Barley,Precision Farming,70.8,16.0,54.4,5.64,175.6,8.6,5438.7,6.57,1204.11,2248.82
+FARM_1346,Rabi (Winter),West Zone,Wheat,Precision Farming,124.3,14.9,44.8,8.04,57.8,9.7,5751.1,4.27,1032.59,1296.63
+FARM_1347,Rabi (Winter),East Zone,Chickpea,Conventional,157.8,25.5,65.2,6.92,156.2,9.4,3944.8,6.57,1064.32,2263.64
+FARM_1348,Kharif (Monsoon),South Zone,Cotton,Conventional,948.0,30.0,79.3,6.38,129.7,8.4,4120.0,7.98,1009.33,2912.28
+FARM_1349,Rabi (Winter),South Zone,Wheat,Conventional,77.8,16.5,47.2,5.93,108.5,13.4,2709.7,5.82,940.41,1899.26
+FARM_1350,Rabi (Winter),Central Zone,Mustard,Conventional,156.2,22.9,70.8,6.41,125.1,10.2,3599.1,6.26,952.72,2199.99
+FARM_1351,Rabi (Winter),North Zone,Wheat,Precision Farming,152.6,11.3,55.5,5.56,94.9,5.8,2627.9,6.06,770.99,1807.27
+FARM_1352,Autumn,East Zone,Groundnut,Conventional,307.2,27.0,64.9,6.48,128.9,4.6,5028.1,5.93,1006.75,2035.81
+FARM_1353,Rabi (Winter),Central Zone,Chickpea,Hydroponic,152.7,15.5,52.5,6.94,140.6,6.8,5510.6,5.8,1109.03,1697.71
+FARM_1354,Kharif (Monsoon),East Zone,Pulses,Organic,927.0,22.0,78.4,7.85,125.4,8.9,3954.9,7.53,1025.68,2160.15
+FARM_1355,Kharif (Monsoon),North Zone,Pulses,Organic,953.2,32.9,78.0,7.36,119.5,6.6,3230.1,7.5,878.39,3000.1
+FARM_1356,Rabi (Winter),North Zone,Chickpea,Conventional,197.4,24.8,51.9,5.8,148.9,6.9,4869.8,6.7,1067.73,2068.37
+FARM_1357,Kharif (Monsoon),Central Zone,Cotton,Conventional,766.3,27.5,79.6,5.9,198.1,8.6,3458.4,7.23,1069.5,2606.57
+FARM_1358,Rabi (Winter),North Zone,Chickpea,Organic,193.6,14.9,67.3,6.66,130.7,7.6,5306.3,7.02,1123.63,2112.02
+FARM_1359,Autumn,West Zone,Jute,Conventional,235.9,21.2,68.7,6.03,168.7,3.4,6822.5,5.91,1268.74,1872.02
+FARM_1360,Rabi (Winter),South Zone,Mustard,Conventional,199.2,18.7,58.5,5.58,106.2,11.2,3438.7,6.28,970.84,2076.09
+FARM_1361,Rabi (Winter),Central Zone,Chickpea,Organic,228.2,23.0,55.2,7.67,93.3,10.6,3610.0,6.77,955.64,2031.78
+FARM_1362,Rabi (Winter),East Zone,Chickpea,Hydroponic,132.8,22.4,61.6,5.55,155.9,5.3,2748.5,6.73,946.92,1927.71
+FARM_1363,Rabi (Winter),West Zone,Wheat,Organic,166.7,16.7,54.4,7.74,131.8,8.6,4675.3,5.77,1029.09,2324.17
+FARM_1364,Rabi (Winter),Central Zone,Mustard,Precision Farming,144.1,16.8,50.2,5.89,179.5,5.7,4593.7,6.89,1084.66,1940.61
+FARM_1365,Autumn,North Zone,Groundnut,Precision Farming,321.2,23.1,66.2,8.13,186.4,7.0,4175.3,6.48,1089.25,1870.03
+FARM_1366,Rabi (Winter),North Zone,Chickpea,Hydroponic,66.0,15.6,63.8,7.13,169.4,9.7,4519.4,6.67,1135.07,2619.38
+FARM_1367,Autumn,North Zone,Soybean,Organic,228.0,26.8,59.3,7.48,168.6,10.5,3247.6,6.58,1041.61,2102.19
+FARM_1368,Autumn,North Zone,Jute,Precision Farming,362.1,24.1,62.6,5.8,30.0,10.5,2504.2,4.36,732.25,1662.01
+FARM_1369,Kharif (Monsoon),East Zone,Pulses,Conventional,858.2,24.0,84.9,7.83,155.6,9.1,3589.1,8.22,1043.16,2469.88
+FARM_1370,Kharif (Monsoon),West Zone,Rice,Conventional,1045.5,26.9,82.6,7.77,170.2,11.7,2201.4,8.67,934.37,2715.61
+FARM_1371,Kharif (Monsoon),South Zone,Pulses,Conventional,966.8,27.7,74.5,7.26,95.5,7.0,3438.6,7.37,877.84,2654.59
+FARM_1372,Kharif (Monsoon),East Zone,Rice,Precision Farming,1089.1,26.8,77.0,6.86,140.3,7.5,4871.7,8.28,1087.94,3464.43
+FARM_1373,Kharif (Monsoon),East Zone,Rice,Conventional,1095.8,29.8,81.3,7.45,103.5,2.0,4571.6,7.32,919.69,2124.87
+FARM_1374,Rabi (Winter),South Zone,Chickpea,Precision Farming,111.2,21.2,78.2,5.52,176.0,8.3,2371.5,6.63,959.44,2228.19
+FARM_1375,Kharif (Monsoon),South Zone,Pulses,Conventional,982.1,29.5,83.6,7.1,106.5,9.9,5759.2,7.73,1142.34,2211.02
+FARM_1376,Kharif (Monsoon),North Zone,Rice,Precision Farming,800.8,27.0,78.2,7.79,112.2,9.2,4266.5,7.04,1005.17,2167.56
+FARM_1377,Zaid (Summer),East Zone,Cucumber,Hydroponic,48.5,33.9,36.4,6.46,123.8,6.9,2940.8,4.13,934.06,1681.1
+FARM_1378,Kharif (Monsoon),Central Zone,Maize,Organic,813.3,27.2,81.2,5.79,218.7,10.6,4062.8,8.75,1215.09,2568.16
+FARM_1379,Zaid (Summer),South Zone,Sunflower,Hydroponic,61.6,35.5,55.2,6.64,175.2,8.3,3800.4,3.8,1074.43,1519.85
+FARM_1380,Kharif (Monsoon),South Zone,Cotton,Organic,861.5,34.6,81.8,7.46,196.4,10.4,3458.7,8.39,1115.36,2558.05
+FARM_1381,Kharif (Monsoon),West Zone,Maize,Organic,782.9,32.0,79.6,5.79,76.5,9.7,5475.1,7.36,1057.23,2948.78
+FARM_1382,Rabi (Winter),Central Zone,Chickpea,Organic,54.3,18.0,53.0,6.06,95.6,12.1,3172.4,5.52,954.27,1961.38
+FARM_1383,Rabi (Winter),Central Zone,Mustard,Conventional,214.3,14.4,52.3,5.9,186.9,9.3,4721.6,6.7,1199.72,2699.76
+FARM_1384,Autumn,South Zone,Jute,Conventional,401.4,26.2,63.8,7.65,78.4,10.0,2890.4,5.15,852.93,1551.38
+FARM_1385,Zaid (Summer),North Zone,Sunflower,Organic,44.9,36.1,39.7,5.67,116.5,8.3,4455.7,3.38,1001.27,1307.0
+FARM_1386,Zaid (Summer),West Zone,Vegetables,Organic,44.6,32.9,31.9,7.35,211.9,7.2,4818.5,4.93,1212.18,1850.22
+FARM_1387,Kharif (Monsoon),Central Zone,Pulses,Hydroponic,701.1,30.8,84.0,6.49,106.3,9.7,4820.8,6.82,1055.27,2427.99
+FARM_1388,Kharif (Monsoon),South Zone,Cotton,Precision Farming,990.4,28.0,78.8,7.54,76.3,12.3,4597.0,7.28,1017.67,2864.55
+FARM_1389,Zaid (Summer),Central Zone,Cucumber,Precision Farming,55.5,38.1,21.8,8.1,141.7,7.0,4213.2,4.15,1010.89,1538.65
+FARM_1390,Zaid (Summer),West Zone,Cucumber,Precision Farming,49.7,32.3,53.6,5.81,77.7,7.9,3223.1,3.76,857.04,1514.48
+FARM_1391,Autumn,West Zone,Jute,Precision Farming,261.8,20.1,66.6,6.35,183.3,8.6,3236.9,6.32,1057.71,2106.76
+FARM_1392,Rabi (Winter),East Zone,Barley,Organic,135.2,15.8,49.7,7.69,108.7,10.2,4858.6,5.54,1032.66,2008.74
+FARM_1393,Rabi (Winter),South Zone,Barley,Conventional,122.0,20.8,56.8,6.22,101.7,9.4,2986.3,6.07,860.24,2439.44
+FARM_1394,Zaid (Summer),West Zone,Sunflower,Precision Farming,56.0,31.7,38.3,6.08,141.0,10.8,2711.2,4.83,972.5,1497.66
+FARM_1395,Kharif (Monsoon),East Zone,Maize,Conventional,889.1,28.9,80.8,7.73,125.8,13.4,6215.7,7.08,1217.89,2463.87
+FARM_1396,Autumn,East Zone,Groundnut,Conventional,226.2,17.8,77.6,8.17,148.8,6.9,4188.3,5.74,1066.55,2379.25
+FARM_1397,Autumn,Central Zone,Soybean,Organic,195.2,19.1,65.9,7.0,158.3,10.0,5262.0,6.26,1170.53,2167.86
+FARM_1398,Rabi (Winter),Central Zone,Wheat,Conventional,81.7,14.8,59.4,6.25,132.4,9.3,5548.2,5.75,1151.48,1813.53
+FARM_1399,Zaid (Summer),East Zone,Sunflower,Conventional,95.5,36.2,35.6,6.58,99.3,8.5,4561.4,4.3,1003.03,1415.35
+FARM_1400,Zaid (Summer),Central Zone,Cucumber,Conventional,59.0,29.6,35.5,5.96,165.6,10.0,4047.9,4.36,1077.74,1761.06
+FARM_1401,Kharif (Monsoon),West Zone,Maize,Conventional,782.5,28.5,89.7,7.56,115.7,7.8,4068.3,7.53,1005.58,3115.04
+FARM_1402,Autumn,North Zone,Groundnut,Conventional,145.1,23.8,52.2,7.59,109.6,9.3,6429.6,4.77,1167.75,1970.08
+FARM_1403,Rabi (Winter),West Zone,Chickpea,Organic,129.9,14.5,43.0,7.86,145.0,5.2,3829.4,6.44,981.36,2433.37
+FARM_1404,Zaid (Summer),East Zone,Cucumber,Organic,78.3,35.8,48.0,5.57,72.5,7.2,4711.7,3.05,903.62,1071.6
+FARM_1405,Kharif (Monsoon),East Zone,Pulses,Precision Farming,770.3,27.8,88.0,7.02,153.7,11.1,5312.8,7.74,1158.35,2365.16
+FARM_1406,Autumn,West Zone,Jute,Conventional,299.8,27.4,60.7,6.08,146.9,11.0,4800.9,6.0,1153.22,1783.51
+FARM_1407,Rabi (Winter),Central Zone,Chickpea,Organic,178.6,15.8,39.8,6.42,179.3,9.1,5801.3,7.27,1246.45,2096.43
+FARM_1408,Kharif (Monsoon),Central Zone,Pulses,Precision Farming,848.9,26.6,71.9,7.62,122.5,7.4,4036.1,7.54,970.06,2129.9
+FARM_1409,Autumn,East Zone,Groundnut,Organic,315.3,22.3,86.6,6.02,186.4,10.6,5308.0,6.23,1225.47,2510.29
+FARM_1410,Kharif (Monsoon),South Zone,Maize,Conventional,630.3,24.4,84.3,7.22,158.5,11.6,2346.5,6.7,973.15,2634.92
+FARM_1411,Kharif (Monsoon),Central Zone,Cotton,Organic,830.0,30.5,81.9,7.27,139.1,7.5,6116.3,7.92,1204.45,2847.2
+FARM_1412,Autumn,West Zone,Sugarcane,Precision Farming,253.4,20.9,72.5,8.08,203.6,4.9,5847.8,6.24,1231.39,2619.68
+FARM_1413,Autumn,Central Zone,Sugarcane,Conventional,196.9,26.7,71.4,7.59,143.3,9.6,4134.7,5.72,1076.16,2364.8
+FARM_1414,Rabi (Winter),West Zone,Barley,Organic,144.9,16.8,47.1,7.67,121.9,10.8,5026.6,6.14,1097.68,2282.33
+FARM_1415,Rabi (Winter),East Zone,Barley,Precision Farming,168.5,5.8,60.7,6.94,144.3,10.0,5569.3,7.38,1184.98,2546.4
+FARM_1416,Rabi (Winter),Central Zone,Barley,Conventional,154.8,17.1,56.9,6.0,121.1,12.4,3254.7,6.01,941.87,1810.84
+FARM_1417,Kharif (Monsoon),West Zone,Maize,Conventional,644.0,20.8,82.3,6.65,153.1,12.4,4326.6,7.02,1088.67,2472.33
+FARM_1418,Kharif (Monsoon),East Zone,Rice,Organic,1047.5,22.8,74.7,6.98,186.2,7.7,2933.1,7.95,1029.09,2401.57
+FARM_1419,Rabi (Winter),South Zone,Barley,Conventional,180.1,19.4,78.7,7.33,139.7,9.0,5866.1,6.6,1184.25,2216.17
+FARM_1420,Zaid (Summer),West Zone,Cucumber,Organic,81.5,37.5,32.4,7.14,143.2,7.3,5487.3,5.07,1141.84,2088.69
+FARM_1421,Zaid (Summer),South Zone,Watermelon,Conventional,70.5,39.5,38.4,6.56,167.9,5.9,4162.9,4.57,1035.05,1498.4
+FARM_1422,Zaid (Summer),South Zone,Sunflower,Precision Farming,57.7,35.4,33.4,6.22,181.6,6.1,4023.7,4.69,1063.34,1413.52
+FARM_1423,Kharif (Monsoon),North Zone,Maize,Conventional,890.3,28.7,87.4,5.95,124.2,10.3,4321.3,7.85,1009.25,2838.05
+FARM_1424,Rabi (Winter),Central Zone,Wheat,Organic,142.4,20.7,53.7,7.37,146.0,9.3,3423.3,6.6,980.86,2404.58
+FARM_1425,Kharif (Monsoon),West Zone,Maize,Organic,946.0,27.2,82.9,7.24,168.1,10.7,4291.2,8.6,1124.08,2641.34
+FARM_1426,Rabi (Winter),South Zone,Wheat,Organic,179.1,13.7,63.8,7.36,151.5,14.8,3254.7,7.24,1067.67,2226.46
+FARM_1427,Rabi (Winter),North Zone,Wheat,Conventional,143.3,16.1,49.3,6.51,74.8,9.7,5578.0,5.43,1033.67,2272.66
+FARM_1428,Autumn,East Zone,Groundnut,Precision Farming,323.9,25.0,67.6,6.21,174.4,6.5,5864.3,5.6,1222.46,1758.73
+FARM_1429,Rabi (Winter),West Zone,Mustard,Organic,165.6,20.4,77.2,7.55,158.3,11.1,5634.2,7.01,1217.97,2785.4
+FARM_1430,Kharif (Monsoon),South Zone,Cotton,Precision Farming,856.0,25.8,69.9,7.59,160.8,6.5,3067.0,7.94,958.06,2746.01
+FARM_1431,Kharif (Monsoon),Central Zone,Pulses,Precision Farming,670.7,31.7,83.6,6.73,98.3,12.9,4249.9,6.28,1023.01,2140.84
+FARM_1432,Zaid (Summer),North Zone,Sunflower,Conventional,33.0,42.4,43.3,7.15,145.3,3.6,5201.7,3.99,1112.58,1281.97
+FARM_1433,Rabi (Winter),South Zone,Wheat,Precision Farming,168.4,27.0,68.9,6.51,169.5,7.1,5422.5,6.64,1171.31,2578.55
+FARM_1434,Kharif (Monsoon),Central Zone,Cotton,Conventional,967.2,30.5,84.6,7.4,109.2,10.1,2293.4,7.54,869.7,3040.83
+FARM_1435,Kharif (Monsoon),South Zone,Maize,Conventional,813.9,28.9,82.9,7.76,118.3,11.4,5388.6,7.6,1142.24,2405.84
+FARM_1436,Zaid (Summer),West Zone,Vegetables,Conventional,57.5,32.1,37.3,7.36,170.1,6.8,3008.1,4.93,973.58,1446.04
+FARM_1437,Kharif (Monsoon),West Zone,Cotton,Conventional,701.8,28.2,71.1,6.88,116.7,6.4,4315.2,7.3,950.44,2183.93
+FARM_1438,Zaid (Summer),West Zone,Vegetables,Organic,66.8,30.1,36.0,6.74,132.7,8.9,6009.0,4.1,1163.49,1603.07
+FARM_1439,Zaid (Summer),North Zone,Vegetables,Conventional,70.1,37.4,46.7,7.23,103.8,13.3,5846.5,4.86,1165.34,1657.34
+FARM_1440,Kharif (Monsoon),West Zone,Cotton,Conventional,898.0,24.6,84.9,7.34,203.7,4.7,6091.4,8.43,1257.72,2516.09
+FARM_1441,Kharif (Monsoon),Central Zone,Rice,Conventional,685.5,31.3,83.1,7.01,158.2,7.7,3220.5,7.26,1010.95,2378.67
+FARM_1442,Autumn,South Zone,Sugarcane,Organic,408.7,25.1,59.3,7.19,131.1,9.2,3516.9,5.36,962.39,1886.68
+FARM_1443,Rabi (Winter),East Zone,Chickpea,Hydroponic,98.3,13.3,41.9,5.76,124.5,6.5,3824.6,5.97,955.29,2383.74
+FARM_1444,Rabi (Winter),Central Zone,Wheat,Precision Farming,187.7,22.3,59.4,8.07,97.0,6.5,4324.3,6.13,959.3,2267.14
+FARM_1445,Zaid (Summer),Central Zone,Sunflower,Conventional,59.3,41.2,39.0,7.64,136.1,7.9,4760.0,3.57,1065.3,1087.58
+FARM_1446,Autumn,West Zone,Groundnut,Organic,317.7,24.9,62.6,6.51,163.3,9.2,6032.7,5.67,1256.77,1713.58
+FARM_1447,Autumn,North Zone,Soybean,Precision Farming,350.5,23.1,60.1,7.02,111.7,8.0,3385.7,5.39,896.23,1820.35
+FARM_1448,Zaid (Summer),South Zone,Vegetables,Precision Farming,73.6,33.5,41.3,5.63,143.7,12.2,3745.4,3.95,1023.85,1147.58
+FARM_1449,Rabi (Winter),North Zone,Wheat,Precision Farming,136.3,18.0,49.6,5.61,127.1,10.0,6208.4,5.87,1189.57,2264.53
+FARM_1450,Kharif (Monsoon),South Zone,Maize,Conventional,753.9,25.5,84.2,6.18,188.3,9.5,3109.1,8.35,1049.75,2807.3
+FARM_1451,Zaid (Summer),South Zone,Watermelon,Conventional,63.4,37.8,50.3,7.36,117.7,11.1,5372.2,3.41,1128.86,1118.56
+FARM_1452,Rabi (Winter),North Zone,Chickpea,Organic,131.6,21.5,54.9,7.8,167.2,9.5,4393.6,6.8,1119.24,2388.67
+FARM_1453,Rabi (Winter),Central Zone,Wheat,Organic,143.7,23.0,59.4,7.01,188.8,7.4,4965.7,7.3,1167.61,2768.55
+FARM_1454,Autumn,South Zone,Jute,Precision Farming,271.8,26.5,56.1,6.94,126.8,7.8,3526.4,5.38,924.3,1935.23
+FARM_1455,Kharif (Monsoon),North Zone,Pulses,Precision Farming,887.1,23.5,75.1,6.59,119.4,5.7,5348.6,7.35,1058.55,2883.67
+FARM_1456,Rabi (Winter),South Zone,Chickpea,Conventional,173.4,7.3,69.4,5.94,172.3,13.5,3714.9,6.9,1098.69,2539.96
+FARM_1457,Kharif (Monsoon),East Zone,Maize,Precision Farming,975.2,22.5,92.0,5.82,77.7,10.8,2796.5,7.36,844.83,2872.72
+FARM_1458,Rabi (Winter),Central Zone,Barley,Conventional,257.0,17.3,47.6,7.55,155.1,2.1,5076.0,7.53,1038.26,2842.95
+FARM_1459,Kharif (Monsoon),West Zone,Pulses,Conventional,1102.9,27.0,80.8,8.0,84.9,11.8,1496.3,6.94,772.04,2130.84
+FARM_1460,Kharif (Monsoon),South Zone,Cotton,Conventional,1032.6,27.5,78.8,6.74,182.8,4.8,3818.4,8.14,1075.86,2338.86
+FARM_1461,Kharif (Monsoon),East Zone,Rice,Hydroponic,659.1,26.1,78.7,7.28,131.2,9.8,4849.4,6.69,1077.17,2719.32
+FARM_1462,Rabi (Winter),West Zone,Barley,Organic,100.5,13.4,55.3,7.97,136.8,3.0,5409.3,6.25,1039.61,2577.45
+FARM_1463,Zaid (Summer),West Zone,Sunflower,Hydroponic,23.0,32.4,59.4,5.74,114.7,7.4,5971.8,3.78,1146.16,1443.09
+FARM_1464,Rabi (Winter),South Zone,Mustard,Precision Farming,136.2,16.1,52.2,7.58,84.6,11.9,6633.1,6.0,1210.5,2288.33
+FARM_1465,Autumn,North Zone,Groundnut,Organic,273.3,26.7,68.5,7.17,184.3,12.0,6266.1,5.91,1302.02,1878.32
+FARM_1466,Rabi (Winter),South Zone,Barley,Conventional,134.4,17.1,65.5,7.12,134.0,9.3,4729.9,6.02,1078.98,2142.77
+FARM_1467,Kharif (Monsoon),East Zone,Cotton,Precision Farming,623.5,27.8,80.7,6.29,252.3,10.5,5850.7,8.04,1407.57,3368.06
+FARM_1468,Autumn,West Zone,Groundnut,Conventional,237.9,24.7,58.6,7.35,111.6,5.0,4711.3,5.38,982.25,2151.25
+FARM_1469,Kharif (Monsoon),South Zone,Cotton,Hydroponic,945.6,24.0,85.3,7.65,117.4,9.8,5323.1,7.89,1070.22,2545.43
+FARM_1470,Autumn,North Zone,Sugarcane,Hydroponic,294.1,23.7,58.0,5.8,108.6,10.6,3780.8,5.36,948.01,1726.7
+FARM_1471,Kharif (Monsoon),South Zone,Pulses,Conventional,1004.6,26.0,74.2,6.94,133.8,14.9,5054.5,7.65,1149.0,2659.91
+FARM_1472,Autumn,Central Zone,Soybean,Conventional,384.1,22.3,64.3,5.77,195.1,6.9,3932.1,6.06,1078.31,2040.06
+FARM_1473,Kharif (Monsoon),North Zone,Pulses,Hydroponic,972.8,28.5,88.7,7.86,175.4,8.5,4291.7,8.8,1113.2,2921.26
+FARM_1474,Autumn,East Zone,Sugarcane,Conventional,233.2,24.4,64.1,6.87,87.3,8.7,5058.3,4.38,1038.17,1610.86
+FARM_1475,Rabi (Winter),West Zone,Wheat,Organic,174.8,23.2,55.6,7.68,182.1,10.2,7009.7,6.97,1334.44,1962.81
+FARM_1476,Autumn,South Zone,Sugarcane,Organic,289.0,20.6,65.8,6.49,163.9,10.7,4973.7,6.29,1155.61,2433.4
+FARM_1477,Kharif (Monsoon),North Zone,Rice,Conventional,752.5,29.9,78.0,5.84,156.8,11.2,4486.0,7.43,1102.83,2850.2
+FARM_1478,Rabi (Winter),Central Zone,Wheat,Hydroponic,140.4,12.2,40.5,5.61,116.1,11.0,3501.9,5.86,976.45,2322.0
+FARM_1479,Autumn,North Zone,Soybean,Precision Farming,448.9,25.4,67.8,6.26,118.7,4.8,5575.4,6.06,1050.74,2410.69
+FARM_1480,Rabi (Winter),Central Zone,Barley,Conventional,113.5,21.5,60.6,6.16,144.8,2.0,4097.4,6.01,941.82,2159.37
+FARM_1481,Rabi (Winter),East Zone,Wheat,Organic,117.9,13.8,49.1,7.01,120.6,7.2,4949.0,5.48,1017.7,2132.87
+FARM_1482,Rabi (Winter),West Zone,Wheat,Conventional,148.9,18.7,55.3,5.56,185.9,8.4,5342.3,7.12,1240.21,2484.42
+FARM_1483,Rabi (Winter),East Zone,Chickpea,Precision Farming,201.9,15.1,46.3,6.91,119.1,7.0,6016.9,5.97,1173.2,2466.89
+FARM_1484,Rabi (Winter),South Zone,Mustard,Organic,150.0,11.2,60.6,6.56,71.9,7.4,5510.8,5.7,1010.11,1748.18
+FARM_1485,Rabi (Winter),North Zone,Mustard,Conventional,153.9,16.6,51.9,7.06,94.4,7.7,3031.9,5.89,884.18,2404.22
+FARM_1486,Autumn,Central Zone,Jute,Organic,372.8,27.6,63.3,7.4,96.7,9.9,2439.4,5.56,827.14,1758.04
+FARM_1487,Kharif (Monsoon),Central Zone,Maize,Conventional,938.8,30.6,81.7,7.21,130.8,5.9,5341.8,7.59,1083.72,2234.35
+FARM_1488,Kharif (Monsoon),North Zone,Pulses,Hydroponic,819.2,29.1,74.8,8.16,147.6,8.3,4603.2,7.72,1096.56,2636.18
+FARM_1489,Autumn,North Zone,Groundnut,Conventional,305.7,24.3,62.3,5.87,141.9,8.3,4969.8,5.48,1087.83,2006.16
+FARM_1490,Autumn,South Zone,Jute,Conventional,161.9,21.9,61.6,6.66,156.1,9.9,6563.7,5.97,1271.59,1864.66
+FARM_1491,Rabi (Winter),East Zone,Chickpea,Conventional,185.8,19.1,62.5,6.65,131.2,11.4,3760.1,5.99,1018.11,2143.29
+FARM_1492,Rabi (Winter),Central Zone,Wheat,Hydroponic,199.7,19.3,56.1,6.63,132.4,12.7,6049.7,7.0,1233.59,2751.74
+FARM_1493,Kharif (Monsoon),South Zone,Rice,Organic,704.1,34.0,72.9,7.29,201.3,6.6,3772.0,8.77,1094.99,2771.25
+FARM_1494,Kharif (Monsoon),East Zone,Pulses,Conventional,867.8,30.5,84.2,6.82,182.2,3.5,6378.3,8.16,1215.66,2947.76
+FARM_1495,Rabi (Winter),South Zone,Barley,Conventional,103.8,16.3,48.6,6.9,154.3,7.9,5400.6,7.19,1148.5,2354.75
+FARM_1496,Rabi (Winter),Central Zone,Mustard,Precision Farming,70.8,18.5,49.3,6.67,172.1,4.5,2691.4,7.43,951.7,2631.47
+FARM_1497,Rabi (Winter),North Zone,Barley,Conventional,210.2,20.5,55.3,8.18,72.6,15.3,3999.3,5.56,995.6,2075.93
+FARM_1498,Kharif (Monsoon),North Zone,Maize,Organic,779.1,28.3,78.7,8.0,111.2,6.3,6798.8,7.03,1179.13,2313.29
+FARM_1499,Autumn,East Zone,Groundnut,Conventional,305.6,30.7,57.5,6.33,124.9,9.9,6648.2,5.29,1270.66,2217.71
+FARM_1500,Autumn,West Zone,Groundnut,Precision Farming,286.5,27.1,62.2,5.8,111.6,10.8,5225.1,5.1,1076.33,1830.54
+FARM_1501,Rabi (Winter),East Zone,Wheat,Organic,213.2,20.7,49.2,7.77,85.9,9.4,4925.1,6.02,1025.04,2380.46
+FARM_1502,Rabi (Winter),West Zone,Mustard,Precision Farming,158.2,15.2,48.6,8.19,154.7,13.7,4787.7,5.93,1176.91,2262.41
+FARM_1503,Kharif (Monsoon),South Zone,Cotton,Organic,829.0,31.8,83.7,6.29,188.5,8.0,5024.4,8.42,1194.06,3362.89
+FARM_1504,Zaid (Summer),South Zone,Sunflower,Conventional,59.5,37.3,42.7,6.47,139.6,6.4,4331.0,4.32,1028.28,1314.71
+FARM_1505,Rabi (Winter),Central Zone,Barley,Conventional,103.2,17.4,54.4,8.04,162.7,6.3,5953.2,6.84,1180.46,2128.32
+FARM_1506,Kharif (Monsoon),West Zone,Rice,Precision Farming,964.3,26.3,75.4,7.42,138.5,10.4,5193.4,7.74,1118.59,2695.36
+FARM_1507,Autumn,Central Zone,Soybean,Conventional,296.4,23.1,62.7,6.3,124.5,8.0,3341.6,5.86,937.81,2340.05
+FARM_1508,Zaid (Summer),North Zone,Cucumber,Precision Farming,58.4,33.9,49.6,7.07,172.2,6.3,5286.0,4.63,1142.55,1424.49
+FARM_1509,Autumn,West Zone,Groundnut,Precision Farming,413.1,27.6,52.6,8.05,90.0,9.6,4698.0,5.61,995.71,2333.48
+FARM_1510,Zaid (Summer),East Zone,Cucumber,Conventional,47.2,34.5,21.5,7.69,74.8,10.3,4125.0,4.02,953.85,1197.41
+FARM_1511,Rabi (Winter),North Zone,Chickpea,Precision Farming,115.0,17.2,51.4,7.5,89.5,9.2,6778.2,5.24,1139.0,1595.64
+FARM_1512,Rabi (Winter),North Zone,Wheat,Precision Farming,150.3,12.5,51.3,7.49,169.9,10.7,4624.5,6.56,1150.89,1990.39
+FARM_1513,Autumn,East Zone,Soybean,Organic,312.2,25.0,68.1,5.98,143.1,8.7,2151.8,6.72,905.37,2432.91
+FARM_1514,Autumn,North Zone,Groundnut,Conventional,331.1,23.8,65.8,7.73,153.2,7.0,4210.4,6.02,1036.6,2458.9
+FARM_1515,Kharif (Monsoon),West Zone,Cotton,Hydroponic,730.0,27.2,74.7,6.25,198.7,10.5,5692.2,7.28,1318.75,2298.41
+FARM_1516,Kharif (Monsoon),Central Zone,Pulses,Organic,1009.8,27.2,85.3,8.01,99.3,6.3,3388.2,6.72,844.05,2401.9
+FARM_1517,Rabi (Winter),North Zone,Mustard,Precision Farming,162.5,14.5,57.0,6.48,182.1,5.7,5651.4,7.02,1234.5,2138.35
+FARM_1518,Zaid (Summer),West Zone,Watermelon,Hydroponic,76.2,34.8,40.7,7.82,126.1,11.4,3302.8,3.92,978.29,1443.97
+FARM_1519,Autumn,South Zone,Soybean,Organic,255.9,25.1,66.7,6.22,120.8,7.6,6104.0,5.14,1120.77,1527.89
+FARM_1520,Kharif (Monsoon),West Zone,Maize,Conventional,763.2,24.8,86.4,6.89,142.8,12.7,3812.9,8.14,1080.78,2839.1
+FARM_1521,Rabi (Winter),Central Zone,Chickpea,Conventional,174.2,15.8,56.8,5.79,148.3,10.6,4077.9,6.45,1079.52,2397.63
+FARM_1522,Rabi (Winter),West Zone,Barley,Conventional,90.9,10.1,63.7,7.28,132.6,7.4,3988.9,6.57,1024.77,2372.28
+FARM_1523,Autumn,East Zone,Soybean,Organic,318.4,24.9,66.6,7.76,161.4,9.7,5216.9,6.09,1143.67,1824.56
+FARM_1524,Zaid (Summer),Central Zone,Vegetables,Organic,124.5,37.6,29.5,7.44,143.0,14.8,6712.9,4.27,1300.33,1292.07
+FARM_1525,Zaid (Summer),South Zone,Sunflower,Conventional,26.4,38.2,48.6,6.91,133.0,10.4,4517.8,3.69,1090.9,1380.04
+FARM_1526,Rabi (Winter),East Zone,Barley,Precision Farming,173.0,14.7,57.9,5.62,125.4,10.0,4486.9,6.6,1105.17,2595.43
+FARM_1527,Rabi (Winter),West Zone,Chickpea,Precision Farming,121.1,20.7,62.9,8.02,148.3,7.0,3812.1,5.5,1017.65,2239.22
+FARM_1528,Kharif (Monsoon),Central Zone,Rice,Conventional,768.5,31.4,80.6,7.4,92.5,13.1,2547.2,7.18,892.24,2828.24
+FARM_1529,Kharif (Monsoon),South Zone,Cotton,Organic,923.8,24.1,81.2,7.51,102.4,11.8,3931.8,7.36,975.16,3064.33
+FARM_1530,Autumn,East Zone,Jute,Conventional,246.0,26.4,75.3,7.65,127.1,7.0,2989.2,5.74,898.78,1935.27
+FARM_1531,Zaid (Summer),South Zone,Watermelon,Organic,65.8,32.3,46.3,7.52,159.1,13.2,2235.2,4.42,961.16,1442.53
+FARM_1532,Autumn,West Zone,Jute,Hydroponic,332.1,31.2,66.8,6.69,215.0,8.9,4407.6,6.14,1206.6,1743.43
+FARM_1533,Autumn,South Zone,Sugarcane,Precision Farming,253.2,27.3,64.1,7.48,134.4,6.4,3848.9,5.75,995.25,1972.17
+FARM_1534,Rabi (Winter),North Zone,Mustard,Precision Farming,153.2,14.3,54.0,7.19,77.9,7.0,6151.9,6.06,1070.13,2249.42
+FARM_1535,Zaid (Summer),East Zone,Sunflower,Hydroponic,60.6,34.6,34.1,7.81,112.3,10.7,3473.3,3.8,974.32,1497.8
+FARM_1536,Autumn,South Zone,Sugarcane,Organic,323.1,22.2,56.9,7.67,163.1,6.4,5304.4,6.29,1144.29,1996.72
+FARM_1537,Zaid (Summer),West Zone,Vegetables,Precision Farming,74.2,36.9,26.9,5.61,106.0,5.7,5281.0,4.06,1058.75,1428.73
+FARM_1538,Kharif (Monsoon),West Zone,Rice,Conventional,575.6,25.0,79.4,6.52,94.3,7.4,6104.6,6.61,1079.71,2463.42
+FARM_1539,Rabi (Winter),South Zone,Barley,Hydroponic,196.2,17.4,48.8,5.59,162.9,7.8,4278.9,6.47,1107.13,2311.24
+FARM_1540,Kharif (Monsoon),West Zone,Maize,Conventional,872.3,27.7,73.1,5.78,156.3,6.8,6082.9,8.28,1185.39,2636.04
+FARM_1541,Autumn,Central Zone,Sugarcane,Precision Farming,190.0,21.0,82.4,7.12,88.5,7.4,5173.1,5.12,1011.79,2004.38
+FARM_1542,Rabi (Winter),Central Zone,Mustard,Precision Farming,184.4,15.6,63.9,7.86,108.7,10.8,5867.1,6.46,1120.61,1965.59
+FARM_1543,Kharif (Monsoon),Central Zone,Pulses,Organic,764.8,31.2,80.4,5.82,183.6,9.1,7373.0,7.68,1390.07,3123.43
+FARM_1544,Rabi (Winter),North Zone,Barley,Conventional,123.6,20.7,56.1,6.72,169.8,7.2,4352.1,7.2,1093.06,2976.22
+FARM_1545,Rabi (Winter),South Zone,Barley,Precision Farming,165.9,18.9,56.6,7.96,98.1,7.4,4705.0,5.76,1006.9,1907.6
+FARM_1546,Rabi (Winter),North Zone,Mustard,Conventional,182.0,28.3,65.0,7.7,70.4,8.2,4065.8,5.3,865.34,1763.13
+FARM_1547,Kharif (Monsoon),West Zone,Pulses,Conventional,882.9,27.1,79.0,6.9,149.4,8.3,6350.8,8.48,1229.42,3256.82
+FARM_1548,Rabi (Winter),North Zone,Wheat,Organic,99.8,20.7,46.9,7.58,129.6,8.3,7625.6,5.26,1301.36,1808.81
+FARM_1549,Rabi (Winter),West Zone,Wheat,Organic,135.1,20.7,53.1,6.91,146.4,10.7,5381.0,7.74,1152.57,2198.2
+FARM_1550,Zaid (Summer),West Zone,Vegetables,Precision Farming,50.2,31.4,52.1,5.93,162.2,9.0,2567.9,4.69,965.99,1917.19
+FARM_1551,Rabi (Winter),East Zone,Mustard,Conventional,116.7,15.7,40.7,5.84,106.5,9.1,3440.3,5.81,879.83,1977.17
+FARM_1552,Autumn,Central Zone,Soybean,Organic,298.4,24.0,66.3,6.01,124.9,12.1,5891.5,5.71,1188.34,1761.47
+FARM_1553,Rabi (Winter),West Zone,Wheat,Conventional,103.0,20.9,40.3,6.45,108.5,13.2,3126.8,6.26,982.05,2239.78
+FARM_1554,Rabi (Winter),East Zone,Chickpea,Conventional,146.3,18.5,55.5,8.01,109.8,5.4,3779.4,5.89,912.31,1829.71
+FARM_1555,Autumn,Central Zone,Groundnut,Organic,312.6,27.4,74.3,7.66,159.8,4.6,3737.3,6.78,976.81,2093.96
+FARM_1556,Rabi (Winter),West Zone,Wheat,Conventional,143.8,14.1,59.5,6.67,145.0,7.6,4407.4,7.14,1053.89,2544.71
+FARM_1557,Kharif (Monsoon),West Zone,Rice,Conventional,808.0,31.8,77.0,6.83,85.3,10.5,4808.1,7.95,1015.65,2661.23
+FARM_1558,Kharif (Monsoon),North Zone,Maize,Conventional,721.3,28.4,71.3,6.22,165.4,9.4,2232.7,7.08,957.5,2550.35
+FARM_1559,Zaid (Summer),North Zone,Sunflower,Precision Farming,50.7,34.0,42.2,7.4,127.7,11.1,2667.1,4.22,929.53,1770.52
+FARM_1560,Rabi (Winter),Central Zone,Wheat,Organic,110.1,14.5,64.3,7.67,167.0,7.5,2695.7,6.14,971.71,2457.61
+FARM_1561,Zaid (Summer),West Zone,Watermelon,Conventional,59.7,37.6,34.6,6.15,104.5,3.6,2839.2,3.51,810.34,986.57
+FARM_1562,Kharif (Monsoon),South Zone,Cotton,Conventional,841.8,28.6,88.7,5.61,107.6,5.1,4519.2,6.99,951.23,2006.67
+FARM_1563,Kharif (Monsoon),North Zone,Rice,Conventional,817.4,27.5,85.5,7.18,148.8,9.9,4733.5,7.48,1087.44,2733.28
+FARM_1564,Kharif (Monsoon),Central Zone,Rice,Conventional,793.0,28.9,85.1,7.02,101.6,11.2,5715.8,7.16,1131.47,2632.56
+FARM_1565,Rabi (Winter),West Zone,Chickpea,Conventional,127.0,19.4,69.0,6.59,130.4,3.7,5165.9,6.28,993.33,2530.51
+FARM_1566,Rabi (Winter),West Zone,Mustard,Precision Farming,186.9,19.1,53.2,7.24,97.6,12.0,3801.3,6.37,938.88,2344.59
+FARM_1567,Rabi (Winter),South Zone,Chickpea,Conventional,125.8,14.0,67.1,6.99,126.3,9.7,4775.9,6.39,1047.4,1992.91
+FARM_1568,Rabi (Winter),Central Zone,Mustard,Conventional,202.6,15.4,57.7,6.18,138.9,8.3,5765.1,7.25,1175.38,2505.54
+FARM_1569,Autumn,West Zone,Jute,Precision Farming,308.9,28.6,67.7,6.57,140.5,6.9,4227.1,6.13,994.53,2410.67
+FARM_1570,Kharif (Monsoon),North Zone,Rice,Conventional,846.6,26.4,81.7,6.66,127.2,12.5,4127.5,6.96,1068.36,2848.0
+FARM_1571,Rabi (Winter),South Zone,Barley,Conventional,136.1,18.9,54.4,7.88,151.7,10.7,3366.1,6.48,1000.56,2029.33
+FARM_1572,Zaid (Summer),Central Zone,Cucumber,Organic,52.6,32.1,45.1,8.09,145.2,9.7,3534.2,4.2,1007.84,1493.29
+FARM_1573,Rabi (Winter),South Zone,Chickpea,Organic,151.7,25.1,46.7,7.91,136.9,6.7,5322.7,6.56,1100.99,1982.76
+FARM_1574,Rabi (Winter),North Zone,Chickpea,Precision Farming,175.0,17.7,71.8,7.44,118.1,12.5,4495.4,6.69,1069.4,2338.69
+FARM_1575,Autumn,Central Zone,Jute,Precision Farming,343.9,26.0,64.4,7.08,177.4,8.6,6850.1,6.37,1307.28,1863.96
+FARM_1576,Autumn,South Zone,Soybean,Hydroponic,243.8,25.9,55.3,7.36,153.5,9.2,3688.0,6.01,1001.02,2475.17
+FARM_1577,Kharif (Monsoon),East Zone,Cotton,Conventional,649.6,31.0,71.2,8.04,103.7,8.7,5413.6,6.17,1074.55,2278.75
+FARM_1578,Autumn,North Zone,Jute,Conventional,274.4,21.9,62.2,6.17,162.7,6.6,4963.7,5.76,1130.16,2301.64
+FARM_1579,Rabi (Winter),North Zone,Wheat,Organic,157.4,21.9,64.7,6.94,170.6,9.3,4392.8,6.14,1133.75,2577.33
+FARM_1580,Kharif (Monsoon),North Zone,Cotton,Conventional,712.2,26.6,100.3,7.36,137.1,10.2,3977.4,7.4,1039.6,2261.24
+FARM_1581,Rabi (Winter),East Zone,Wheat,Conventional,140.0,14.5,49.3,7.33,139.5,7.4,5220.1,6.79,1112.56,2561.05
+FARM_1582,Autumn,East Zone,Sugarcane,Hydroponic,280.5,23.8,63.4,6.18,67.9,9.1,5151.2,4.43,977.99,1790.51
+FARM_1583,Rabi (Winter),West Zone,Chickpea,Organic,149.1,17.9,47.4,7.08,110.5,8.6,4742.4,6.19,1041.0,2232.31
+FARM_1584,Kharif (Monsoon),South Zone,Rice,Conventional,905.4,28.4,82.5,7.65,169.5,10.8,5010.8,7.97,1193.72,2945.37
+FARM_1585,Rabi (Winter),West Zone,Wheat,Conventional,81.4,18.6,39.1,6.78,112.6,7.8,4543.8,6.66,1003.27,2244.91
+FARM_1586,Kharif (Monsoon),South Zone,Pulses,Conventional,823.7,30.0,85.2,7.64,134.4,9.1,2530.6,7.07,904.14,2647.48
+FARM_1587,Kharif (Monsoon),East Zone,Cotton,Conventional,900.2,30.0,78.5,6.47,109.9,9.6,4601.2,7.72,1030.59,2589.14
+FARM_1588,Kharif (Monsoon),East Zone,Maize,Precision Farming,773.6,36.1,84.1,8.03,148.1,7.7,4177.7,7.88,1052.24,2732.21
+FARM_1589,Kharif (Monsoon),West Zone,Maize,Organic,674.1,22.8,77.7,6.94,153.8,6.4,6835.5,7.26,1220.01,2137.4
+FARM_1590,Kharif (Monsoon),Central Zone,Maize,Precision Farming,1028.8,28.1,68.9,7.11,154.7,6.8,5260.1,8.28,1100.14,2327.45
+FARM_1591,Kharif (Monsoon),West Zone,Cotton,Conventional,823.4,28.0,67.9,5.58,100.1,9.5,4741.8,7.42,993.6,2134.89
+FARM_1592,Rabi (Winter),South Zone,Wheat,Precision Farming,151.0,13.9,40.3,5.96,143.7,7.9,5055.4,6.07,1099.2,1863.2
+FARM_1593,Kharif (Monsoon),West Zone,Maize,Precision Farming,1090.7,24.8,76.7,7.21,195.2,7.9,3272.3,8.6,1066.75,2957.75
+FARM_1594,Kharif (Monsoon),North Zone,Cotton,Conventional,747.9,28.0,88.8,6.63,166.2,10.0,3768.3,7.73,1025.82,2187.12
+FARM_1595,Autumn,South Zone,Sugarcane,Conventional,204.3,24.1,65.8,6.87,143.3,11.0,4098.3,6.43,1070.21,1940.77
+FARM_1596,Rabi (Winter),South Zone,Chickpea,Hydroponic,115.2,16.7,59.8,5.67,72.4,11.5,4966.1,5.33,1039.26,2075.51
+FARM_1597,Rabi (Winter),Central Zone,Mustard,Conventional,119.8,16.6,51.5,7.75,131.3,7.0,3978.3,6.15,993.64,2378.23
+FARM_1598,Kharif (Monsoon),East Zone,Rice,Hydroponic,834.4,28.7,82.9,7.62,197.6,10.8,3898.3,8.8,1106.89,3436.95
+FARM_1599,Kharif (Monsoon),South Zone,Maize,Organic,1140.6,20.0,79.2,6.0,186.2,13.7,3218.6,9.02,1117.53,3689.32
+FARM_1600,Kharif (Monsoon),East Zone,Maize,Conventional,645.3,26.8,84.4,7.21,156.1,8.8,4530.1,8.17,1104.11,2423.79
+FARM_1601,Kharif (Monsoon),West Zone,Maize,Precision Farming,1029.7,31.7,86.2,7.71,114.8,8.3,4698.7,8.1,1025.52,2453.0
+FARM_1602,Kharif (Monsoon),North Zone,Rice,Hydroponic,823.9,32.2,88.0,7.23,141.8,7.8,5014.2,7.48,1103.61,2443.7
+FARM_1603,Kharif (Monsoon),Central Zone,Cotton,Conventional,870.8,31.5,80.2,6.34,167.1,5.8,3664.8,7.82,986.08,3191.5
+FARM_1604,Kharif (Monsoon),East Zone,Rice,Precision Farming,1061.5,27.5,77.0,7.27,172.9,10.6,4944.9,8.11,1185.14,3151.28
+FARM_1605,Kharif (Monsoon),South Zone,Maize,Conventional,682.0,27.5,80.4,6.07,150.9,8.3,3251.7,6.78,991.33,2206.06
+FARM_1606,Rabi (Winter),East Zone,Wheat,Organic,112.2,17.0,50.8,6.36,169.9,8.1,4237.1,6.9,1078.49,2016.66
+FARM_1607,Kharif (Monsoon),South Zone,Pulses,Conventional,688.5,31.1,86.1,6.15,137.9,10.2,4861.9,7.42,1100.46,2717.9
+FARM_1608,Rabi (Winter),East Zone,Barley,Conventional,191.3,17.7,54.8,7.0,136.4,10.4,4189.5,6.85,1044.71,2164.29
+FARM_1609,Rabi (Winter),South Zone,Wheat,Hydroponic,107.5,19.7,56.4,5.79,123.9,7.0,2625.8,6.08,857.62,2154.52
+FARM_1610,Rabi (Winter),West Zone,Chickpea,Conventional,263.8,22.3,57.5,8.02,154.9,7.1,2768.8,7.65,918.34,3150.67
+FARM_1611,Kharif (Monsoon),South Zone,Cotton,Organic,843.8,31.0,75.4,6.4,175.0,6.9,4765.1,7.43,1114.17,2676.04
+FARM_1612,Zaid (Summer),South Zone,Sunflower,Organic,82.8,31.7,34.4,6.09,164.8,13.8,5195.6,3.91,1238.01,1600.51
+FARM_1613,Rabi (Winter),North Zone,Barley,Conventional,76.5,20.5,57.0,6.84,97.4,12.2,4907.2,5.46,1029.3,1829.24
+FARM_1614,Kharif (Monsoon),South Zone,Rice,Conventional,765.8,25.2,86.9,6.25,99.2,10.3,5224.5,6.91,1073.47,2547.5
+FARM_1615,Autumn,North Zone,Groundnut,Precision Farming,289.3,22.7,78.5,6.94,178.6,7.6,4163.3,5.72,1105.62,2317.43
+FARM_1616,Autumn,Central Zone,Soybean,Conventional,247.4,28.4,56.9,6.44,146.2,7.9,5386.1,6.26,1111.25,2268.11
+FARM_1617,Kharif (Monsoon),North Zone,Pulses,Hydroponic,796.8,29.5,79.7,5.86,147.5,9.4,4903.3,7.21,1119.22,2639.48
+FARM_1618,Kharif (Monsoon),West Zone,Cotton,Hydroponic,886.6,26.4,72.0,6.22,146.8,14.0,3732.7,7.37,1062.72,2802.69
+FARM_1619,Zaid (Summer),North Zone,Watermelon,Conventional,89.3,33.6,42.9,6.68,201.3,9.2,5117.3,5.26,1255.13,2122.38
+FARM_1620,Zaid (Summer),Central Zone,Vegetables,Hydroponic,74.0,35.9,32.9,5.58,124.4,9.8,4855.3,4.18,1075.46,1222.0
+FARM_1621,Kharif (Monsoon),West Zone,Pulses,Precision Farming,1024.0,29.5,81.0,7.58,179.1,2.1,6507.0,8.72,1247.9,2852.84
+FARM_1622,Kharif (Monsoon),East Zone,Pulses,Conventional,876.3,33.0,76.3,7.18,148.2,9.1,6155.2,7.72,1245.3,2591.42
+FARM_1623,Rabi (Winter),East Zone,Mustard,Organic,166.6,15.9,39.5,7.12,84.0,5.0,4389.2,5.94,918.64,2419.71
+FARM_1624,Rabi (Winter),North Zone,Wheat,Conventional,71.5,13.9,49.7,6.97,111.1,7.3,3998.8,5.37,1000.18,2222.33
+FARM_1625,Rabi (Winter),North Zone,Wheat,Conventional,236.9,20.8,61.3,7.09,118.8,8.6,6370.9,6.39,1145.35,1896.89
+FARM_1626,Rabi (Winter),Central Zone,Chickpea,Precision Farming,124.5,18.2,73.4,8.02,178.3,7.7,5161.8,6.4,1205.66,1898.72
+FARM_1627,Rabi (Winter),Central Zone,Wheat,Conventional,101.4,19.8,67.9,5.52,183.0,6.9,4291.0,7.6,1100.16,3122.69
+FARM_1628,Zaid (Summer),South Zone,Cucumber,Precision Farming,79.3,40.4,42.1,5.63,152.4,6.9,2113.1,4.86,874.0,1562.04
+FARM_1629,Kharif (Monsoon),Central Zone,Cotton,Conventional,940.5,28.3,82.7,6.02,121.7,8.0,3593.4,7.29,942.98,2288.0
+FARM_1630,Kharif (Monsoon),South Zone,Rice,Organic,712.7,30.4,81.5,5.95,108.1,7.9,3510.0,6.78,890.76,1932.21
+FARM_1631,Zaid (Summer),West Zone,Sunflower,Hydroponic,61.3,40.2,37.3,5.99,179.8,8.6,4324.3,4.52,1133.62,1440.0
+FARM_1632,Autumn,North Zone,Jute,Conventional,396.6,28.9,71.0,7.31,95.0,8.4,5242.2,6.35,1016.0,2394.54
+FARM_1633,Rabi (Winter),West Zone,Barley,Conventional,111.4,19.4,70.7,6.74,136.4,11.7,5425.5,6.52,1158.04,2214.49
+FARM_1634,Rabi (Winter),Central Zone,Mustard,Conventional,77.3,17.2,64.3,8.18,222.8,3.4,6300.0,7.06,1284.54,2487.67
+FARM_1635,Kharif (Monsoon),West Zone,Pulses,Organic,832.7,30.4,87.0,6.11,121.8,9.1,5617.7,7.37,1147.93,3010.07
+FARM_1636,Rabi (Winter),West Zone,Wheat,Conventional,159.3,20.0,55.7,6.34,95.5,8.7,2939.4,5.34,859.69,1580.94
+FARM_1637,Rabi (Winter),West Zone,Chickpea,Conventional,161.9,26.4,54.5,8.16,78.2,8.2,5736.0,5.61,998.76,1626.75
+FARM_1638,Kharif (Monsoon),Central Zone,Cotton,Conventional,797.0,31.1,75.8,7.75,224.1,6.7,6580.0,7.95,1342.7,3174.2
+FARM_1639,Kharif (Monsoon),West Zone,Pulses,Hydroponic,757.8,26.2,78.7,6.77,152.2,8.1,6520.6,6.78,1211.87,2633.89
+FARM_1640,Rabi (Winter),South Zone,Wheat,Conventional,141.5,20.8,52.3,7.0,109.6,4.4,3044.6,6.89,853.86,2183.6
+FARM_1641,Kharif (Monsoon),Central Zone,Rice,Organic,960.9,30.6,76.7,7.78,133.4,9.0,4270.7,7.7,1016.28,2505.52
+FARM_1642,Kharif (Monsoon),West Zone,Maize,Conventional,976.4,30.8,71.2,6.8,116.8,9.5,5653.2,7.31,1114.01,2364.34
+FARM_1643,Kharif (Monsoon),Central Zone,Rice,Hydroponic,894.0,26.5,86.5,6.06,74.8,6.7,3110.0,6.23,849.28,2309.42
+FARM_1644,Kharif (Monsoon),East Zone,Rice,Organic,772.5,24.0,79.9,7.74,167.6,13.4,2430.1,7.59,1019.02,2190.24
+FARM_1645,Kharif (Monsoon),South Zone,Pulses,Organic,715.5,30.5,76.0,6.95,141.2,8.2,4876.7,7.23,1069.36,2519.77
+FARM_1646,Autumn,West Zone,Groundnut,Organic,298.6,29.6,72.7,5.91,164.7,8.6,3689.3,6.3,1061.38,1882.08
+FARM_1647,Rabi (Winter),East Zone,Barley,Organic,169.1,17.5,58.1,6.87,140.2,11.8,2542.3,6.17,933.51,2435.69
+FARM_1648,Rabi (Winter),East Zone,Mustard,Precision Farming,177.6,14.1,61.8,6.62,144.6,13.9,5975.4,6.41,1271.02,2136.41
+FARM_1649,Zaid (Summer),Central Zone,Sunflower,Precision Farming,38.0,36.7,28.9,7.87,61.8,5.7,4697.2,3.15,897.03,1114.66
+FARM_1650,Rabi (Winter),East Zone,Wheat,Conventional,228.5,21.1,42.6,5.84,171.8,7.1,3875.2,6.95,1034.69,1974.53
+FARM_1651,Kharif (Monsoon),South Zone,Cotton,Conventional,849.9,26.4,76.8,7.86,101.9,8.2,3343.6,6.29,878.77,1812.51
+FARM_1652,Rabi (Winter),South Zone,Chickpea,Conventional,155.9,14.3,61.1,6.88,110.9,6.6,4709.5,5.83,1011.8,2183.38
+FARM_1653,Rabi (Winter),North Zone,Mustard,Hydroponic,178.2,19.4,54.8,6.59,121.5,10.6,5118.5,6.59,1123.87,2552.62
+FARM_1654,Zaid (Summer),South Zone,Cucumber,Hydroponic,73.2,37.4,44.5,5.94,67.9,6.4,4891.1,3.16,947.45,1198.92
+FARM_1655,Rabi (Winter),East Zone,Barley,Conventional,97.5,14.8,52.9,7.39,119.6,11.7,2677.3,6.49,910.83,2486.86
+FARM_1656,Kharif (Monsoon),South Zone,Cotton,Precision Farming,628.6,28.7,87.1,8.0,117.2,10.1,5072.2,7.08,1051.45,2086.1
+FARM_1657,Kharif (Monsoon),Central Zone,Cotton,Precision Farming,1037.8,30.2,83.6,6.51,126.8,11.4,5333.3,8.25,1129.0,3110.94
+FARM_1658,Rabi (Winter),North Zone,Barley,Conventional,238.6,21.4,62.4,6.15,80.5,6.4,4087.9,5.95,873.36,1817.4
+FARM_1659,Rabi (Winter),East Zone,Barley,Organic,92.4,23.3,58.2,7.0,172.5,7.5,5747.5,6.72,1238.11,1973.81
+FARM_1660,Rabi (Winter),North Zone,Wheat,Conventional,146.8,16.7,50.6,7.65,153.9,10.7,3477.7,6.75,1026.26,2605.52
+FARM_1661,Rabi (Winter),East Zone,Wheat,Precision Farming,200.3,17.9,50.9,5.51,109.8,10.3,6048.7,6.67,1160.97,2698.13
+FARM_1662,Autumn,Central Zone,Groundnut,Hydroponic,238.3,25.5,62.5,7.2,119.6,7.8,4658.8,5.91,1024.59,2247.81
+FARM_1663,Rabi (Winter),North Zone,Mustard,Precision Farming,126.5,12.5,62.7,7.11,169.3,8.1,3904.6,6.14,1073.43,2411.67
+FARM_1664,Kharif (Monsoon),West Zone,Rice,Precision Farming,829.3,24.7,78.6,6.36,131.0,7.4,4117.9,7.08,1018.54,2964.77
+FARM_1665,Kharif (Monsoon),East Zone,Rice,Conventional,932.4,28.1,81.0,6.72,96.6,8.1,5699.1,6.86,1123.2,2050.22
+FARM_1666,Kharif (Monsoon),West Zone,Rice,Precision Farming,856.4,24.2,84.7,6.17,137.1,6.1,4784.7,7.84,1043.43,3254.55
+FARM_1667,Kharif (Monsoon),North Zone,Pulses,Precision Farming,593.8,29.4,83.1,7.63,101.9,5.7,5274.1,6.25,1044.26,2276.05
+FARM_1668,Kharif (Monsoon),West Zone,Cotton,Conventional,817.0,29.1,78.6,7.21,115.2,11.0,5789.6,7.14,1158.29,2812.13
+FARM_1669,Kharif (Monsoon),West Zone,Pulses,Conventional,904.8,31.0,76.0,6.94,138.2,8.0,3868.8,8.38,992.59,3109.18
+FARM_1670,Kharif (Monsoon),North Zone,Maize,Precision Farming,951.1,33.1,81.3,6.56,176.9,11.4,4652.8,8.69,1167.1,3126.71
+FARM_1671,Kharif (Monsoon),Central Zone,Maize,Organic,774.5,34.8,80.4,6.29,210.8,10.0,4230.7,8.77,1197.22,3319.5
+FARM_1672,Autumn,West Zone,Soybean,Precision Farming,318.5,25.8,68.1,7.72,187.7,9.3,5720.5,5.98,1250.91,1942.52
+FARM_1673,Kharif (Monsoon),West Zone,Maize,Organic,799.2,28.6,84.8,6.72,137.5,6.7,4041.1,6.34,1003.55,2595.58
+FARM_1674,Rabi (Winter),Central Zone,Wheat,Conventional,135.1,16.3,52.7,6.85,219.0,5.5,4557.4,7.29,1187.77,2158.87
+FARM_1675,Rabi (Winter),West Zone,Wheat,Precision Farming,106.1,15.3,49.2,6.91,159.5,7.4,7254.9,6.06,1355.76,1966.62
+FARM_1676,Autumn,West Zone,Groundnut,Conventional,300.0,27.5,75.2,6.71,105.7,12.3,6042.1,4.64,1172.26,1319.44
+FARM_1677,Kharif (Monsoon),West Zone,Cotton,Organic,858.6,29.4,81.2,6.19,143.3,10.7,3257.7,8.08,974.68,2569.32
+FARM_1678,Rabi (Winter),South Zone,Mustard,Conventional,66.3,13.4,61.1,5.82,117.0,7.1,5582.4,5.59,1100.65,1735.97
+FARM_1679,Autumn,Central Zone,Groundnut,Precision Farming,368.7,27.5,63.8,5.77,96.3,7.4,5326.5,5.08,1028.46,1457.7
+FARM_1680,Autumn,West Zone,Sugarcane,Organic,140.4,21.9,58.9,7.55,98.9,6.2,3179.2,4.83,894.36,1684.94
+FARM_1681,Zaid (Summer),Central Zone,Watermelon,Hydroponic,72.6,33.9,56.9,6.1,134.8,4.6,4367.9,4.88,987.8,1686.57
+FARM_1682,Kharif (Monsoon),East Zone,Cotton,Organic,1070.1,33.0,75.4,5.65,166.4,8.8,3362.8,8.26,1023.95,2402.7
+FARM_1683,Kharif (Monsoon),East Zone,Cotton,Hydroponic,923.6,26.6,81.6,7.65,177.4,12.8,1628.9,8.53,965.82,2701.1
+FARM_1684,Rabi (Winter),West Zone,Barley,Hydroponic,117.8,22.9,48.7,5.92,96.4,12.8,4324.8,5.7,1033.52,2356.75
+FARM_1685,Autumn,Central Zone,Groundnut,Conventional,144.2,31.1,68.1,7.19,129.4,10.0,3892.7,4.7,1042.35,1388.86
+FARM_1686,Rabi (Winter),Central Zone,Wheat,Conventional,107.2,17.4,50.4,6.41,157.0,7.0,3178.9,6.12,984.24,1974.94
+FARM_1687,Rabi (Winter),Central Zone,Wheat,Conventional,150.2,21.2,60.2,5.84,145.3,4.9,4488.5,6.51,1076.02,1855.48
+FARM_1688,Kharif (Monsoon),South Zone,Cotton,Conventional,888.1,28.0,85.4,6.62,164.3,11.1,1955.3,8.0,944.58,2406.75
+FARM_1689,Zaid (Summer),East Zone,Cucumber,Organic,21.5,32.8,30.2,5.54,124.8,9.6,4549.5,4.22,1079.98,1594.8
+FARM_1690,Kharif (Monsoon),Central Zone,Cotton,Organic,1000.9,25.8,73.6,7.77,184.6,7.7,4518.5,8.61,1126.8,2852.84
+FARM_1691,Kharif (Monsoon),Central Zone,Pulses,Organic,932.4,25.3,78.2,6.89,139.9,7.3,5314.5,8.14,1153.89,2794.39
+FARM_1692,Rabi (Winter),South Zone,Barley,Conventional,245.2,21.1,53.3,5.88,166.5,10.0,2576.2,6.71,968.89,2026.27
+FARM_1693,Rabi (Winter),South Zone,Barley,Conventional,145.2,21.6,60.3,6.14,126.7,6.4,7067.3,7.02,1250.32,2636.01
+FARM_1694,Kharif (Monsoon),Central Zone,Pulses,Conventional,861.3,28.3,72.6,6.71,142.0,9.1,6607.0,8.41,1261.25,3239.64
+FARM_1695,Kharif (Monsoon),North Zone,Cotton,Hydroponic,596.5,27.5,76.8,6.01,84.1,5.5,3572.1,6.12,853.96,1868.78
+FARM_1696,Rabi (Winter),Central Zone,Wheat,Conventional,173.4,18.8,48.8,6.23,110.7,14.1,6251.7,5.85,1248.19,1674.85
+FARM_1697,Kharif (Monsoon),Central Zone,Maize,Conventional,874.5,26.7,90.3,6.94,132.7,6.8,5528.5,6.85,1112.36,1995.62
+FARM_1698,Rabi (Winter),South Zone,Barley,Conventional,165.4,11.8,69.6,7.75,143.5,10.1,3972.7,6.59,1074.94,2451.39
+FARM_1699,Kharif (Monsoon),South Zone,Pulses,Precision Farming,755.0,25.1,90.7,6.58,233.8,5.5,3771.8,8.63,1146.28,2580.12
+FARM_1700,Rabi (Winter),Central Zone,Mustard,Hydroponic,163.8,20.8,60.9,7.44,126.6,8.1,3862.5,6.11,976.5,2133.3
+FARM_1701,Rabi (Winter),Central Zone,Chickpea,Precision Farming,141.8,15.7,51.7,7.87,91.8,10.7,7891.6,5.92,1281.55,1784.11
+FARM_1702,Kharif (Monsoon),Central Zone,Maize,Hydroponic,1091.3,28.6,86.6,6.08,199.6,11.3,6132.1,8.25,1335.54,2506.52
+FARM_1703,Kharif (Monsoon),South Zone,Maize,Organic,838.5,25.7,72.8,7.68,177.8,10.4,4256.7,8.34,1126.55,2340.29
+FARM_1704,Kharif (Monsoon),Central Zone,Cotton,Precision Farming,947.2,33.1,75.6,7.54,99.5,8.2,4360.3,7.1,980.48,2306.9
+FARM_1705,Kharif (Monsoon),Central Zone,Rice,Precision Farming,927.0,23.9,77.2,6.46,156.3,6.8,5516.9,8.06,1162.76,2358.13
+FARM_1706,Autumn,West Zone,Jute,Organic,321.4,19.8,64.9,8.17,169.2,5.8,5464.4,6.11,1112.35,2047.79
+FARM_1707,Kharif (Monsoon),North Zone,Pulses,Hydroponic,724.5,29.8,79.2,6.21,145.7,12.3,3351.7,6.56,1037.6,2385.81
+FARM_1708,Zaid (Summer),East Zone,Sunflower,Organic,78.8,34.2,26.4,6.19,151.4,8.8,4857.0,4.71,1131.01,1561.15
+FARM_1709,Kharif (Monsoon),North Zone,Maize,Conventional,627.0,22.3,83.2,7.59,117.9,9.2,3836.9,6.47,1008.8,2450.26
+FARM_1710,Rabi (Winter),West Zone,Mustard,Organic,252.3,19.7,68.4,6.67,157.6,11.4,4682.6,7.06,1120.59,2709.65
+FARM_1711,Zaid (Summer),East Zone,Watermelon,Conventional,82.7,33.4,52.7,6.39,122.8,10.0,4442.4,3.59,1025.69,1355.31
+FARM_1712,Rabi (Winter),Central Zone,Barley,Precision Farming,130.9,16.2,53.3,5.98,47.4,8.2,5721.2,5.06,995.4,2080.37
+FARM_1713,Rabi (Winter),West Zone,Chickpea,Conventional,143.6,20.6,49.6,7.57,146.9,10.4,4178.1,6.68,1058.68,2092.32
+FARM_1714,Rabi (Winter),Central Zone,Mustard,Conventional,185.6,21.5,57.7,7.62,81.3,6.9,4642.0,5.38,927.3,1649.1
+FARM_1715,Kharif (Monsoon),South Zone,Rice,Conventional,1140.9,31.9,85.3,7.03,175.5,4.6,2246.3,8.25,892.75,3014.22
+FARM_1716,Autumn,West Zone,Groundnut,Precision Farming,305.3,26.1,68.7,8.08,100.4,12.0,4888.4,5.33,1058.99,1936.3
+FARM_1717,Zaid (Summer),South Zone,Cucumber,Organic,60.3,33.9,15.9,6.36,54.1,7.2,3565.8,3.46,798.23,1215.89
+FARM_1718,Autumn,West Zone,Groundnut,Conventional,357.4,28.1,56.9,6.09,78.1,7.7,2679.4,5.36,777.31,1504.07
+FARM_1719,Kharif (Monsoon),West Zone,Rice,Hydroponic,940.8,26.2,78.2,7.33,138.5,8.0,5854.9,7.62,1160.87,2725.93
+FARM_1720,Zaid (Summer),South Zone,Watermelon,Precision Farming,86.2,32.0,30.1,7.55,146.5,7.0,4449.9,4.6,1024.7,1888.72
+FARM_1721,Autumn,East Zone,Groundnut,Conventional,444.4,24.6,73.7,6.11,90.6,11.3,2007.4,5.31,779.34,1735.53
+FARM_1722,Kharif (Monsoon),North Zone,Cotton,Precision Farming,610.2,23.4,75.4,5.71,102.5,9.4,3559.7,6.78,933.88,2816.85
+FARM_1723,Kharif (Monsoon),Central Zone,Pulses,Precision Farming,777.8,23.8,81.8,7.69,139.7,7.7,4506.0,7.01,1084.97,2312.92
+FARM_1724,Zaid (Summer),West Zone,Cucumber,Precision Farming,68.7,32.3,31.8,8.14,174.0,5.3,4541.7,4.25,1104.98,1273.21
+FARM_1725,Rabi (Winter),Central Zone,Barley,Conventional,122.5,13.3,31.8,7.24,97.6,9.3,3900.7,6.18,973.39,2075.1
+FARM_1726,Zaid (Summer),South Zone,Cucumber,Organic,58.3,33.7,36.7,6.25,153.3,2.4,1000.0,4.16,698.27,1452.86
+FARM_1727,Kharif (Monsoon),Central Zone,Pulses,Conventional,698.2,30.4,92.1,8.19,79.1,9.1,3837.7,5.96,880.29,2194.03
+FARM_1728,Zaid (Summer),South Zone,Vegetables,Conventional,43.3,39.2,43.7,7.91,151.1,11.9,5785.2,4.97,1227.23,1742.89
+FARM_1729,Kharif (Monsoon),Central Zone,Maize,Conventional,855.3,27.0,79.6,6.89,166.5,8.7,6182.9,7.89,1264.91,2802.06
+FARM_1730,Kharif (Monsoon),North Zone,Pulses,Organic,1022.4,24.6,78.6,7.73,158.3,11.5,3771.0,8.34,1087.66,2363.3
+FARM_1731,Kharif (Monsoon),North Zone,Pulses,Conventional,1037.4,31.0,74.4,7.7,174.8,5.4,6760.0,7.47,1243.69,2356.84
+FARM_1732,Zaid (Summer),North Zone,Vegetables,Conventional,56.3,37.2,46.6,8.02,172.5,13.6,2559.6,5.01,1051.09,1620.72
+FARM_1733,Rabi (Winter),North Zone,Chickpea,Conventional,189.0,19.5,59.4,7.77,204.6,11.2,3528.0,8.41,1133.89,3517.0
+FARM_1734,Rabi (Winter),North Zone,Wheat,Precision Farming,163.7,24.3,51.6,7.24,143.8,9.7,5569.8,7.07,1186.26,2272.15
+FARM_1735,Rabi (Winter),North Zone,Mustard,Conventional,151.9,13.9,45.3,7.15,204.7,7.0,5380.9,7.86,1220.96,3187.4
+FARM_1736,Autumn,South Zone,Soybean,Organic,326.0,22.8,64.6,6.76,107.0,6.6,4488.5,5.32,949.79,1716.57
+FARM_1737,Rabi (Winter),West Zone,Chickpea,Precision Farming,214.7,24.2,72.8,7.19,132.8,8.3,3157.0,6.66,958.42,1954.41
+FARM_1738,Zaid (Summer),Central Zone,Sunflower,Organic,92.8,42.2,44.4,7.65,136.0,11.5,3153.8,4.45,994.54,1400.27
+FARM_1739,Rabi (Winter),North Zone,Wheat,Precision Farming,113.9,14.0,66.2,8.12,103.5,5.2,3629.2,5.57,864.26,1772.35
+FARM_1740,Rabi (Winter),South Zone,Barley,Precision Farming,152.1,18.5,50.6,6.76,57.4,8.5,3206.0,5.42,798.71,2259.9
+FARM_1741,Rabi (Winter),South Zone,Chickpea,Conventional,132.8,19.5,46.6,7.05,170.4,10.3,4656.8,6.43,1167.06,2407.4
+FARM_1742,Kharif (Monsoon),South Zone,Pulses,Precision Farming,888.6,32.5,69.3,6.7,107.5,10.8,4389.3,7.15,1028.56,2934.61
+FARM_1743,Zaid (Summer),West Zone,Sunflower,Conventional,29.2,37.0,53.6,7.3,126.0,10.3,3106.4,4.42,959.23,1754.29
+FARM_1744,Rabi (Winter),Central Zone,Chickpea,Conventional,130.4,10.0,66.5,7.2,195.5,5.0,4074.1,6.43,1076.75,2321.25
+FARM_1745,Kharif (Monsoon),West Zone,Maize,Organic,728.3,26.9,81.6,5.55,160.0,11.3,1320.7,7.83,908.11,2932.76
+FARM_1746,Autumn,East Zone,Groundnut,Conventional,246.7,22.4,59.0,6.96,200.9,8.7,4907.1,5.67,1205.99,2083.6
+FARM_1747,Rabi (Winter),South Zone,Mustard,Hydroponic,224.3,22.6,59.6,5.74,144.2,5.8,5360.1,6.69,1060.48,2497.22
+FARM_1748,Rabi (Winter),East Zone,Chickpea,Conventional,62.5,20.3,59.2,5.57,159.4,8.4,3405.8,6.49,1012.88,2057.77
+FARM_1749,Autumn,North Zone,Jute,Conventional,197.7,25.8,72.4,7.64,131.6,3.6,3556.3,5.66,926.68,1908.2
+FARM_1750,Rabi (Winter),North Zone,Wheat,Conventional,172.8,15.3,55.1,6.2,110.3,9.9,4809.5,6.09,1058.58,2210.46
+FARM_1751,Kharif (Monsoon),West Zone,Cotton,Conventional,959.6,28.2,86.3,6.42,159.3,8.2,4627.5,7.64,1096.6,2177.63
+FARM_1752,Autumn,Central Zone,Groundnut,Organic,331.7,27.3,70.7,5.67,124.7,5.3,5427.7,5.69,1033.58,1977.83
+FARM_1753,Rabi (Winter),East Zone,Chickpea,Conventional,107.3,18.2,52.3,5.98,162.6,7.8,3568.0,7.5,1008.34,3002.71
+FARM_1754,Kharif (Monsoon),Central Zone,Pulses,Precision Farming,1006.6,29.4,79.1,7.57,120.0,6.7,3707.3,7.68,932.31,2679.79
+FARM_1755,Kharif (Monsoon),West Zone,Cotton,Organic,657.7,23.2,81.6,6.83,133.9,6.9,4235.2,6.72,999.27,2401.23
+FARM_1756,Zaid (Summer),North Zone,Sunflower,Organic,45.7,37.0,23.6,7.88,136.7,2.8,3220.7,3.98,900.06,1226.9
+FARM_1757,Rabi (Winter),Central Zone,Barley,Organic,213.7,20.7,55.8,6.57,177.7,4.3,4209.0,7.19,1051.74,2812.79
+FARM_1758,Rabi (Winter),Central Zone,Mustard,Conventional,217.3,21.8,51.2,6.23,125.1,7.9,3240.3,6.35,957.23,2097.04
+FARM_1759,Autumn,North Zone,Sugarcane,Precision Farming,306.2,19.1,72.4,6.44,181.5,7.5,5001.1,6.05,1162.3,2504.23
+FARM_1760,Zaid (Summer),East Zone,Watermelon,Organic,54.1,29.1,28.2,7.42,108.3,10.9,3377.6,4.5,970.74,1886.04
+FARM_1761,Kharif (Monsoon),North Zone,Cotton,Organic,980.6,32.8,80.1,7.0,149.4,6.9,4803.5,8.2,1090.61,3347.57
+FARM_1762,Kharif (Monsoon),Central Zone,Maize,Conventional,702.7,23.7,87.1,7.94,115.9,7.2,6247.9,6.85,1149.98,1999.4
+FARM_1763,Kharif (Monsoon),East Zone,Cotton,Precision Farming,917.4,27.0,77.2,7.13,179.1,7.3,5013.9,8.14,1147.34,2658.9
+FARM_1764,Zaid (Summer),East Zone,Cucumber,Conventional,73.4,36.9,31.0,6.83,111.3,8.0,4711.1,4.12,996.39,1698.76
+FARM_1765,Kharif (Monsoon),North Zone,Pulses,Conventional,678.6,24.7,77.7,7.62,114.9,8.7,2863.6,7.09,889.21,2783.78
+FARM_1766,Rabi (Winter),Central Zone,Mustard,Precision Farming,122.4,24.5,51.0,8.06,96.0,7.5,6166.8,6.3,1139.75,2567.66
+FARM_1767,Zaid (Summer),West Zone,Cucumber,Conventional,35.0,31.4,38.2,6.46,143.6,9.9,5838.9,4.09,1185.56,1473.04
+FARM_1768,Autumn,Central Zone,Soybean,Precision Farming,154.2,24.8,55.6,6.17,160.7,14.3,4312.4,5.27,1142.89,1830.04
+FARM_1769,Kharif (Monsoon),South Zone,Rice,Precision Farming,1023.8,28.3,90.6,7.16,156.9,6.4,4039.1,7.95,1029.36,2344.53
+FARM_1770,Zaid (Summer),West Zone,Cucumber,Conventional,55.4,25.6,54.6,6.85,135.0,9.5,3523.2,3.87,1023.89,1538.43
+FARM_1771,Kharif (Monsoon),East Zone,Pulses,Conventional,925.3,30.0,75.0,8.17,116.9,8.6,6647.3,6.78,1210.79,2605.69
+FARM_1772,Zaid (Summer),West Zone,Sunflower,Organic,59.1,35.6,37.6,6.75,130.2,11.1,5440.8,4.75,1177.4,1369.15
+FARM_1773,Kharif (Monsoon),East Zone,Pulses,Conventional,589.8,36.3,84.2,5.7,131.6,9.0,3589.9,7.17,942.52,2217.81
+FARM_1774,Rabi (Winter),East Zone,Mustard,Hydroponic,166.8,23.3,60.2,8.14,148.8,6.7,5819.1,5.63,1147.16,2015.65
+FARM_1775,Zaid (Summer),West Zone,Vegetables,Conventional,46.5,38.7,48.5,7.78,146.4,5.6,6107.0,4.35,1153.39,1634.8
+FARM_1776,Kharif (Monsoon),East Zone,Cotton,Organic,754.1,30.4,78.8,5.98,200.9,10.0,4474.5,7.88,1212.6,2358.28
+FARM_1777,Kharif (Monsoon),East Zone,Pulses,Precision Farming,881.3,29.8,86.8,7.94,141.4,5.8,4086.8,7.4,1014.12,2325.64
+FARM_1778,Zaid (Summer),South Zone,Watermelon,Conventional,47.1,36.1,60.2,6.42,152.6,11.5,3308.3,3.35,1048.02,1028.57
+FARM_1779,Zaid (Summer),Central Zone,Vegetables,Organic,56.5,35.6,60.1,6.52,142.5,9.9,5348.9,4.27,1115.5,1327.11
+FARM_1780,Rabi (Winter),Central Zone,Mustard,Conventional,175.5,12.1,48.6,7.95,128.6,8.7,3987.5,6.37,1027.22,2604.69
+FARM_1781,Rabi (Winter),South Zone,Barley,Conventional,177.6,19.7,56.3,6.93,152.4,5.2,3937.9,6.25,1015.16,2376.34
+FARM_1782,Rabi (Winter),West Zone,Chickpea,Precision Farming,236.4,15.5,54.4,5.87,125.3,10.2,4486.2,7.13,1038.17,2732.18
+FARM_1783,Kharif (Monsoon),North Zone,Rice,Organic,555.5,31.5,76.0,6.5,138.0,12.5,3518.4,7.2,1026.37,2816.35
+FARM_1784,Kharif (Monsoon),North Zone,Cotton,Conventional,1008.6,30.9,91.7,7.45,180.6,7.4,6334.1,7.97,1253.14,2629.46
+FARM_1785,Kharif (Monsoon),North Zone,Cotton,Conventional,947.4,26.9,82.3,5.97,123.0,6.6,5661.5,7.99,1102.15,3095.37
+FARM_1786,Autumn,South Zone,Groundnut,Conventional,239.3,26.0,63.6,7.09,153.6,8.3,4591.9,5.6,1101.98,2335.08
+FARM_1787,Rabi (Winter),South Zone,Wheat,Conventional,147.2,14.4,57.4,7.38,53.2,9.7,3478.5,5.81,868.05,2194.87
+FARM_1788,Rabi (Winter),East Zone,Wheat,Conventional,183.0,11.4,49.5,6.43,133.5,7.2,3543.3,5.92,941.06,2003.0
+FARM_1789,Rabi (Winter),North Zone,Chickpea,Conventional,156.7,8.6,68.9,7.37,122.8,10.7,3490.4,6.35,969.82,2414.84
+FARM_1790,Autumn,West Zone,Soybean,Hydroponic,243.1,22.2,63.5,7.89,144.2,13.3,3023.2,5.15,988.69,2091.47
+FARM_1791,Kharif (Monsoon),West Zone,Cotton,Conventional,870.6,25.7,84.9,6.77,131.7,9.3,4887.2,7.21,1105.33,2148.77
+FARM_1792,Rabi (Winter),North Zone,Mustard,Organic,166.0,14.7,50.8,6.53,145.0,7.7,3729.1,5.82,969.98,1845.76
+FARM_1793,Rabi (Winter),North Zone,Barley,Conventional,89.3,13.0,58.1,6.18,126.7,9.6,3660.5,5.66,989.73,2313.25
+FARM_1794,Rabi (Winter),North Zone,Barley,Precision Farming,116.9,25.2,55.6,7.13,153.5,11.4,3523.3,6.08,1021.0,2507.83
+FARM_1795,Kharif (Monsoon),South Zone,Maize,Precision Farming,647.1,24.6,85.3,7.88,80.0,8.9,5704.3,5.82,1058.03,2024.08
+FARM_1796,Autumn,South Zone,Groundnut,Organic,293.9,28.0,62.4,6.38,143.9,9.7,3589.7,5.87,1035.87,1951.41
+FARM_1797,Autumn,South Zone,Groundnut,Hydroponic,255.2,28.4,59.0,6.57,107.2,10.3,6022.9,4.63,1137.71,1479.7
+FARM_1798,Rabi (Winter),Central Zone,Barley,Conventional,169.6,17.2,62.0,6.6,180.9,6.3,4154.8,7.18,1088.11,2511.75
+FARM_1799,Rabi (Winter),West Zone,Chickpea,Organic,222.7,16.4,50.6,7.01,106.6,9.6,3005.9,6.66,880.33,2736.16
+FARM_1800,Autumn,West Zone,Jute,Organic,353.3,21.8,76.3,6.12,174.8,5.1,5063.1,5.87,1129.24,1766.71
+FARM_1801,Zaid (Summer),East Zone,Sunflower,Organic,88.9,32.0,24.2,7.72,139.6,6.9,5564.7,4.24,1097.54,1436.41
+FARM_1802,Kharif (Monsoon),South Zone,Cotton,Precision Farming,675.9,24.6,84.0,6.3,76.0,11.4,3470.4,6.3,914.94,2568.04
+FARM_1803,Rabi (Winter),Central Zone,Chickpea,Organic,212.0,21.2,53.1,7.4,109.3,10.7,4575.9,6.08,1032.69,1999.57
+FARM_1804,Rabi (Winter),Central Zone,Wheat,Organic,163.7,14.5,63.8,6.89,169.7,7.8,4882.2,5.88,1135.7,2278.68
+FARM_1805,Rabi (Winter),West Zone,Mustard,Precision Farming,167.3,21.1,49.2,7.08,167.7,12.8,4614.8,6.43,1175.57,2150.81
+FARM_1806,Zaid (Summer),South Zone,Watermelon,Conventional,56.6,37.2,54.4,5.98,94.5,5.2,3950.2,4.43,859.52,1739.62
+FARM_1807,Autumn,East Zone,Soybean,Organic,251.4,27.3,60.0,7.48,194.7,8.0,5557.9,6.35,1227.1,2650.11
+FARM_1808,Autumn,South Zone,Soybean,Organic,469.4,23.8,69.5,6.01,139.1,9.2,4198.7,5.99,1049.3,2002.43
+FARM_1809,Rabi (Winter),North Zone,Barley,Organic,156.6,28.4,56.8,5.81,171.0,1.5,3773.2,6.03,974.15,2401.83
+FARM_1810,Kharif (Monsoon),South Zone,Maize,Organic,772.7,29.9,83.1,6.98,97.6,8.1,2381.9,7.16,857.02,2995.59
+FARM_1811,Autumn,North Zone,Sugarcane,Conventional,287.4,21.7,61.3,7.42,124.0,5.7,2393.1,5.2,858.16,2172.23
+FARM_1812,Zaid (Summer),North Zone,Watermelon,Organic,77.6,29.8,37.5,5.64,154.6,5.7,4759.1,3.87,1080.67,1318.62
+FARM_1813,Kharif (Monsoon),East Zone,Pulses,Organic,999.2,27.7,90.9,5.69,129.0,7.8,4407.5,7.28,1008.26,2533.49
+FARM_1814,Autumn,West Zone,Sugarcane,Precision Farming,160.4,22.1,48.8,7.67,37.8,3.9,5564.9,4.57,900.52,1473.72
+FARM_1815,Autumn,South Zone,Groundnut,Conventional,459.5,22.2,51.1,7.68,133.3,6.5,5856.3,5.97,1149.41,1934.06
+FARM_1816,Rabi (Winter),North Zone,Mustard,Conventional,125.5,12.4,50.2,6.16,71.2,4.0,4205.9,5.9,864.16,2058.78
+FARM_1817,Rabi (Winter),South Zone,Wheat,Conventional,151.6,21.2,53.6,7.16,102.5,8.8,5638.4,6.48,1116.85,1996.31
+FARM_1818,Rabi (Winter),West Zone,Mustard,Conventional,151.0,15.7,42.9,6.7,90.9,8.8,3825.8,5.59,926.19,2121.73
+FARM_1819,Kharif (Monsoon),West Zone,Rice,Conventional,573.0,26.9,80.4,7.21,179.6,7.6,4320.1,7.38,1112.82,2620.51
+FARM_1820,Kharif (Monsoon),Central Zone,Rice,Conventional,784.2,22.6,81.0,7.83,190.6,11.0,4285.8,7.84,1200.36,3180.92
+FARM_1821,Zaid (Summer),West Zone,Sunflower,Conventional,92.6,34.7,34.2,5.72,152.0,7.8,6394.9,3.83,1206.29,1507.03
+FARM_1822,Kharif (Monsoon),East Zone,Maize,Hydroponic,840.9,24.7,74.2,7.6,131.9,8.4,2965.8,6.95,960.76,2259.76
+FARM_1823,Kharif (Monsoon),North Zone,Rice,Organic,917.7,31.0,79.3,6.83,141.0,6.2,4571.0,7.69,1059.68,2697.75
+FARM_1824,Rabi (Winter),Central Zone,Barley,Precision Farming,71.0,19.4,71.5,7.02,179.6,2.7,3664.8,6.77,1064.1,2606.94
+FARM_1825,Rabi (Winter),East Zone,Mustard,Organic,140.2,17.3,48.0,7.27,70.6,8.1,4141.2,5.57,891.95,1710.26
+FARM_1826,Autumn,South Zone,Soybean,Precision Farming,338.5,23.0,72.2,7.99,102.4,7.8,4089.9,5.36,987.77,1524.51
+FARM_1827,Kharif (Monsoon),North Zone,Maize,Conventional,751.4,29.0,79.8,5.65,175.1,12.8,4586.5,7.37,1188.15,2943.01
+FARM_1828,Kharif (Monsoon),West Zone,Pulses,Precision Farming,1083.3,29.2,86.9,5.58,182.4,10.2,6116.3,9.38,1285.99,2807.03
+FARM_1829,Zaid (Summer),North Zone,Vegetables,Organic,62.2,34.5,39.6,5.98,160.6,7.5,6782.4,4.51,1277.45,1824.37
+FARM_1830,Rabi (Winter),South Zone,Mustard,Conventional,119.1,20.1,49.5,8.16,103.4,8.9,5287.9,5.62,1067.95,2292.43
+FARM_1831,Kharif (Monsoon),Central Zone,Rice,Conventional,866.9,30.6,87.9,7.43,174.6,10.8,3325.0,8.17,1043.98,2814.55
+FARM_1832,Rabi (Winter),Central Zone,Wheat,Precision Farming,156.5,21.4,60.9,7.16,187.7,9.8,4290.4,6.76,1145.88,2656.34
+FARM_1833,Kharif (Monsoon),Central Zone,Pulses,Conventional,792.6,34.3,77.1,5.63,165.1,12.7,4812.7,7.68,1190.48,2540.9
+FARM_1834,Kharif (Monsoon),West Zone,Rice,Conventional,863.6,32.4,87.1,7.87,52.7,6.5,4011.7,6.71,835.63,2685.05
+FARM_1835,Rabi (Winter),East Zone,Mustard,Conventional,150.6,22.0,53.2,7.69,144.4,10.9,4167.5,6.73,1085.31,2661.42
+FARM_1836,Rabi (Winter),East Zone,Wheat,Conventional,130.5,13.1,60.8,7.29,160.5,7.4,4414.6,6.19,1075.44,1801.24
+FARM_1837,Autumn,North Zone,Soybean,Conventional,366.3,23.3,66.9,6.42,122.0,9.0,5426.7,6.93,1120.62,2505.64
+FARM_1838,Rabi (Winter),West Zone,Wheat,Organic,256.0,22.6,47.8,5.69,146.5,7.1,5136.2,7.24,1116.68,2675.9
+FARM_1839,Rabi (Winter),Central Zone,Barley,Hydroponic,190.1,14.4,31.8,7.07,122.0,8.1,3767.8,7.18,977.84,2011.26
+FARM_1840,Rabi (Winter),Central Zone,Chickpea,Precision Farming,149.2,24.3,66.2,7.44,109.8,9.0,5211.4,5.99,1046.0,2498.96
+FARM_1841,Kharif (Monsoon),South Zone,Pulses,Hydroponic,906.6,26.4,82.4,5.75,192.9,10.0,6569.2,8.36,1364.45,2816.65
+FARM_1842,Rabi (Winter),South Zone,Barley,Organic,139.2,15.9,63.5,7.21,147.5,8.7,2684.5,6.57,916.83,2315.45
+FARM_1843,Kharif (Monsoon),Central Zone,Cotton,Precision Farming,771.1,31.4,77.0,6.27,101.3,2.3,3975.2,6.73,874.04,2067.94
+FARM_1844,Autumn,Central Zone,Groundnut,Precision Farming,464.7,20.1,58.3,7.56,91.8,8.3,3884.0,5.89,912.77,2152.96
+FARM_1845,Kharif (Monsoon),West Zone,Cotton,Conventional,826.7,22.0,67.1,6.96,109.9,12.2,4595.9,6.83,1062.97,2687.51
+FARM_1846,Rabi (Winter),East Zone,Mustard,Conventional,71.0,16.8,52.9,5.85,110.1,8.3,2311.3,6.15,830.24,2226.45
+FARM_1847,Kharif (Monsoon),South Zone,Rice,Conventional,899.9,27.4,81.5,6.92,145.1,12.2,6133.3,7.56,1261.87,2950.86
+FARM_1848,Autumn,East Zone,Groundnut,Precision Farming,264.0,27.1,69.2,6.57,157.0,8.2,4556.2,6.03,1096.35,2305.6
+FARM_1849,Rabi (Winter),West Zone,Barley,Conventional,136.9,20.1,53.5,5.99,157.0,4.6,4857.8,7.22,1068.15,2261.82
+FARM_1850,Rabi (Winter),Central Zone,Mustard,Organic,89.1,21.6,47.7,7.77,113.7,7.4,4718.8,5.91,985.31,2015.39
+FARM_1851,Kharif (Monsoon),East Zone,Pulses,Conventional,984.1,29.0,79.6,5.53,172.2,7.1,3880.2,8.49,1073.35,2553.86
+FARM_1852,Zaid (Summer),Central Zone,Vegetables,Hydroponic,22.5,39.6,36.4,6.34,183.0,7.9,5338.4,4.36,1211.89,1246.4
+FARM_1853,Kharif (Monsoon),Central Zone,Pulses,Precision Farming,945.2,27.7,78.6,5.53,130.9,5.5,4506.3,7.14,1031.07,2062.24
+FARM_1854,Autumn,North Zone,Jute,Hydroponic,315.4,25.1,63.1,5.76,103.9,8.5,1998.4,6.04,794.88,2488.18
+FARM_1855,Kharif (Monsoon),East Zone,Pulses,Conventional,841.7,29.3,82.5,6.3,143.5,7.7,4370.2,7.9,1057.22,3300.9
+FARM_1856,Kharif (Monsoon),East Zone,Maize,Organic,856.5,29.9,77.9,5.65,215.6,11.7,4166.9,8.34,1199.01,2446.1
+FARM_1857,Kharif (Monsoon),Central Zone,Maize,Organic,1183.7,32.5,83.8,7.11,103.0,5.5,5336.1,8.2,1013.01,2680.8
+FARM_1858,Rabi (Winter),West Zone,Wheat,Organic,72.3,20.4,52.3,5.73,121.6,9.1,7741.7,5.6,1291.89,1657.71
+FARM_1859,Rabi (Winter),North Zone,Chickpea,Organic,110.9,16.6,48.1,7.39,142.0,9.5,4953.2,6.58,1134.64,2610.89
+FARM_1860,Kharif (Monsoon),Central Zone,Rice,Conventional,926.0,32.8,84.1,5.64,159.0,10.4,7043.8,7.99,1319.38,2792.36
+FARM_1861,Zaid (Summer),South Zone,Sunflower,Organic,115.3,30.3,34.9,5.66,70.5,7.6,3676.5,3.98,861.04,1460.57
+FARM_1862,Rabi (Winter),South Zone,Barley,Conventional,112.3,22.9,53.2,6.32,185.7,9.1,3753.5,7.62,1098.02,2709.58
+FARM_1863,Rabi (Winter),North Zone,Barley,Hydroponic,157.6,20.5,43.4,7.92,185.2,9.4,4204.3,7.59,1132.86,2879.92
+FARM_1864,Rabi (Winter),West Zone,Wheat,Conventional,125.1,22.0,50.6,7.23,125.1,4.4,5010.2,5.68,1048.89,1844.17
+FARM_1865,Rabi (Winter),Central Zone,Chickpea,Precision Farming,81.5,14.4,52.7,7.58,234.7,7.7,3731.3,6.68,1148.23,1998.98
+FARM_1866,Rabi (Winter),East Zone,Wheat,Conventional,156.7,17.7,50.1,5.88,183.0,8.4,2565.8,7.1,987.62,2005.51
+FARM_1867,Kharif (Monsoon),North Zone,Maize,Organic,990.9,27.6,81.0,7.75,181.1,8.7,4527.7,8.4,1152.23,2876.13
+FARM_1868,Kharif (Monsoon),West Zone,Rice,Conventional,765.9,32.5,78.0,5.52,181.6,8.7,3128.4,7.33,998.41,2984.02
+FARM_1869,Autumn,East Zone,Sugarcane,Organic,306.0,28.1,67.0,6.08,180.6,9.6,5839.0,5.8,1262.57,1871.88
+FARM_1870,Autumn,South Zone,Jute,Conventional,320.4,19.1,69.8,7.16,139.2,13.3,5272.6,5.49,1209.4,1687.81
+FARM_1871,Rabi (Winter),South Zone,Wheat,Conventional,152.2,20.2,56.5,6.51,135.8,7.0,3588.6,6.98,958.59,2859.33
+FARM_1872,Kharif (Monsoon),East Zone,Pulses,Organic,766.1,30.7,81.0,8.16,107.0,9.5,5047.0,6.72,1038.05,1980.81
+FARM_1873,Rabi (Winter),North Zone,Barley,Organic,98.4,23.2,43.6,5.58,119.8,11.8,3842.2,5.42,1023.38,1556.91
+FARM_1874,Rabi (Winter),South Zone,Wheat,Conventional,186.0,23.9,46.1,8.2,129.1,4.0,4437.4,6.31,989.03,2543.67
+FARM_1875,Kharif (Monsoon),Central Zone,Maize,Hydroponic,831.6,27.4,79.1,7.18,142.3,9.2,4450.0,7.56,1102.62,2858.64
+FARM_1876,Kharif (Monsoon),East Zone,Rice,Precision Farming,1124.5,24.7,78.5,7.01,195.9,4.3,4097.2,8.45,1090.81,2865.31
+FARM_1877,Zaid (Summer),East Zone,Watermelon,Precision Farming,90.1,34.0,30.6,5.66,66.4,14.0,5496.8,3.87,1057.98,1491.22
+FARM_1878,Rabi (Winter),South Zone,Wheat,Organic,160.5,21.2,51.9,6.24,187.1,9.8,3157.0,7.55,1037.18,2897.7
+FARM_1879,Kharif (Monsoon),North Zone,Cotton,Precision Farming,933.2,23.9,73.4,8.0,104.6,9.5,5144.4,7.15,1080.61,2042.1
+FARM_1880,Kharif (Monsoon),Central Zone,Pulses,Precision Farming,784.0,29.8,83.8,6.46,136.3,3.8,4865.4,6.79,1037.59,2544.04
+FARM_1881,Kharif (Monsoon),North Zone,Maize,Conventional,672.7,30.2,80.8,7.29,114.6,7.2,2814.5,6.77,867.22,2503.02
+FARM_1882,Rabi (Winter),West Zone,Wheat,Hydroponic,114.8,12.7,56.8,8.2,204.9,7.3,3546.7,7.22,1093.01,2995.79
+FARM_1883,Kharif (Monsoon),West Zone,Pulses,Conventional,1043.4,28.1,75.3,6.21,122.5,12.9,3187.3,6.95,989.32,2886.52
+FARM_1884,Kharif (Monsoon),South Zone,Pulses,Hydroponic,569.8,32.6,85.2,7.06,158.3,10.3,4060.3,7.34,1091.01,2443.43
+FARM_1885,Zaid (Summer),South Zone,Vegetables,Hydroponic,66.0,39.4,42.2,7.38,160.1,4.4,4558.1,4.28,1025.07,1551.83
+FARM_1886,Kharif (Monsoon),South Zone,Maize,Organic,770.3,29.7,75.9,5.94,99.4,9.7,3385.9,6.92,940.21,2074.55
+FARM_1887,Rabi (Winter),West Zone,Barley,Conventional,110.2,21.1,61.8,5.9,136.6,4.7,5663.0,6.19,1131.52,1790.79
+FARM_1888,Kharif (Monsoon),North Zone,Pulses,Hydroponic,658.9,24.3,77.8,6.73,182.2,4.4,5769.3,7.33,1228.74,2496.52
+FARM_1889,Kharif (Monsoon),North Zone,Pulses,Organic,743.3,29.4,80.2,6.54,109.4,9.6,5981.3,6.94,1172.95,2613.49
+FARM_1890,Kharif (Monsoon),South Zone,Pulses,Conventional,1024.7,29.0,76.8,7.43,169.0,10.4,1238.3,8.1,906.09,2911.84
+FARM_1891,Zaid (Summer),Central Zone,Vegetables,Hydroponic,22.2,35.5,22.9,5.69,128.4,9.6,6837.8,3.91,1238.2,1329.99
+FARM_1892,Autumn,North Zone,Soybean,Conventional,247.4,22.8,61.4,8.12,180.7,13.2,4699.3,5.65,1215.67,2229.13
+FARM_1893,Zaid (Summer),West Zone,Watermelon,Organic,33.7,32.8,51.5,5.54,201.2,9.4,4556.8,4.89,1213.04,1913.07
+FARM_1894,Rabi (Winter),East Zone,Barley,Conventional,195.7,24.1,55.1,7.12,69.7,8.9,4377.8,6.22,896.81,2378.98
+FARM_1895,Rabi (Winter),East Zone,Chickpea,Organic,160.8,22.6,43.2,7.02,93.2,5.5,2914.5,5.59,812.0,1625.49
+FARM_1896,Kharif (Monsoon),East Zone,Cotton,Conventional,970.8,31.9,75.6,5.86,124.7,10.6,4931.7,7.59,1062.53,2971.53
+FARM_1897,Kharif (Monsoon),Central Zone,Pulses,Organic,1057.4,34.2,83.9,5.91,191.3,4.4,6434.3,8.17,1267.13,3339.23
+FARM_1898,Autumn,South Zone,Sugarcane,Conventional,347.6,21.6,72.5,7.64,158.6,13.6,4684.8,6.19,1198.26,1784.71
+FARM_1899,Kharif (Monsoon),West Zone,Rice,Conventional,696.2,29.1,82.4,7.9,96.4,10.7,3161.9,6.76,905.03,2272.94
+FARM_1900,Kharif (Monsoon),Central Zone,Maize,Precision Farming,355.6,29.2,93.1,6.26,163.8,15.5,2669.6,6.48,1032.65,2711.04
+FARM_1901,Kharif (Monsoon),West Zone,Pulses,Conventional,536.2,27.8,70.3,6.68,108.0,9.5,4147.2,6.47,995.55,2354.39
+FARM_1902,Kharif (Monsoon),West Zone,Maize,Conventional,715.9,22.2,80.8,6.46,170.5,10.8,3607.2,7.97,1083.27,2804.65
+FARM_1903,Kharif (Monsoon),South Zone,Maize,Conventional,969.0,29.2,75.3,5.7,158.9,7.8,5343.1,7.37,1166.75,2246.69
+FARM_1904,Rabi (Winter),East Zone,Wheat,Organic,125.6,19.1,47.8,7.32,107.9,8.4,6144.5,5.5,1112.12,1975.42
+FARM_1905,Rabi (Winter),South Zone,Barley,Conventional,96.8,17.0,47.4,7.73,137.7,5.9,5063.6,6.52,1078.26,2226.36
+FARM_1906,Autumn,Central Zone,Jute,Organic,332.9,28.9,83.2,6.32,182.9,4.9,4397.9,6.3,1093.24,1876.4
+FARM_1907,Zaid (Summer),Central Zone,Cucumber,Hydroponic,66.8,36.9,34.0,8.17,73.8,9.0,4341.0,3.61,956.73,1245.47
+FARM_1908,Kharif (Monsoon),Central Zone,Rice,Organic,769.4,31.9,78.6,5.7,150.5,8.4,4585.3,7.83,1086.81,2372.61
+FARM_1909,Kharif (Monsoon),South Zone,Pulses,Conventional,860.9,31.7,78.7,7.29,101.3,5.8,3108.1,7.44,890.12,2844.26
+FARM_1910,Rabi (Winter),West Zone,Barley,Conventional,210.0,20.3,58.6,6.71,139.4,6.3,5222.7,7.33,1095.48,3051.56
+FARM_1911,Rabi (Winter),West Zone,Mustard,Conventional,124.1,20.0,51.6,6.71,156.0,8.6,3203.0,6.99,980.49,2416.73
+FARM_1912,Kharif (Monsoon),North Zone,Cotton,Organic,920.4,27.7,84.8,6.74,210.5,5.8,5839.4,8.77,1245.13,3232.02
+FARM_1913,Rabi (Winter),Central Zone,Barley,Conventional,148.7,26.2,52.8,6.2,139.1,9.4,4064.1,6.44,1027.89,2191.77
+FARM_1914,Rabi (Winter),West Zone,Chickpea,Conventional,128.6,19.4,63.6,7.43,191.3,5.8,5497.0,7.01,1188.24,2098.68
+FARM_1915,Rabi (Winter),North Zone,Wheat,Precision Farming,192.8,18.7,57.7,7.45,110.6,9.1,2732.1,6.21,874.17,2582.6
+FARM_1916,Rabi (Winter),West Zone,Chickpea,Conventional,163.6,13.7,63.2,6.26,122.7,5.6,5488.5,6.39,1111.11,1905.12
+FARM_1917,Kharif (Monsoon),Central Zone,Rice,Conventional,661.3,24.8,80.3,7.76,160.5,5.6,6135.0,6.86,1168.21,2028.01
+FARM_1918,Autumn,East Zone,Jute,Conventional,274.4,27.4,68.1,6.36,147.1,2.6,2962.1,5.89,855.03,2027.83
+FARM_1919,Zaid (Summer),Central Zone,Cucumber,Conventional,62.8,31.6,40.3,7.46,128.5,8.1,4363.8,4.06,1022.91,1511.31
+FARM_1920,Kharif (Monsoon),South Zone,Pulses,Conventional,842.1,28.7,77.8,5.83,127.6,12.1,4901.9,7.52,1090.12,2479.26
+FARM_1921,Autumn,West Zone,Sugarcane,Conventional,341.8,24.0,68.0,5.96,186.7,12.0,4960.6,6.08,1207.13,1866.27
+FARM_1922,Rabi (Winter),West Zone,Barley,Organic,181.8,15.9,48.8,6.35,129.9,9.3,4092.5,6.18,1029.74,2438.97
+FARM_1923,Autumn,South Zone,Sugarcane,Organic,338.1,21.0,72.8,7.1,104.3,3.5,3881.0,5.57,889.08,1842.75
+FARM_1924,Zaid (Summer),South Zone,Watermelon,Organic,60.2,34.7,45.5,7.24,110.1,10.6,4803.9,4.2,1068.54,1290.26
+FARM_1925,Rabi (Winter),East Zone,Wheat,Organic,169.4,18.0,62.0,6.57,163.4,9.1,4923.1,6.6,1158.64,2185.34
+FARM_1926,Kharif (Monsoon),West Zone,Cotton,Conventional,749.1,30.1,74.6,5.71,219.0,7.5,3747.1,8.73,1160.59,2706.63
+FARM_1927,Kharif (Monsoon),West Zone,Maize,Conventional,926.6,27.0,73.4,6.51,121.7,11.5,3509.9,8.08,995.59,2850.0
+FARM_1928,Rabi (Winter),East Zone,Mustard,Organic,160.3,17.9,42.7,7.36,215.2,10.0,5953.7,6.81,1358.22,2543.95
+FARM_1929,Rabi (Winter),North Zone,Mustard,Hydroponic,65.5,17.4,67.9,7.31,139.6,13.4,4629.2,5.96,1134.64,2335.95
+FARM_1930,Kharif (Monsoon),East Zone,Rice,Organic,898.2,26.0,85.4,5.93,130.2,5.0,1774.0,7.59,793.93,2367.01
+FARM_1931,Kharif (Monsoon),Central Zone,Cotton,Precision Farming,986.1,31.8,83.4,5.52,108.1,5.2,5961.0,7.59,1091.26,2302.61
+FARM_1932,Zaid (Summer),West Zone,Watermelon,Conventional,77.7,37.2,35.2,7.53,133.1,5.6,3783.4,5.07,965.12,1433.51
+FARM_1933,Autumn,South Zone,Soybean,Conventional,169.0,23.4,72.7,5.79,113.5,7.8,4580.1,5.22,1018.33,1628.29
+FARM_1934,Rabi (Winter),Central Zone,Mustard,Organic,134.8,17.4,45.7,5.72,110.7,12.5,4949.8,5.98,1131.36,1694.41
+FARM_1935,Kharif (Monsoon),West Zone,Cotton,Conventional,767.3,28.0,82.5,5.51,82.2,6.9,2719.6,6.18,812.74,2029.3
+FARM_1936,Kharif (Monsoon),East Zone,Rice,Conventional,781.2,26.4,84.2,6.67,201.8,7.0,4153.4,7.51,1120.53,2255.98
+FARM_1937,Kharif (Monsoon),Central Zone,Pulses,Hydroponic,898.8,29.3,87.6,6.86,177.3,9.5,6081.1,8.08,1316.93,2918.38
+FARM_1938,Autumn,West Zone,Groundnut,Conventional,259.6,24.9,68.9,7.22,149.5,10.6,5807.2,6.6,1203.44,2202.56
+FARM_1939,Kharif (Monsoon),North Zone,Maize,Hydroponic,719.3,28.7,80.1,6.3,135.0,2.9,4151.6,7.13,959.84,2089.82
+FARM_1940,Rabi (Winter),North Zone,Barley,Organic,261.1,18.4,64.3,7.42,139.8,11.1,5359.0,6.44,1146.95,2163.72
+FARM_1941,Kharif (Monsoon),South Zone,Rice,Precision Farming,974.5,24.5,72.3,5.96,112.8,6.9,5517.0,7.7,1091.1,2381.68
+FARM_1942,Rabi (Winter),West Zone,Wheat,Conventional,159.9,23.0,57.3,7.75,100.3,8.2,5455.8,5.17,1099.76,1939.91
+FARM_1943,Rabi (Winter),North Zone,Mustard,Precision Farming,153.2,16.9,44.4,7.04,165.1,12.0,3124.8,6.85,1011.9,2267.49
+FARM_1944,Zaid (Summer),East Zone,Cucumber,Organic,40.8,30.1,29.0,7.08,130.8,8.0,6469.4,4.48,1192.99,1346.62
+FARM_1945,Kharif (Monsoon),West Zone,Rice,Conventional,771.1,30.3,77.8,6.07,151.4,4.7,3943.4,7.13,1016.37,2345.37
+FARM_1946,Kharif (Monsoon),East Zone,Rice,Conventional,888.3,28.4,82.5,5.7,81.8,4.8,4631.2,7.49,904.36,2332.48
+FARM_1947,Kharif (Monsoon),East Zone,Maize,Precision Farming,694.8,31.2,73.0,6.75,129.0,8.4,4078.5,7.37,1021.02,2884.68
+FARM_1948,Autumn,North Zone,Sugarcane,Conventional,264.2,24.9,70.3,7.16,99.6,7.7,4775.7,5.82,977.34,2430.85
+FARM_1949,Autumn,West Zone,Groundnut,Precision Farming,410.3,27.3,74.9,5.76,156.9,8.6,3462.9,5.58,1021.47,1582.31
+FARM_1950,Rabi (Winter),Central Zone,Mustard,Organic,116.8,22.8,63.1,8.07,174.8,7.5,4229.9,6.68,1094.61,2515.71
+FARM_1951,Rabi (Winter),North Zone,Wheat,Precision Farming,54.1,17.1,59.8,8.15,191.1,11.6,4719.3,7.15,1277.1,2266.22
+FARM_1952,Rabi (Winter),North Zone,Mustard,Precision Farming,129.4,13.7,71.9,6.97,118.0,8.6,5969.6,5.57,1157.57,1611.39
+FARM_1953,Kharif (Monsoon),West Zone,Cotton,Precision Farming,866.7,28.4,73.5,8.07,100.5,4.1,5824.7,7.46,1002.58,2103.79
+FARM_1954,Autumn,West Zone,Soybean,Conventional,251.0,22.3,72.6,5.98,125.3,10.5,5885.5,5.41,1171.47,2182.08
+FARM_1955,Rabi (Winter),East Zone,Mustard,Conventional,170.2,15.7,59.5,5.57,115.5,13.3,5542.4,6.53,1177.01,2151.67
+FARM_1956,Rabi (Winter),West Zone,Barley,Hydroponic,139.9,18.9,56.8,5.61,155.1,8.9,6716.0,6.66,1264.83,2792.11
+FARM_1957,Rabi (Winter),East Zone,Chickpea,Organic,166.8,19.2,58.4,7.09,90.9,9.1,4151.8,6.49,945.62,2219.14
+FARM_1958,Kharif (Monsoon),North Zone,Rice,Conventional,1038.4,29.9,78.3,5.67,78.6,6.6,4310.7,6.73,906.78,2061.15
+FARM_1959,Kharif (Monsoon),South Zone,Cotton,Conventional,835.3,31.7,80.6,8.09,127.9,7.9,4261.3,7.45,1026.74,2896.56
+FARM_1960,Zaid (Summer),Central Zone,Cucumber,Precision Farming,52.5,33.1,42.7,5.88,165.4,9.8,4426.6,3.83,1093.88,1569.19
+FARM_1961,Kharif (Monsoon),North Zone,Rice,Organic,721.8,31.9,74.8,6.32,104.0,11.3,2776.5,7.04,884.12,2775.08
+FARM_1962,Rabi (Winter),West Zone,Barley,Conventional,209.1,16.9,46.4,7.72,169.7,9.6,4817.7,7.1,1176.95,2728.73
+FARM_1963,Kharif (Monsoon),Central Zone,Rice,Precision Farming,878.4,25.1,80.2,6.09,152.8,13.0,5095.3,7.66,1179.44,2503.73
+FARM_1964,Rabi (Winter),South Zone,Wheat,Organic,126.9,21.8,56.1,6.16,194.1,8.7,4191.1,6.78,1128.75,1959.61
+FARM_1965,Kharif (Monsoon),South Zone,Cotton,Hydroponic,671.7,26.2,83.5,7.23,111.9,5.7,2391.2,6.72,783.58,2070.98
+FARM_1966,Rabi (Winter),East Zone,Wheat,Organic,201.5,17.8,46.6,6.25,83.8,5.8,4525.7,5.95,944.98,2038.19
+FARM_1967,Zaid (Summer),Central Zone,Sunflower,Conventional,81.1,37.1,53.1,6.09,160.9,11.6,2946.4,4.57,1022.96,1891.38
+FARM_1968,Kharif (Monsoon),East Zone,Cotton,Organic,893.5,26.4,82.6,6.19,149.8,11.0,5012.8,8.55,1172.31,3259.26
+FARM_1969,Rabi (Winter),North Zone,Chickpea,Organic,163.1,15.7,56.6,6.82,147.1,4.4,4643.2,6.97,1036.61,2759.84
+FARM_1970,Rabi (Winter),Central Zone,Mustard,Hydroponic,142.2,21.0,58.9,8.11,103.3,8.0,4760.8,5.68,1018.88,1810.9
+FARM_1971,Rabi (Winter),North Zone,Wheat,Conventional,107.9,13.4,54.3,7.75,167.1,8.1,3226.8,6.91,1011.93,2596.33
+FARM_1972,Autumn,East Zone,Soybean,Conventional,302.6,27.3,68.6,6.27,117.8,6.6,6013.9,5.89,1094.16,2360.37
+FARM_1973,Zaid (Summer),Central Zone,Cucumber,Organic,89.2,33.6,34.8,6.48,147.1,5.0,4704.3,4.11,1097.83,1426.65
+FARM_1974,Kharif (Monsoon),East Zone,Rice,Conventional,706.0,30.2,80.1,6.75,123.9,6.6,3402.9,7.35,943.63,2500.36
+FARM_1975,Kharif (Monsoon),Central Zone,Cotton,Conventional,572.0,28.6,81.3,8.14,152.4,6.1,5195.6,6.39,1114.95,2432.78
+FARM_1976,Kharif (Monsoon),East Zone,Rice,Conventional,828.3,28.9,73.9,5.97,98.2,5.0,4617.3,6.74,952.01,2415.53
+FARM_1977,Rabi (Winter),South Zone,Mustard,Conventional,215.6,19.5,40.8,6.47,157.5,10.6,6704.3,6.31,1323.17,2644.17
+FARM_1978,Kharif (Monsoon),East Zone,Maize,Precision Farming,849.1,29.2,74.4,7.47,163.0,9.2,3836.6,7.74,1062.76,2627.84
+FARM_1979,Rabi (Winter),South Zone,Barley,Conventional,171.3,24.7,49.8,8.1,144.1,7.3,3003.0,6.31,955.89,1922.23
+FARM_1980,Rabi (Winter),East Zone,Wheat,Conventional,167.1,18.8,62.7,5.92,197.5,3.3,4847.2,7.05,1121.67,2439.8
+FARM_1981,Kharif (Monsoon),Central Zone,Maize,Conventional,833.7,24.8,84.5,6.11,147.3,7.8,5714.7,7.93,1147.74,2481.52
+FARM_1982,Zaid (Summer),Central Zone,Sunflower,Precision Farming,39.9,40.4,45.6,6.11,172.2,9.8,7287.6,4.52,1357.28,1620.76
+FARM_1983,Kharif (Monsoon),Central Zone,Maize,Conventional,760.2,31.3,80.0,5.56,143.2,6.7,8602.3,7.65,1376.14,2276.73
+FARM_1984,Kharif (Monsoon),West Zone,Maize,Conventional,816.8,26.0,70.6,7.13,169.0,5.6,2637.5,8.49,941.23,3506.34
+FARM_1985,Zaid (Summer),North Zone,Vegetables,Conventional,72.1,30.1,32.1,7.31,86.3,8.2,4337.7,4.66,980.07,1865.75
+FARM_1986,Rabi (Winter),Central Zone,Chickpea,Hydroponic,167.3,16.0,56.3,7.13,141.2,9.3,3006.9,6.5,978.92,1961.56
+FARM_1987,Rabi (Winter),South Zone,Mustard,Conventional,101.5,16.6,56.3,5.69,100.6,3.5,4203.1,6.02,935.62,1830.89
+FARM_1988,Rabi (Winter),Central Zone,Mustard,Precision Farming,111.9,24.7,49.9,5.69,144.9,11.9,7472.7,6.33,1336.63,2226.52
+FARM_1989,Kharif (Monsoon),West Zone,Pulses,Conventional,1056.8,27.5,72.2,6.07,153.4,5.4,3516.3,8.6,966.14,3338.55
+FARM_1990,Zaid (Summer),South Zone,Watermelon,Organic,37.3,35.5,50.3,6.28,168.3,7.4,4473.7,4.79,1119.44,1488.11
+FARM_1991,Zaid (Summer),West Zone,Watermelon,Precision Farming,95.4,35.4,28.2,7.62,157.1,11.5,3803.0,4.18,1098.84,1206.08
+FARM_1992,Rabi (Winter),South Zone,Mustard,Conventional,161.1,14.7,58.1,5.93,128.2,8.8,3296.0,6.13,965.06,2184.58
+FARM_1993,Kharif (Monsoon),East Zone,Maize,Precision Farming,708.8,21.7,86.6,5.62,113.6,11.2,6651.3,7.44,1210.26,2803.57
+FARM_1994,Rabi (Winter),North Zone,Wheat,Hydroponic,140.9,18.2,63.0,6.56,58.0,12.4,2652.9,5.23,794.43,1643.32
+FARM_1995,Rabi (Winter),North Zone,Barley,Precision Farming,225.2,20.9,55.8,6.62,142.4,4.9,4401.0,6.67,1021.29,2558.4
+FARM_1996,Kharif (Monsoon),West Zone,Pulses,Organic,919.4,27.1,80.2,6.72,179.8,10.8,4605.6,8.48,1153.36,3503.0
+FARM_1997,Autumn,North Zone,Groundnut,Precision Farming,311.6,22.6,65.1,7.73,143.8,11.8,4460.3,5.73,1116.63,1714.36
+FARM_1998,Kharif (Monsoon),West Zone,Cotton,Conventional,905.1,29.6,82.2,5.76,137.0,7.6,4121.1,8.23,1042.09,2893.21
+FARM_1999,Autumn,West Zone,Jute,Precision Farming,192.9,28.7,73.0,7.4,145.0,7.8,6437.2,6.0,1222.88,1727.75
+FARM_2000,Rabi (Winter),West Zone,Barley,Conventional,146.2,19.8,53.3,6.41,126.4,3.7,1965.7,5.96,753.33,1841.24
+FARM_2001,Kharif (Monsoon),North Zone,Cotton,Precision Farming,962.8,25.6,86.7,6.34,146.8,10.5,5023.7,7.68,1131.43,2246.97
+FARM_2002,Rabi (Winter),West Zone,Barley,Conventional,178.1,20.9,54.2,8.02,125.8,2.2,5077.2,6.54,1025.91,2201.11
+FARM_2003,Autumn,North Zone,Jute,Conventional,187.0,27.7,55.3,6.17,108.5,10.9,4844.4,5.17,1073.46,2041.72
+FARM_2004,Zaid (Summer),West Zone,Sunflower,Organic,77.9,32.7,24.1,7.23,137.4,5.0,3503.0,3.49,948.04,1259.19
+FARM_2005,Zaid (Summer),Central Zone,Vegetables,Precision Farming,60.0,38.5,30.3,6.24,136.6,12.0,5946.0,3.84,1250.67,1194.86
+FARM_2006,Rabi (Winter),West Zone,Wheat,Conventional,214.0,20.6,56.3,6.87,205.6,9.5,5886.0,7.57,1311.88,2162.11
+FARM_2007,Rabi (Winter),South Zone,Barley,Conventional,132.6,16.5,58.4,7.62,111.8,11.0,3460.7,6.42,966.72,2294.99
+FARM_2008,Zaid (Summer),West Zone,Vegetables,Precision Farming,76.9,33.2,31.9,7.88,134.4,6.5,3062.5,4.56,931.71,1361.58
+FARM_2009,Kharif (Monsoon),East Zone,Pulses,Conventional,817.9,32.2,73.9,7.76,131.0,5.2,2830.7,8.14,850.82,2669.78
+FARM_2010,Rabi (Winter),West Zone,Chickpea,Organic,195.7,18.2,41.8,7.07,124.3,4.1,4770.5,6.14,995.62,2157.76
+FARM_2011,Kharif (Monsoon),South Zone,Cotton,Conventional,780.8,29.8,89.0,6.17,158.0,11.2,4556.1,7.36,1118.78,2992.01
+FARM_2012,Autumn,South Zone,Groundnut,Conventional,193.8,16.5,55.8,7.29,218.3,10.2,4066.7,6.35,1203.31,1850.74
+FARM_2013,Autumn,North Zone,Soybean,Conventional,390.4,19.6,75.5,7.42,128.8,10.2,6997.6,5.16,1246.16,1927.8
+FARM_2014,Kharif (Monsoon),Central Zone,Pulses,Organic,1032.2,28.6,76.9,5.53,158.1,9.2,3946.7,8.12,1072.25,2289.61
+FARM_2015,Zaid (Summer),West Zone,Sunflower,Organic,61.1,36.8,44.6,6.69,73.1,9.9,4725.0,3.62,973.5,1332.84
+FARM_2016,Autumn,North Zone,Groundnut,Conventional,439.2,24.2,55.9,7.78,126.2,7.8,4266.8,6.19,1004.68,2211.16
+FARM_2017,Kharif (Monsoon),Central Zone,Pulses,Precision Farming,628.4,23.0,81.0,6.82,194.4,9.4,6855.7,8.09,1379.79,3184.72
+FARM_2018,Rabi (Winter),West Zone,Wheat,Organic,140.6,18.1,50.7,6.34,138.1,6.4,2112.4,6.58,817.18,2332.17
+FARM_2019,Autumn,East Zone,Sugarcane,Conventional,211.2,26.8,47.8,7.85,157.6,7.6,4128.1,5.72,1045.84,1883.98
+FARM_2020,Kharif (Monsoon),West Zone,Rice,Hydroponic,729.8,30.4,75.5,5.92,118.2,16.1,5237.1,7.16,1233.63,2248.13
+FARM_2021,Rabi (Winter),South Zone,Barley,Organic,165.7,14.8,51.4,6.06,149.0,8.6,4233.1,6.3,1097.05,1839.19
+FARM_2022,Kharif (Monsoon),South Zone,Cotton,Conventional,936.2,24.2,83.7,7.36,197.1,3.6,2934.8,8.39,946.21,2977.16
+FARM_2023,Autumn,East Zone,Soybean,Precision Farming,303.7,28.8,66.5,6.45,99.4,7.5,4711.9,5.36,985.46,2167.4
+FARM_2024,Autumn,North Zone,Sugarcane,Hydroponic,214.4,30.2,58.1,7.43,216.5,5.9,2554.4,6.35,1015.64,2235.61
+FARM_2025,Autumn,Central Zone,Jute,Precision Farming,281.8,27.9,51.8,5.93,85.9,8.9,5304.3,5.06,1007.5,1940.38
+FARM_2026,Rabi (Winter),West Zone,Chickpea,Precision Farming,207.6,13.4,51.4,6.18,123.0,6.3,4004.1,6.16,1007.42,1982.17
+FARM_2027,Autumn,South Zone,Groundnut,Precision Farming,323.1,24.9,70.5,5.92,110.7,8.0,3802.2,5.07,949.75,1737.68
+FARM_2028,Zaid (Summer),North Zone,Watermelon,Conventional,28.0,37.2,48.1,8.07,130.5,6.7,5755.4,3.98,1121.35,1295.27
+FARM_2029,Kharif (Monsoon),East Zone,Maize,Precision Farming,1004.4,23.2,72.7,6.59,110.3,9.0,3296.1,7.84,927.75,2315.13
+FARM_2030,Zaid (Summer),South Zone,Cucumber,Organic,53.2,30.9,22.0,6.41,107.6,6.9,2649.0,3.28,846.15,1109.88
+FARM_2031,Kharif (Monsoon),East Zone,Pulses,Hydroponic,792.2,28.7,94.0,5.54,98.5,9.4,3407.4,6.69,895.45,2589.03
+FARM_2032,Rabi (Winter),West Zone,Mustard,Conventional,171.9,25.0,54.6,5.91,162.5,13.4,6956.4,7.62,1385.85,2554.96
+FARM_2033,Kharif (Monsoon),Central Zone,Rice,Conventional,933.9,27.6,93.4,6.64,131.7,5.6,3295.6,7.61,921.26,2823.5
+FARM_2034,Kharif (Monsoon),South Zone,Pulses,Conventional,747.2,26.4,84.0,5.68,122.5,10.3,4938.6,7.14,1115.51,2757.51
+FARM_2035,Kharif (Monsoon),South Zone,Cotton,Precision Farming,881.1,26.7,84.8,6.88,149.9,2.4,5512.0,8.51,1077.65,2767.31
+FARM_2036,Rabi (Winter),West Zone,Barley,Organic,148.4,17.8,56.8,6.73,87.7,7.9,3372.3,5.97,836.72,2338.16
+FARM_2037,Kharif (Monsoon),North Zone,Maize,Precision Farming,589.9,23.2,85.4,7.57,150.7,9.1,3373.9,7.22,1028.82,2364.19
+FARM_2038,Zaid (Summer),Central Zone,Sunflower,Precision Farming,46.5,34.6,56.1,7.28,136.7,6.6,4716.2,3.84,1067.76,1212.88
+FARM_2039,Kharif (Monsoon),South Zone,Pulses,Organic,836.8,27.4,84.5,6.7,137.8,4.0,4770.4,7.66,1051.4,2383.35
+FARM_2040,Kharif (Monsoon),Central Zone,Cotton,Precision Farming,760.3,31.6,84.4,6.11,158.2,8.4,6117.1,7.56,1249.53,2328.38
+FARM_2041,Rabi (Winter),South Zone,Chickpea,Precision Farming,223.2,15.2,65.9,7.46,197.5,12.3,3576.9,7.74,1140.04,2965.95
+FARM_2042,Zaid (Summer),Central Zone,Sunflower,Conventional,71.1,31.0,14.0,7.41,151.3,8.1,4047.3,4.88,1036.4,1972.75
+FARM_2043,Kharif (Monsoon),East Zone,Pulses,Conventional,730.3,28.9,82.2,5.91,133.0,9.9,7906.1,7.2,1338.82,2248.49
+FARM_2044,Rabi (Winter),South Zone,Mustard,Conventional,147.6,17.8,54.0,7.97,98.6,11.3,2348.8,6.04,862.24,1763.28
+FARM_2045,Autumn,Central Zone,Groundnut,Organic,382.5,20.7,66.9,5.67,56.3,14.7,2102.8,4.25,801.29,1376.69
+FARM_2046,Rabi (Winter),North Zone,Wheat,Conventional,117.1,14.4,64.4,5.65,144.5,5.9,2840.4,5.5,871.13,2046.54
+FARM_2047,Kharif (Monsoon),East Zone,Maize,Hydroponic,702.5,27.6,89.8,6.01,95.9,6.1,5821.9,7.14,1059.55,2367.57
+FARM_2048,Kharif (Monsoon),East Zone,Pulses,Organic,975.7,26.6,78.1,7.96,51.1,7.8,3974.1,5.78,881.4,2062.79
+FARM_2049,Autumn,North Zone,Groundnut,Precision Farming,201.8,28.9,72.1,6.9,127.7,10.0,3973.6,5.57,1018.22,2140.01
+FARM_2050,Kharif (Monsoon),Central Zone,Rice,Conventional,953.0,30.4,76.1,7.63,148.4,2.7,3341.7,7.81,961.3,2633.43
+FARM_2051,Autumn,West Zone,Soybean,Conventional,176.2,26.7,71.2,6.12,166.1,10.1,5602.1,6.26,1199.45,2628.93
+FARM_2052,Rabi (Winter),North Zone,Barley,Precision Farming,214.3,17.2,52.2,6.82,177.1,8.9,2858.9,7.11,1010.99,2287.38
+FARM_2053,Autumn,Central Zone,Jute,Precision Farming,280.9,27.0,63.0,6.47,170.6,7.2,3802.2,6.77,1027.62,2822.78
+FARM_2054,Zaid (Summer),North Zone,Cucumber,Conventional,59.0,37.5,33.7,7.74,171.6,9.6,3389.2,4.42,1027.65,1363.23
+FARM_2055,Autumn,North Zone,Groundnut,Conventional,411.3,26.9,52.0,5.56,88.6,10.7,1293.3,5.85,724.74,1728.85
+FARM_2056,Rabi (Winter),South Zone,Chickpea,Conventional,129.4,9.9,53.4,6.16,134.8,11.1,3926.1,5.76,1083.7,2218.27
+FARM_2057,Zaid (Summer),Central Zone,Vegetables,Organic,50.0,37.5,31.2,5.91,160.3,8.5,4429.0,3.47,1090.25,1312.78
+FARM_2058,Rabi (Winter),West Zone,Barley,Conventional,165.5,20.3,57.1,7.82,141.6,9.3,3569.4,6.48,988.2,2550.29
+FARM_2059,Rabi (Winter),South Zone,Barley,Conventional,195.6,26.3,55.9,6.76,134.6,9.2,4178.1,5.99,1037.07,1965.33
+FARM_2060,Rabi (Winter),North Zone,Wheat,Conventional,166.2,14.5,46.8,6.59,141.0,11.6,4208.8,6.53,1074.97,2679.34
+FARM_2061,Autumn,North Zone,Jute,Precision Farming,382.7,27.7,57.8,6.71,148.6,9.5,4340.4,5.87,1094.36,1741.79
+FARM_2062,Autumn,North Zone,Sugarcane,Conventional,195.3,23.1,64.0,8.12,137.3,10.1,3235.1,5.68,936.54,1614.48
+FARM_2063,Zaid (Summer),Central Zone,Cucumber,Conventional,51.8,35.5,49.2,7.8,110.4,10.7,3166.2,3.53,911.67,1136.94
+FARM_2064,Rabi (Winter),Central Zone,Chickpea,Conventional,168.5,20.1,35.4,7.41,80.4,13.4,4556.3,5.95,1036.92,2330.17
+FARM_2065,Rabi (Winter),South Zone,Barley,Precision Farming,85.4,14.8,49.9,6.28,132.9,7.0,2728.7,6.58,882.09,2462.35
+FARM_2066,Zaid (Summer),West Zone,Sunflower,Precision Farming,76.8,32.4,46.7,5.95,142.0,12.6,4243.0,4.2,1080.74,1432.49
+FARM_2067,Kharif (Monsoon),South Zone,Pulses,Conventional,732.2,24.4,74.2,7.99,141.6,14.7,6462.6,7.45,1282.08,2353.27
+FARM_2068,Kharif (Monsoon),East Zone,Cotton,Precision Farming,1188.7,25.6,83.5,6.64,173.4,7.2,4453.4,8.36,1119.12,2410.17
+FARM_2069,Rabi (Winter),North Zone,Barley,Conventional,87.7,23.7,57.8,6.25,179.6,8.0,2308.1,6.67,966.97,2182.76
+FARM_2070,Kharif (Monsoon),North Zone,Maize,Conventional,891.1,29.2,82.6,6.77,136.4,7.4,4715.8,7.11,1081.01,2448.7
+FARM_2071,Kharif (Monsoon),North Zone,Rice,Conventional,971.4,26.2,76.7,7.98,136.6,10.1,5482.2,8.69,1132.93,3269.03
+FARM_2072,Kharif (Monsoon),South Zone,Rice,Conventional,857.4,30.1,79.7,6.55,160.1,3.8,3545.6,8.33,943.47,3085.73
+FARM_2073,Kharif (Monsoon),South Zone,Pulses,Precision Farming,966.1,29.9,78.9,7.02,154.9,7.3,4141.3,8.69,1069.94,3585.74
+FARM_2074,Kharif (Monsoon),North Zone,Cotton,Precision Farming,587.9,26.5,88.7,7.67,124.5,7.8,3446.8,7.25,947.75,2131.9
+FARM_2075,Autumn,South Zone,Soybean,Organic,327.2,23.1,66.8,6.65,163.1,7.6,3945.4,5.81,1038.2,1900.38
+FARM_2076,Rabi (Winter),Central Zone,Mustard,Conventional,177.1,15.4,64.9,6.13,134.9,7.6,3701.3,5.86,976.61,2035.89
+FARM_2077,Rabi (Winter),Central Zone,Mustard,Conventional,169.8,13.6,61.9,8.19,135.6,7.3,5022.8,6.21,1058.58,2321.9
+FARM_2078,Rabi (Winter),South Zone,Mustard,Organic,133.6,17.3,46.9,8.08,155.2,10.4,6489.9,6.74,1263.24,2354.71
+FARM_2079,Kharif (Monsoon),North Zone,Maize,Organic,944.7,27.6,83.4,7.78,129.5,9.8,4568.7,7.52,1069.85,3066.55
+FARM_2080,Autumn,South Zone,Sugarcane,Conventional,255.9,23.0,59.8,7.36,143.3,12.8,2649.9,4.81,980.15,1756.68
+FARM_2081,Zaid (Summer),South Zone,Watermelon,Organic,67.9,33.0,38.0,6.3,150.4,10.4,7535.3,4.66,1347.22,1330.68
+FARM_2082,Kharif (Monsoon),South Zone,Rice,Organic,772.2,29.3,71.3,7.97,168.6,5.8,5199.5,7.02,1134.72,2077.3
+FARM_2083,Rabi (Winter),East Zone,Barley,Conventional,159.9,24.9,64.9,6.24,166.2,8.1,5443.8,6.66,1196.2,2567.36
+FARM_2084,Autumn,Central Zone,Groundnut,Conventional,250.7,26.5,67.1,7.66,149.3,7.8,4423.5,6.43,1064.39,2444.75
+FARM_2085,Autumn,West Zone,Soybean,Precision Farming,417.6,17.5,72.8,7.98,48.7,9.1,4779.3,5.01,920.7,1510.46
+FARM_2086,Rabi (Winter),West Zone,Barley,Conventional,139.3,15.0,48.8,7.13,148.5,11.2,4089.8,7.0,1064.07,2017.73
+FARM_2087,Rabi (Winter),East Zone,Mustard,Hydroponic,98.0,15.5,46.4,7.67,153.9,9.0,5584.4,6.64,1146.04,2397.18
+FARM_2088,Kharif (Monsoon),South Zone,Rice,Conventional,877.0,29.8,78.7,7.64,161.0,9.0,3927.1,7.45,1074.68,2749.08
+FARM_2089,Autumn,East Zone,Jute,Precision Farming,420.0,23.4,62.8,6.02,106.5,8.5,5087.2,5.94,1080.32,1775.72
+FARM_2090,Kharif (Monsoon),East Zone,Rice,Precision Farming,779.1,29.8,83.5,7.3,65.7,10.5,5663.3,6.53,1031.16,2261.38
+FARM_2091,Autumn,North Zone,Soybean,Conventional,339.6,24.6,55.6,5.75,168.2,7.1,5995.1,5.5,1191.93,1775.49
+FARM_2092,Rabi (Winter),Central Zone,Mustard,Conventional,137.2,23.9,63.1,6.87,97.1,4.9,5738.3,5.27,1029.76,2162.72
+FARM_2093,Rabi (Winter),West Zone,Chickpea,Precision Farming,161.8,16.5,54.9,5.94,182.8,10.1,3271.7,7.17,1067.88,2227.63
+FARM_2094,Rabi (Winter),South Zone,Mustard,Organic,134.8,22.8,48.3,6.62,119.7,9.4,6387.3,7.06,1179.68,2701.55
+FARM_2095,Kharif (Monsoon),West Zone,Rice,Conventional,988.6,26.4,86.6,7.75,104.0,11.8,5297.1,7.01,1092.31,2471.3
+FARM_2096,Kharif (Monsoon),West Zone,Maize,Conventional,914.0,25.8,78.5,8.17,152.2,2.4,4866.7,7.39,1040.87,2081.12
+FARM_2097,Kharif (Monsoon),Central Zone,Pulses,Conventional,956.7,26.5,80.1,6.36,161.6,8.2,5005.1,8.23,1142.23,2900.09
+FARM_2098,Kharif (Monsoon),West Zone,Pulses,Organic,773.1,33.3,89.7,6.94,159.5,8.8,4309.9,7.11,1094.43,2089.81
+FARM_2099,Zaid (Summer),West Zone,Watermelon,Hydroponic,89.3,34.6,36.0,6.88,157.6,4.7,3940.1,5.41,999.58,2013.97
+FARM_2100,Rabi (Winter),East Zone,Barley,Conventional,118.8,24.1,62.4,8.08,115.2,8.3,4057.8,5.66,975.18,2032.92
+FARM_2101,Kharif (Monsoon),Central Zone,Maize,Conventional,996.8,27.3,71.2,6.79,86.6,11.5,6045.8,7.11,1088.63,2001.18
+FARM_2102,Autumn,North Zone,Groundnut,Hydroponic,177.8,25.2,61.3,7.39,126.4,13.7,4597.3,5.04,1128.53,1555.63
+FARM_2103,Autumn,South Zone,Soybean,Conventional,249.0,26.0,72.1,7.99,99.9,11.0,4838.1,5.55,1053.38,2157.13
+FARM_2104,Autumn,West Zone,Soybean,Hydroponic,243.9,21.1,60.3,6.51,155.1,7.7,4572.2,6.68,1117.51,2128.3
+FARM_2105,Autumn,South Zone,Jute,Conventional,216.5,26.8,65.0,7.94,170.6,11.7,3698.5,5.57,1103.02,1948.94
+FARM_2106,Kharif (Monsoon),North Zone,Pulses,Organic,1132.1,30.2,89.1,7.98,146.0,10.8,1923.8,8.58,894.66,2777.17
+FARM_2107,Rabi (Winter),South Zone,Mustard,Precision Farming,93.8,5.0,56.9,8.01,140.0,7.3,5422.5,5.74,1093.49,2347.74
+FARM_2108,Zaid (Summer),North Zone,Sunflower,Conventional,62.5,34.6,41.0,6.23,129.1,7.0,5295.3,4.55,1057.94,1615.8
+FARM_2109,Rabi (Winter),East Zone,Wheat,Precision Farming,105.0,20.3,60.9,6.58,174.3,8.1,4486.3,7.52,1140.57,2838.53
+FARM_2110,Kharif (Monsoon),West Zone,Rice,Hydroponic,670.0,26.9,78.5,7.85,75.9,5.9,3191.7,6.96,823.72,2030.14
+FARM_2111,Zaid (Summer),North Zone,Cucumber,Precision Farming,46.6,31.5,40.1,6.47,97.8,7.7,6685.0,3.93,1182.8,1122.59
+FARM_2112,Kharif (Monsoon),South Zone,Pulses,Conventional,889.1,26.2,74.5,7.12,203.9,9.7,4090.6,8.0,1179.56,2530.34
+FARM_2113,Kharif (Monsoon),West Zone,Maize,Precision Farming,911.6,25.7,78.5,5.82,96.1,11.1,4797.9,7.17,1032.5,2317.91
+FARM_2114,Rabi (Winter),East Zone,Chickpea,Conventional,132.6,23.0,49.2,5.65,158.6,7.6,3656.2,6.48,972.59,2438.26
+FARM_2115,Rabi (Winter),West Zone,Chickpea,Conventional,219.0,21.0,69.6,6.61,165.8,12.0,2880.3,6.81,1034.59,2449.41
+FARM_2116,Rabi (Winter),North Zone,Barley,Precision Farming,176.6,17.1,47.7,7.06,72.6,10.1,5207.6,5.8,998.43,1928.16
+FARM_2117,Kharif (Monsoon),East Zone,Cotton,Organic,796.7,32.5,79.8,6.56,79.3,10.2,2699.0,6.74,827.85,2504.43
+FARM_2118,Autumn,South Zone,Jute,Precision Farming,352.9,25.6,66.7,7.06,184.3,6.2,4774.8,6.63,1146.34,2008.22
+FARM_2119,Kharif (Monsoon),East Zone,Maize,Precision Farming,893.2,29.5,75.9,6.89,105.9,13.0,4778.3,7.58,1066.59,2189.78
+FARM_2120,Kharif (Monsoon),East Zone,Cotton,Precision Farming,808.8,28.9,80.8,7.35,106.9,9.9,3156.3,7.07,897.03,2825.39
+FARM_2121,Autumn,Central Zone,Jute,Conventional,263.1,26.2,59.6,7.25,121.8,7.7,2944.3,5.67,890.61,2035.26
+FARM_2122,Autumn,East Zone,Sugarcane,Precision Farming,202.2,25.9,56.6,6.65,106.0,7.2,3575.5,5.74,872.7,2128.81
+FARM_2123,Autumn,East Zone,Groundnut,Conventional,322.4,19.1,59.9,6.65,158.4,7.7,3746.9,5.8,1006.92,1873.48
+FARM_2124,Zaid (Summer),West Zone,Sunflower,Precision Farming,53.4,30.2,36.3,5.88,98.6,6.0,2664.3,3.87,791.16,1285.13
+FARM_2125,Rabi (Winter),South Zone,Barley,Organic,197.4,12.9,52.2,6.89,71.2,11.0,3149.8,5.35,857.08,1559.69
+FARM_2126,Rabi (Winter),West Zone,Chickpea,Organic,218.1,13.8,66.2,7.09,180.5,6.2,4591.1,7.36,1097.72,2943.84
+FARM_2127,Kharif (Monsoon),West Zone,Rice,Conventional,808.1,28.3,86.5,6.79,100.3,9.2,6887.5,7.12,1182.01,2584.14
+FARM_2128,Rabi (Winter),North Zone,Wheat,Conventional,130.6,20.5,62.1,6.38,113.7,7.4,5709.2,6.3,1090.96,1837.76
+FARM_2129,Rabi (Winter),West Zone,Barley,Conventional,124.0,15.0,53.2,7.45,169.0,10.2,4692.6,6.38,1194.37,2505.01
+FARM_2130,Kharif (Monsoon),Central Zone,Rice,Precision Farming,820.4,24.8,76.8,5.7,142.5,10.5,5854.0,7.79,1216.34,2665.55
+FARM_2131,Zaid (Summer),Central Zone,Sunflower,Conventional,-9.3,34.0,48.9,7.97,178.9,6.9,5886.6,4.46,1223.28,1726.53
+FARM_2132,Rabi (Winter),North Zone,Mustard,Conventional,83.3,16.1,74.5,5.56,169.6,8.4,4134.0,7.02,1095.93,1978.0
+FARM_2133,Kharif (Monsoon),South Zone,Pulses,Organic,846.6,32.1,74.9,8.1,124.1,4.9,4809.5,7.13,1035.3,2025.09
+FARM_2134,Kharif (Monsoon),South Zone,Maize,Conventional,917.3,24.5,82.0,6.75,175.8,12.8,5673.5,8.43,1279.03,2561.96
+FARM_2135,Rabi (Winter),West Zone,Barley,Conventional,183.7,20.4,52.2,6.61,145.9,11.2,5837.4,6.83,1192.92,2114.08
+FARM_2136,Kharif (Monsoon),West Zone,Maize,Organic,891.2,28.9,83.3,6.19,119.1,5.0,5848.9,8.03,1089.61,3107.24
+FARM_2137,Autumn,West Zone,Sugarcane,Conventional,290.1,27.8,75.0,5.53,150.2,6.3,3267.6,5.73,938.18,2171.31
+FARM_2138,Rabi (Winter),South Zone,Chickpea,Organic,137.3,18.2,47.8,6.24,94.2,8.2,5910.1,5.65,1083.68,2069.33
+FARM_2139,Rabi (Winter),East Zone,Mustard,Organic,163.6,19.4,55.5,5.8,169.2,8.6,6729.7,6.64,1292.89,2681.76
+FARM_2140,Rabi (Winter),Central Zone,Chickpea,Conventional,155.3,25.7,31.9,7.28,164.6,6.8,6292.1,6.36,1252.2,2000.86
+FARM_2141,Zaid (Summer),East Zone,Vegetables,Organic,50.1,34.0,54.6,6.36,144.2,5.6,3197.4,4.08,917.14,1659.0
+FARM_2142,Kharif (Monsoon),East Zone,Cotton,Precision Farming,921.3,29.5,86.3,7.57,72.9,9.5,2895.6,6.01,809.17,2448.03
+FARM_2143,Rabi (Winter),South Zone,Wheat,Precision Farming,142.8,20.6,50.8,6.06,180.4,12.8,5058.3,7.5,1219.24,2555.97
+FARM_2144,Rabi (Winter),East Zone,Barley,Conventional,107.9,25.2,58.0,7.93,155.3,8.6,6269.8,7.28,1222.58,2134.6
+FARM_2145,Kharif (Monsoon),North Zone,Maize,Hydroponic,946.7,24.8,82.6,6.91,139.2,7.8,4771.4,7.74,1069.15,2954.5
+FARM_2146,Autumn,West Zone,Jute,Conventional,442.3,24.2,56.2,5.81,133.7,7.5,4218.0,6.13,1024.74,2005.55
+FARM_2147,Zaid (Summer),North Zone,Watermelon,Conventional,63.7,31.9,24.4,6.58,121.2,5.8,4391.8,4.18,972.92,1635.59
+FARM_2148,Rabi (Winter),Central Zone,Chickpea,Hydroponic,120.6,16.0,47.1,6.06,127.9,6.8,5724.6,5.72,1122.4,1732.68
+FARM_2149,Autumn,West Zone,Groundnut,Organic,406.1,30.7,69.3,6.04,166.9,11.3,4114.1,6.66,1118.21,2367.84
+FARM_2150,Autumn,East Zone,Jute,Hydroponic,330.7,24.6,58.7,6.87,121.9,3.3,5077.1,6.12,1026.57,2148.92
+FARM_2151,Zaid (Summer),Central Zone,Cucumber,Organic,92.1,34.8,35.4,7.31,130.4,8.7,4343.6,3.81,1032.09,1120.31
+FARM_2152,Zaid (Summer),West Zone,Watermelon,Conventional,80.3,34.8,49.8,7.96,135.5,8.6,3434.0,4.34,988.16,1435.96
+FARM_2153,Rabi (Winter),East Zone,Mustard,Organic,133.6,22.1,62.8,6.86,136.5,8.8,3340.0,6.31,975.82,1841.67
+FARM_2154,Rabi (Winter),North Zone,Wheat,Precision Farming,203.0,15.2,54.3,8.11,118.4,10.3,5130.4,6.73,1103.81,2322.28
+FARM_2155,Rabi (Winter),West Zone,Barley,Conventional,227.9,17.0,61.5,8.04,134.0,8.7,1253.5,6.49,784.38,2583.06
+FARM_2156,Zaid (Summer),East Zone,Watermelon,Precision Farming,105.8,29.5,37.2,7.84,152.0,7.4,5075.1,4.38,1123.51,1392.09
+FARM_2157,Kharif (Monsoon),North Zone,Rice,Conventional,850.3,22.6,77.7,6.85,108.3,6.9,4295.3,7.95,977.96,3077.29
+FARM_2158,Autumn,Central Zone,Jute,Conventional,222.3,27.6,52.9,5.88,134.2,11.7,5635.3,4.99,1171.39,1525.34
+FARM_2159,Autumn,Central Zone,Soybean,Organic,451.1,27.1,57.6,6.09,207.6,11.1,5221.8,6.87,1298.51,2571.6
+FARM_2160,Kharif (Monsoon),Central Zone,Cotton,Conventional,1004.0,29.8,79.8,7.25,137.8,15.7,4553.5,7.94,1203.1,3240.91
+FARM_2161,Zaid (Summer),Central Zone,Watermelon,Hydroponic,45.6,36.6,41.2,6.64,107.4,7.8,3219.2,3.72,881.34,1210.3
+FARM_2162,Kharif (Monsoon),South Zone,Cotton,Conventional,746.6,24.0,75.7,5.9,103.3,6.9,3284.1,7.7,872.19,3126.64
+FARM_2163,Kharif (Monsoon),West Zone,Rice,Precision Farming,774.5,31.5,84.3,6.79,95.7,9.6,3726.0,7.04,927.07,2469.34
+FARM_2164,Zaid (Summer),West Zone,Vegetables,Precision Farming,51.0,33.8,49.9,5.55,196.9,9.6,5542.3,4.94,1236.57,1602.3
+FARM_2165,Kharif (Monsoon),South Zone,Pulses,Conventional,890.1,28.8,76.5,7.48,175.3,10.1,6622.4,8.39,1298.87,3402.24
+FARM_2166,Zaid (Summer),East Zone,Sunflower,Conventional,57.5,35.0,39.1,5.7,94.9,10.6,4895.9,3.7,1056.98,1052.6
+FARM_2167,Zaid (Summer),East Zone,Vegetables,Organic,74.7,37.3,30.8,7.2,147.5,10.1,3792.9,4.85,1038.06,1377.02
+FARM_2168,Rabi (Winter),Central Zone,Mustard,Organic,130.0,15.3,66.1,7.64,182.9,11.2,3918.0,7.36,1165.23,2678.86
+FARM_2169,Kharif (Monsoon),North Zone,Rice,Organic,1188.0,26.6,79.2,5.86,138.6,11.5,3973.2,8.25,1049.78,3230.25
+FARM_2170,Kharif (Monsoon),East Zone,Pulses,Conventional,976.3,25.9,84.3,6.9,122.8,11.6,5748.1,8.06,1177.98,3104.84
+FARM_2171,Rabi (Winter),North Zone,Mustard,Conventional,149.2,11.0,44.6,7.6,218.4,2.8,3949.7,7.93,1075.23,2308.63
+FARM_2172,Autumn,West Zone,Sugarcane,Conventional,273.0,28.7,58.8,6.2,73.3,9.1,4447.6,5.32,944.54,2197.35
+FARM_2173,Rabi (Winter),North Zone,Chickpea,Conventional,128.6,18.8,41.6,5.94,232.1,6.2,6113.8,7.22,1333.01,2732.26
+FARM_2174,Kharif (Monsoon),West Zone,Pulses,Conventional,894.8,23.4,82.8,6.41,142.1,11.1,3819.0,7.67,1002.88,3166.76
+FARM_2175,Rabi (Winter),South Zone,Barley,Conventional,117.6,14.2,57.2,7.0,185.2,2.8,5168.5,7.17,1113.81,2337.95
+FARM_2176,Rabi (Winter),South Zone,Wheat,Precision Farming,181.8,19.5,56.7,7.05,98.0,12.2,5580.5,6.15,1131.6,2319.48
+FARM_2177,Zaid (Summer),Central Zone,Cucumber,Organic,64.4,36.1,44.5,5.85,114.6,6.3,4576.1,3.72,1010.09,1489.46
+FARM_2178,Kharif (Monsoon),East Zone,Maize,Organic,790.9,30.0,76.0,6.74,102.2,5.8,6844.9,6.9,1125.77,2299.53
+FARM_2179,Zaid (Summer),Central Zone,Cucumber,Precision Farming,81.8,37.3,61.8,6.22,136.5,9.4,6498.5,4.4,1220.99,1826.35
+FARM_2180,Rabi (Winter),West Zone,Wheat,Conventional,170.6,21.6,42.5,7.77,150.8,7.6,4815.7,6.02,1050.05,1908.94
+FARM_2181,Autumn,Central Zone,Soybean,Conventional,375.3,28.5,75.5,6.35,177.3,12.9,3535.4,6.32,1107.36,2048.85
+FARM_2182,Kharif (Monsoon),North Zone,Maize,Conventional,868.1,27.0,74.6,7.76,80.1,11.9,3592.1,7.17,949.65,2931.43
+FARM_2183,Rabi (Winter),West Zone,Mustard,Conventional,110.1,17.9,41.0,6.66,145.5,7.2,4755.2,6.58,1105.04,2735.65
+FARM_2184,Autumn,South Zone,Jute,Organic,238.5,25.3,65.5,7.46,171.3,11.1,3192.0,5.61,1072.37,1794.79
+FARM_2185,Kharif (Monsoon),East Zone,Cotton,Conventional,704.6,24.3,74.6,6.88,177.9,7.1,4822.7,7.42,1152.18,2219.28
+FARM_2186,Autumn,West Zone,Sugarcane,Conventional,282.3,31.4,72.4,7.18,124.6,7.1,6525.7,6.16,1204.85,2379.41
+FARM_2187,Rabi (Winter),West Zone,Wheat,Conventional,158.6,20.2,63.1,6.57,125.0,10.3,4575.0,5.96,1060.67,2444.51
+FARM_2188,Kharif (Monsoon),North Zone,Maize,Precision Farming,951.3,27.1,75.8,7.57,136.8,12.1,4477.3,8.23,1089.62,2996.54
+FARM_2189,Kharif (Monsoon),East Zone,Cotton,Precision Farming,831.2,31.0,78.6,6.65,146.5,7.4,5523.8,7.37,1167.21,2718.3
+FARM_2190,Zaid (Summer),South Zone,Sunflower,Conventional,37.9,29.8,38.8,6.74,185.6,7.6,5129.8,5.07,1191.27,1961.14
+FARM_2191,Kharif (Monsoon),West Zone,Pulses,Precision Farming,696.2,26.7,87.3,6.9,97.6,9.3,3122.0,6.96,850.66,2097.97
+FARM_2192,Rabi (Winter),West Zone,Mustard,Conventional,147.8,15.0,57.5,7.75,112.5,6.3,3953.7,5.96,968.28,2481.06
+FARM_2193,Kharif (Monsoon),North Zone,Maize,Conventional,1138.1,27.6,68.2,7.28,93.4,12.4,6772.7,7.0,1204.51,2317.04
+FARM_2194,Rabi (Winter),Central Zone,Barley,Precision Farming,176.0,19.4,55.7,6.44,155.0,6.2,4890.5,6.9,1081.74,2538.88
+FARM_2195,Kharif (Monsoon),South Zone,Cotton,Conventional,817.1,25.6,87.6,7.31,178.5,6.9,3292.3,8.02,1037.35,2771.76
+FARM_2196,Autumn,East Zone,Jute,Conventional,152.9,24.1,62.7,7.23,90.3,12.9,4269.8,5.1,1025.96,1762.28
+FARM_2197,Autumn,West Zone,Sugarcane,Organic,368.3,28.7,63.4,8.01,143.1,9.0,2360.9,6.09,885.76,2304.36
+FARM_2198,Autumn,West Zone,Sugarcane,Conventional,315.4,25.8,72.4,7.77,176.0,13.4,2271.0,5.61,1005.67,2352.01
+FARM_2199,Zaid (Summer),South Zone,Cucumber,Precision Farming,80.7,33.4,44.4,7.25,167.5,8.0,5678.7,4.68,1182.98,1742.22
+FARM_2200,Kharif (Monsoon),Central Zone,Rice,Precision Farming,907.5,27.7,81.9,6.42,167.0,14.8,4494.6,8.32,1170.2,3254.52
